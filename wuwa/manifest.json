@@ -1,0 +1,201 @@
+{
+  "tiers": [
+    {
+      "id": "s",
+      "name": "S Tier",
+      "color": "#ff7f7f"
+    },
+    {
+      "id": "a",
+      "name": "A Tier",
+      "color": "#ffbf7f"
+    },
+    {
+      "id": "b",
+      "name": "B Tier",
+      "color": "#ffdf7f"
+    }
+  ],
+  "items": [
+    {
+      "id": "sanhua",
+      "file": "sanhua.png"
+    },
+    {
+      "id": "baizhi",
+      "file": "baizhi.png"
+    },
+    {
+      "id": "lingyang",
+      "file": "lingyang.png"
+    },
+    {
+      "id": "zhezhi",
+      "file": "zhezhi.png"
+    },
+    {
+      "id": "youhu",
+      "file": "youhu.png"
+    },
+    {
+      "id": "carlotta",
+      "file": "carlotta.png"
+    },
+    {
+      "id": "chixia",
+      "file": "chixia.png"
+    },
+    {
+      "id": "encore",
+      "file": "encore.png"
+    },
+    {
+      "id": "mortefi",
+      "file": "mortefi.png"
+    },
+    {
+      "id": "changli",
+      "file": "changli.png"
+    },
+    {
+      "id": "brant",
+      "file": "brant.png"
+    },
+    {
+      "id": "lupa",
+      "file": "lupa.png"
+    },
+    {
+      "id": "galbrena",
+      "file": "galbrena.png"
+    },
+    {
+      "id": "mornye",
+      "file": "mornye.png"
+    },
+    {
+      "id": "calcharo",
+      "file": "calcharo.png"
+    },
+    {
+      "id": "yinlin",
+      "file": "yinlin.png"
+    },
+    {
+      "id": "yuanwu",
+      "file": "yuanwu.png"
+    },
+    {
+      "id": "xiangli-yao",
+      "file": "xiangli-yao.png"
+    },
+    {
+      "id": "lumi",
+      "file": "lumi.png"
+    },
+    {
+      "id": "augusta",
+      "file": "augusta.png"
+    },
+    {
+      "id": "buling",
+      "file": "buling.png"
+    },
+    {
+      "id": "yangyang",
+      "file": "yangyang.png"
+    },
+    {
+      "id": "aalto",
+      "file": "aalto.png"
+    },
+    {
+      "id": "jiyan",
+      "file": "jiyan.png"
+    },
+    {
+      "id": "jianxin",
+      "file": "jianxin.png"
+    },
+    {
+      "id": "ciaccona",
+      "file": "ciaccona.png"
+    },
+    {
+      "id": "rover-aero",
+      "file": "rover-aero.png"
+    },
+    {
+      "id": "cartethyia",
+      "file": "cartethyia.png"
+    },
+    {
+      "id": "iuno",
+      "file": "iuno.png"
+    },
+    {
+      "id": "qiuyuan",
+      "file": "qiuyuan.png"
+    },
+    {
+      "id": "verina",
+      "file": "verina.png"
+    },
+    {
+      "id": "rover-spectro",
+      "file": "rover-spectro.png"
+    },
+    {
+      "id": "jinhsi",
+      "file": "jinhsi.png"
+    },
+    {
+      "id": "shorekeeper",
+      "file": "shorekeeper.png"
+    },
+    {
+      "id": "phoebe",
+      "file": "phoebe.png"
+    },
+    {
+      "id": "zani",
+      "file": "zani.png"
+    },
+    {
+      "id": "lynae",
+      "file": "lynae.png"
+    },
+    {
+      "id": "taoqi",
+      "file": "taoqi.png"
+    },
+    {
+      "id": "danjin",
+      "file": "danjin.png"
+    },
+    {
+      "id": "camellya",
+      "file": "camellya.png"
+    },
+    {
+      "id": "rover-havoc",
+      "file": "rover-havoc.png"
+    },
+    {
+      "id": "roccia",
+      "file": "roccia.png"
+    },
+    {
+      "id": "cantarella",
+      "file": "cantarella.png"
+    },
+    {
+      "id": "phrolova",
+      "file": "phrolova.png"
+    },
+    {
+      "id": "chisa",
+      "file": "chisa.png"
+    }
+  ]
+}
