@@ -10,5 +10,11 @@
     "name": "Zenless Zone Zero",
     "thumbnail": "zzz/coverico.png",
     "folderPath": "zzz"
+  },
+  {
+    "id": "wuwa",
+    "name": "Wuthering Waves",
+    "thumbnail": "wuwa/coverico.png",
+    "folderPath": "wuwa" 
   }
 ]
