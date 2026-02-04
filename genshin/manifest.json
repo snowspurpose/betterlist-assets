@@ -1,10 +1,473 @@
 {
   "tiers": [
-    { "id": "s", "name": "S Tier", "color": "#ff7f7f" },
-    { "id": "a", "name": "A Tier", "color": "#ffbf7f" }
+    {
+      "id": "s",
+      "name": "S Tier",
+      "color": "#ff7f7f"
+    },
+    {
+      "id": "a",
+      "name": "A Tier",
+      "color": "#ffbf7f"
+    },
+    {
+      "id": "b",
+      "name": "B Tier",
+      "color": "#ffdf7f"
+    }
   ],
   "items": [
-    { "id": "amber", "file": "amber.png" },
-    { "id": "furina", "file": "furina.png" }
+    {
+      "id": "zibai",
+      "file": "zibai.png"
+    },
+    {
+      "id": "illuga",
+      "file": "illuga.png"
+    },
+    {
+      "id": "columbina",
+      "file": "columbina.png"
+    },
+    {
+      "id": "durin",
+      "file": "durin.png"
+    },
+    {
+      "id": "jahoda",
+      "file": "jahoda.png"
+    },
+    {
+      "id": "manekin",
+      "file": "manekin.png"
+    },
+    {
+      "id": "manekina",
+      "file": "manekina.png"
+    },
+    {
+      "id": "nefer",
+      "file": "nefer.png"
+    },
+    {
+      "id": "flins",
+      "file": "flins.png"
+    },
+    {
+      "id": "lauma",
+      "file": "lauma.png"
+    },
+    {
+      "id": "aino",
+      "file": "aino.png"
+    },
+    {
+      "id": "ineffa",
+      "file": "ineffa.png"
+    },
+    {
+      "id": "skirk",
+      "file": "skirk.png"
+    },
+    {
+      "id": "dahlia",
+      "file": "dahlia.png"
+    },
+    {
+      "id": "escoffier",
+      "file": "escoffier.png"
+    },
+    {
+      "id": "ifa",
+      "file": "ifa.png"
+    },
+    {
+      "id": "iansan",
+      "file": "iansan.png"
+    },
+    {
+      "id": "varesa",
+      "file": "varesa.png"
+    },
+    {
+      "id": "yumemizuki-mizuki",
+      "file": "yumemizuki-mizuki.png"
+    },
+    {
+      "id": "lan-yan",
+      "file": "lan-yan.png"
+    },
+    {
+      "id": "traveler",
+      "file": "traveler.png"
+    },
+    {
+      "id": "mavuika",
+      "file": "mavuika.png"
+    },
+    {
+      "id": "citlali",
+      "file": "citlali.png"
+    },
+    {
+      "id": "chasca",
+      "file": "chasca.png"
+    },
+    {
+      "id": "ororon",
+      "file": "ororon.png"
+    },
+    {
+      "id": "xilonen",
+      "file": "xilonen.png"
+    },
+    {
+      "id": "kinich",
+      "file": "kinich.png"
+    },
+    {
+      "id": "kachina",
+      "file": "kachina.png"
+    },
+    {
+      "id": "mualani",
+      "file": "mualani.png"
+    },
+    {
+      "id": "emilie",
+      "file": "emilie.png"
+    },
+    {
+      "id": "sigewinne",
+      "file": "sigewinne.png"
+    },
+    {
+      "id": "sethos",
+      "file": "sethos.png"
+    },
+    {
+      "id": "clorinde",
+      "file": "clorinde.png"
+    },
+    {
+      "id": "arlecchino",
+      "file": "arlecchino.png"
+    },
+    {
+      "id": "chiori",
+      "file": "chiori.png"
+    },
+    {
+      "id": "gaming",
+      "file": "gaming.png"
+    },
+    {
+      "id": "xianyun",
+      "file": "xianyun.png"
+    },
+    {
+      "id": "chevreuse",
+      "file": "chevreuse.png"
+    },
+    {
+      "id": "navia",
+      "file": "navia.png"
+    },
+    {
+      "id": "charlotte",
+      "file": "charlotte.png"
+    },
+    {
+      "id": "furina",
+      "file": "furina.png"
+    },
+    {
+      "id": "wriothesley",
+      "file": "wriothesley.png"
+    },
+    {
+      "id": "neuvillette",
+      "file": "neuvillette.png"
+    },
+    {
+      "id": "freminet",
+      "file": "freminet.png"
+    },
+    {
+      "id": "lynette",
+      "file": "lynette.png"
+    },
+    {
+      "id": "lyney",
+      "file": "lyney.png"
+    },
+    {
+      "id": "kirara",
+      "file": "kirara.png"
+    },
+    {
+      "id": "kaveh",
+      "file": "kaveh.png"
+    },
+    {
+      "id": "baizhu",
+      "file": "baizhu.png"
+    },
+    {
+      "id": "mika",
+      "file": "mika.png"
+    },
+    {
+      "id": "dehya",
+      "file": "dehya.png"
+    },
+    {
+      "id": "yaoyao",
+      "file": "yaoyao.png"
+    },
+    {
+      "id": "alhaitham",
+      "file": "alhaitham.png"
+    },
+    {
+      "id": "wanderer",
+      "file": "wanderer.png"
+    },
+    {
+      "id": "faruzan",
+      "file": "faruzan.png"
+    },
+    {
+      "id": "layla",
+      "file": "layla.png"
+    },
+    {
+      "id": "nahida",
+      "file": "nahida.png"
+    },
+    {
+      "id": "nilou",
+      "file": "nilou.png"
+    },
+    {
+      "id": "cyno",
+      "file": "cyno.png"
+    },
+    {
+      "id": "candace",
+      "file": "candace.png"
+    },
+    {
+      "id": "dori",
+      "file": "dori.png"
+    },
+    {
+      "id": "collei",
+      "file": "collei.png"
+    },
+    {
+      "id": "tighnari",
+      "file": "tighnari.png"
+    },
+    {
+      "id": "shikanoin-heizou",
+      "file": "shikanoin-heizou.png"
+    },
+    {
+      "id": "kuki-shinobu",
+      "file": "kuki-shinobu.png"
+    },
+    {
+      "id": "yelan",
+      "file": "yelan.png"
+    },
+    {
+      "id": "kamisato-ayato",
+      "file": "kamisato-ayato.png"
+    },
+    {
+      "id": "yae-miko",
+      "file": "yae-miko.png"
+    },
+    {
+      "id": "shenhe",
+      "file": "shenhe.png"
+    },
+    {
+      "id": "yun-jin",
+      "file": "yun-jin.png"
+    },
+    {
+      "id": "gorou",
+      "file": "gorou.png"
+    },
+    {
+      "id": "arataki-itto",
+      "file": "arataki-itto.png"
+    },
+    {
+      "id": "thoma",
+      "file": "thoma.png"
+    },
+    {
+      "id": "sangonomiya-kokomi",
+      "file": "sangonomiya-kokomi.png"
+    },
+    {
+      "id": "raiden-shogun",
+      "file": "raiden-shogun.png"
+    },
+    {
+      "id": "kujou-sara",
+      "file": "kujou-sara.png"
+    },
+    {
+      "id": "aloy",
+      "file": "aloy.png"
+    },
+    {
+      "id": "yoimiya",
+      "file": "yoimiya.png"
+    },
+    {
+      "id": "sayu",
+      "file": "sayu.png"
+    },
+    {
+      "id": "kamisato-ayaka",
+      "file": "kamisato-ayaka.png"
+    },
+    {
+      "id": "kaedehara-kazuha",
+      "file": "kaedehara-kazuha.png"
+    },
+    {
+      "id": "eula",
+      "file": "eula.png"
+    },
+    {
+      "id": "yanfei",
+      "file": "yanfei.png"
+    },
+    {
+      "id": "rosaria",
+      "file": "rosaria.png"
+    },
+    {
+      "id": "hu-tao",
+      "file": "hu-tao.png"
+    },
+    {
+      "id": "xiao",
+      "file": "xiao.png"
+    },
+    {
+      "id": "ganyu",
+      "file": "ganyu.png"
+    },
+    {
+      "id": "albedo",
+      "file": "albedo.png"
+    },
+    {
+      "id": "zhongli",
+      "file": "zhongli.png"
+    },
+    {
+      "id": "xinyan",
+      "file": "xinyan.png"
+    },
+    {
+      "id": "tartaglia",
+      "file": "tartaglia.png"
+    },
+    {
+      "id": "diona",
+      "file": "diona.png"
+    },
+    {
+      "id": "jean",
+      "file": "jean.png"
+    },
+    {
+      "id": "lisa",
+      "file": "lisa.png"
+    },
+    {
+      "id": "barbara",
+      "file": "barbara.png"
+    },
+    {
+      "id": "kaeya",
+      "file": "kaeya.png"
+    },
+    {
+      "id": "diluc",
+      "file": "diluc.png"
+    },
+    {
+      "id": "razor",
+      "file": "razor.png"
+    },
+    {
+      "id": "amber",
+      "file": "amber.png"
+    },
+    {
+      "id": "venti",
+      "file": "venti.png"
+    },
+    {
+      "id": "xiangling",
+      "file": "xiangling.png"
+    },
+    {
+      "id": "beidou",
+      "file": "beidou.png"
+    },
+    {
+      "id": "xingqiu",
+      "file": "xingqiu.png"
+    },
+    {
+      "id": "ningguang",
+      "file": "ningguang.png"
+    },
+    {
+      "id": "klee",
+      "file": "klee.png"
+    },
+    {
+      "id": "fischl",
+      "file": "fischl.png"
+    },
+    {
+      "id": "bennett",
+      "file": "bennett.png"
+    },
+    {
+      "id": "noelle",
+      "file": "noelle.png"
+    },
+    {
+      "id": "qiqi",
+      "file": "qiqi.png"
+    },
+    {
+      "id": "chongyun",
+      "file": "chongyun.png"
+    },
+    {
+      "id": "mona",
+      "file": "mona.png"
+    },
+    {
+      "id": "keqing",
+      "file": "keqing.png"
+    },
+    {
+      "id": "sucrose",
+      "file": "sucrose.png"
+    }
   ]
 }
