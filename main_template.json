@@ -1,0 +1,14 @@
+[
+  {
+    "id": "genshin",
+    "name": "Genshin Impact",
+    "thumbnail": "genshin/coverico.png", 
+    "folderPath": "genshin" 
+  },
+  {
+    "id": "zzz",
+    "name": "Zenless Zone Zero",
+    "thumbnail": "zzz/coverico.png",
+    "folderPath": "zzz"
+  }
+]
