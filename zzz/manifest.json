@@ -1,0 +1,225 @@
+{
+  "tiers": [
+    {
+      "id": "s",
+      "name": "S Tier",
+      "color": "#ff7f7f"
+    },
+    {
+      "id": "a",
+      "name": "A Tier",
+      "color": "#ffbf7f"
+    },
+    {
+      "id": "b",
+      "name": "B Tier",
+      "color": "#ffdf7f"
+    }
+  ],
+  "items": [
+    {
+      "id": "belle",
+      "file": "belle.png"
+    },
+    {
+      "id": "wise",
+      "file": "wise.png"
+    },
+    {
+      "id": "anby-demara",
+      "file": "anby-demara.png"
+    },
+    {
+      "id": "billy-kid",
+      "file": "billy-kid.png"
+    },
+    {
+      "id": "nekomiya-mana",
+      "file": "nekomiya-mana.png"
+    },
+    {
+      "id": "nicole-demara",
+      "file": "nicole-demara.png"
+    },
+    {
+      "id": "anton-ivanov",
+      "file": "anton-ivanov.png"
+    },
+    {
+      "id": "ben-bigger",
+      "file": "ben-bigger.png"
+    },
+    {
+      "id": "grace-howard",
+      "file": "grace-howard.png"
+    },
+    {
+      "id": "koleda-belobog",
+      "file": "koleda-belobog.png"
+    },
+    {
+      "id": "alexandrina-sebastiane",
+      "file": "alexandrina-sebastiane.png"
+    },
+    {
+      "id": "corin-wickes",
+      "file": "corin-wickes.png"
+    },
+    {
+      "id": "ellen-joe",
+      "file": "ellen-joe.png"
+    },
+    {
+      "id": "von-lycaon",
+      "file": "von-lycaon.png"
+    },
+    {
+      "id": "soldier-11",
+      "file": "soldier-11.png"
+    },
+    {
+      "id": "trigger",
+      "file": "trigger.png"
+    },
+    {
+      "id": "seed",
+      "file": "seed.png"
+    },
+    {
+      "id": "orphie-magnusson---magus",
+      "file": "orphie-magnusson---magus.png"
+    },
+    {
+      "id": "zhu-yuan",
+      "file": "zhu-yuan.png"
+    },
+    {
+      "id": "qingyi",
+      "file": "qingyi.png"
+    },
+    {
+      "id": "jane-doe",
+      "file": "jane-doe.png"
+    },
+    {
+      "id": "seth-lowell",
+      "file": "seth-lowell.png"
+    },
+    {
+      "id": "luciana-de-montefio",
+      "file": "luciana-de-montefio.png"
+    },
+    {
+      "id": "piper-wheel",
+      "file": "piper-wheel.png"
+    },
+    {
+      "id": "caesar-king",
+      "file": "caesar-king.png"
+    },
+    {
+      "id": "burnice-white",
+      "file": "burnice-white.png"
+    },
+    {
+      "id": "lighter",
+      "file": "lighter.png"
+    },
+    {
+      "id": "pulchra-fellini",
+      "file": "pulchra-fellini.png"
+    },
+    {
+      "id": "soukaku",
+      "file": "soukaku.png"
+    },
+    {
+      "id": "tsukishiro-yanagi",
+      "file": "tsukishiro-yanagi.png"
+    },
+    {
+      "id": "asaba-harumasa",
+      "file": "asaba-harumasa.png"
+    },
+    {
+      "id": "hoshimi-miyabi",
+      "file": "hoshimi-miyabi.png"
+    },
+    {
+      "id": "astra-yao",
+      "file": "astra-yao.png"
+    },
+    {
+      "id": "evelyn-chevalier",
+      "file": "evelyn-chevalier.png"
+    },
+    {
+      "id": "soldier-0---anby",
+      "file": "soldier-0---anby.png"
+    },
+    {
+      "id": "vivian-banshee",
+      "file": "vivian-banshee.png"
+    },
+    {
+      "id": "hugo-vlad",
+      "file": "hugo-vlad.png"
+    },
+    {
+      "id": "pan-yinhu",
+      "file": "pan-yinhu.png"
+    },
+    {
+      "id": "yixuan",
+      "file": "yixuan.png"
+    },
+    {
+      "id": "ju-fufu",
+      "file": "ju-fufu.png"
+    },
+    {
+      "id": "ye-shunguang",
+      "file": "ye-shunguang.png"
+    },
+    {
+      "id": "ukinami-yuzuha",
+      "file": "ukinami-yuzuha.png"
+    },
+    {
+      "id": "alice-thymefield",
+      "file": "alice-thymefield.png"
+    },
+    {
+      "id": "komano-manato",
+      "file": "komano-manato.png"
+    },
+    {
+      "id": "lucia-elowen",
+      "file": "lucia-elowen.png"
+    },
+    {
+      "id": "yidhari-murphy",
+      "file": "yidhari-murphy.png"
+    },
+    {
+      "id": "dialyn",
+      "file": "dialyn.png"
+    },
+    {
+      "id": "banyue",
+      "file": "banyue.png"
+    },
+    {
+      "id": "zhao",
+      "file": "zhao.png"
+    },
+    {
+      "id": "sunna",
+      "file": "sunna.png"
+    },
+    {
+      "id": "aria",
+      "file": "aria.png"
+    }
+  ]
+}
