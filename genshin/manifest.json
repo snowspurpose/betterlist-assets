@@ -7,12 +7,12 @@
     },
     {
       "id": "t1",
-      "name": "T1 (Strong)",
+      "name": "T1",
       "color": "#ffbf7f"
     },
     {
       "id": "t2",
-      "name": "T2 (Viable)",
+      "name": "T2",
       "color": "#ffdf7f"
     },
     {
@@ -25,828 +25,710 @@
     {
       "id": "zibai",
       "file": "zibai.png",
-      "rarity": "4",
-      "element": "Geo",
-      "weapon": "Unknown"
+      "element": "geo",
+      "weapon": "unknown"
     },
     {
       "id": "illuga",
       "file": "illuga.png",
-      "rarity": "4",
-      "element": "Geo",
-      "weapon": "Unknown"
+      "element": "geo",
+      "weapon": "unknown"
     },
     {
       "id": "columbina",
       "file": "columbina.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "durin",
       "file": "durin.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "jahoda",
       "file": "jahoda.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "manekin",
       "file": "manekin.png",
-      "rarity": "4",
-      "element": "Unknown",
-      "weapon": "Unknown"
+      "element": "unknown",
+      "weapon": "unknown"
     },
     {
       "id": "manekina",
       "file": "manekina.png",
-      "rarity": "4",
-      "element": "Unknown",
-      "weapon": "Unknown"
+      "element": "unknown",
+      "weapon": "unknown"
     },
     {
       "id": "nefer",
       "file": "nefer.png",
-      "rarity": "4",
-      "element": "Dendro",
-      "weapon": "Unknown"
+      "element": "dendro",
+      "weapon": "unknown"
     },
     {
       "id": "flins",
       "file": "flins.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "lauma",
       "file": "lauma.png",
-      "rarity": "4",
-      "element": "Dendro",
-      "weapon": "Unknown"
+      "element": "dendro",
+      "weapon": "unknown"
     },
     {
       "id": "aino",
       "file": "aino.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "ineffa",
       "file": "ineffa.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "skirk",
       "file": "skirk.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "dahlia",
       "file": "dahlia.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "escoffier",
       "file": "escoffier.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "ifa",
       "file": "ifa.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "iansan",
       "file": "iansan.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "varesa",
       "file": "varesa.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "yumemizuki-mizuki",
       "file": "yumemizuki-mizuki.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "lan-yan",
       "file": "lan-yan.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "traveler-pyro",
       "file": "traveler-pyro.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "mavuika",
       "file": "mavuika.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "citlali",
       "file": "citlali.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "chasca",
       "file": "chasca.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "ororon",
       "file": "ororon.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "xilonen",
       "file": "xilonen.png",
-      "rarity": "4",
-      "element": "Geo",
-      "weapon": "Unknown"
+      "element": "geo",
+      "weapon": "unknown"
     },
     {
       "id": "kinich",
       "file": "kinich.png",
-      "rarity": "4",
-      "element": "Dendro",
-      "weapon": "Unknown"
+      "element": "dendro",
+      "weapon": "unknown"
     },
     {
       "id": "kachina",
       "file": "kachina.png",
-      "rarity": "4",
-      "element": "Geo",
-      "weapon": "Unknown"
+      "element": "geo",
+      "weapon": "unknown"
     },
     {
       "id": "mualani",
       "file": "mualani.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "emilie",
       "file": "emilie.png",
-      "rarity": "4",
-      "element": "Dendro",
-      "weapon": "Unknown"
+      "element": "dendro",
+      "weapon": "unknown"
     },
     {
       "id": "sigewinne",
       "file": "sigewinne.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "sethos",
       "file": "sethos.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "clorinde",
       "file": "clorinde.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "arlecchino",
       "file": "arlecchino.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "chiori",
       "file": "chiori.png",
-      "rarity": "4",
-      "element": "Geo",
-      "weapon": "Unknown"
+      "element": "geo",
+      "weapon": "unknown"
     },
     {
       "id": "gaming",
       "file": "gaming.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "xianyun",
       "file": "xianyun.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "chevreuse",
       "file": "chevreuse.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "navia",
       "file": "navia.png",
-      "rarity": "4",
-      "element": "Geo",
-      "weapon": "Unknown"
+      "element": "geo",
+      "weapon": "unknown"
     },
     {
       "id": "charlotte",
       "file": "charlotte.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "furina",
       "file": "furina.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "wriothesley",
       "file": "wriothesley.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "neuvillette",
       "file": "neuvillette.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "freminet",
       "file": "freminet.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "lynette",
       "file": "lynette.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "lyney",
       "file": "lyney.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "traveler-hydro",
       "file": "traveler-hydro.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "kirara",
       "file": "kirara.png",
-      "rarity": "4",
-      "element": "Dendro",
-      "weapon": "Unknown"
+      "element": "dendro",
+      "weapon": "unknown"
     },
     {
       "id": "kaveh",
       "file": "kaveh.png",
-      "rarity": "4",
-      "element": "Dendro",
-      "weapon": "Unknown"
+      "element": "dendro",
+      "weapon": "unknown"
     },
     {
       "id": "baizhu",
       "file": "baizhu.png",
-      "rarity": "4",
-      "element": "Dendro",
-      "weapon": "Unknown"
+      "element": "dendro",
+      "weapon": "unknown"
     },
     {
       "id": "mika",
       "file": "mika.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "dehya",
       "file": "dehya.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "yaoyao",
       "file": "yaoyao.png",
-      "rarity": "4",
-      "element": "Dendro",
-      "weapon": "Unknown"
+      "element": "dendro",
+      "weapon": "unknown"
     },
     {
       "id": "alhaitham",
       "file": "alhaitham.png",
-      "rarity": "4",
-      "element": "Dendro",
-      "weapon": "Unknown"
+      "element": "dendro",
+      "weapon": "unknown"
     },
     {
       "id": "wanderer",
       "file": "wanderer.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "faruzan",
       "file": "faruzan.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "layla",
       "file": "layla.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "nahida",
       "file": "nahida.png",
-      "rarity": "4",
-      "element": "Dendro",
-      "weapon": "Unknown"
+      "element": "dendro",
+      "weapon": "unknown"
     },
     {
       "id": "nilou",
       "file": "nilou.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "cyno",
       "file": "cyno.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "candace",
       "file": "candace.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "dori",
       "file": "dori.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "collei",
       "file": "collei.png",
-      "rarity": "4",
-      "element": "Dendro",
-      "weapon": "Unknown"
+      "element": "dendro",
+      "weapon": "unknown"
     },
     {
       "id": "tighnari",
       "file": "tighnari.png",
-      "rarity": "4",
-      "element": "Dendro",
-      "weapon": "Unknown"
+      "element": "dendro",
+      "weapon": "unknown"
     },
     {
       "id": "shikanoin-heizou",
       "file": "shikanoin-heizou.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "traveler-dendro",
       "file": "traveler-dendro.png",
-      "rarity": "4",
-      "element": "Dendro",
-      "weapon": "Unknown"
+      "element": "dendro",
+      "weapon": "unknown"
     },
     {
       "id": "kuki-shinobu",
       "file": "kuki-shinobu.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "yelan",
       "file": "yelan.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "kamisato-ayato",
       "file": "kamisato-ayato.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "yae-miko",
       "file": "yae-miko.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "shenhe",
       "file": "shenhe.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "yun-jin",
       "file": "yun-jin.png",
-      "rarity": "4",
-      "element": "Geo",
-      "weapon": "Unknown"
+      "element": "geo",
+      "weapon": "unknown"
     },
     {
       "id": "gorou",
       "file": "gorou.png",
-      "rarity": "4",
-      "element": "Geo",
-      "weapon": "Unknown"
+      "element": "geo",
+      "weapon": "unknown"
     },
     {
       "id": "arataki-itto",
       "file": "arataki-itto.png",
-      "rarity": "4",
-      "element": "Geo",
-      "weapon": "Unknown"
+      "element": "geo",
+      "weapon": "unknown"
     },
     {
       "id": "thoma",
       "file": "thoma.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "sangonomiya-kokomi",
       "file": "sangonomiya-kokomi.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "raiden-shogun",
       "file": "raiden-shogun.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "kujou-sara",
       "file": "kujou-sara.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "aloy",
       "file": "aloy.png",
-      "rarity": "5",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "yoimiya",
       "file": "yoimiya.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "sayu",
       "file": "sayu.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "kamisato-ayaka",
       "file": "kamisato-ayaka.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "traveler-electro",
       "file": "traveler-electro.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "kaedehara-kazuha",
       "file": "kaedehara-kazuha.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "eula",
       "file": "eula.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "yanfei",
       "file": "yanfei.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "rosaria",
       "file": "rosaria.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "hu-tao",
       "file": "hu-tao.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "xiao",
       "file": "xiao.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "ganyu",
       "file": "ganyu.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "albedo",
       "file": "albedo.png",
-      "rarity": "4",
-      "element": "Geo",
-      "weapon": "Unknown"
+      "element": "geo",
+      "weapon": "unknown"
     },
     {
       "id": "zhongli",
       "file": "zhongli.png",
-      "rarity": "4",
-      "element": "Geo",
-      "weapon": "Unknown"
+      "element": "geo",
+      "weapon": "unknown"
     },
     {
       "id": "xinyan",
       "file": "xinyan.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "tartaglia",
       "file": "tartaglia.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "diona",
       "file": "diona.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "jean",
       "file": "jean.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "lisa",
       "file": "lisa.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "barbara",
       "file": "barbara.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "kaeya",
       "file": "kaeya.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "diluc",
       "file": "diluc.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "razor",
       "file": "razor.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "amber",
       "file": "amber.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "venti",
       "file": "venti.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "xiangling",
       "file": "xiangling.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "beidou",
       "file": "beidou.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "xingqiu",
       "file": "xingqiu.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "ningguang",
       "file": "ningguang.png",
-      "rarity": "4",
-      "element": "Geo",
-      "weapon": "Unknown"
+      "element": "geo",
+      "weapon": "unknown"
     },
     {
       "id": "klee",
       "file": "klee.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "fischl",
       "file": "fischl.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "bennett",
       "file": "bennett.png",
-      "rarity": "4",
-      "element": "Pyro",
-      "weapon": "Unknown"
+      "element": "pyro",
+      "weapon": "unknown"
     },
     {
       "id": "noelle",
       "file": "noelle.png",
-      "rarity": "4",
-      "element": "Geo",
-      "weapon": "Unknown"
+      "element": "geo",
+      "weapon": "unknown"
     },
     {
       "id": "qiqi",
       "file": "qiqi.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "chongyun",
       "file": "chongyun.png",
-      "rarity": "4",
-      "element": "Cryo",
-      "weapon": "Unknown"
+      "element": "cryo",
+      "weapon": "unknown"
     },
     {
       "id": "mona",
       "file": "mona.png",
-      "rarity": "4",
-      "element": "Hydro",
-      "weapon": "Unknown"
+      "element": "hydro",
+      "weapon": "unknown"
     },
     {
       "id": "keqing",
       "file": "keqing.png",
-      "rarity": "4",
-      "element": "Electro",
-      "weapon": "Unknown"
+      "element": "electro",
+      "weapon": "unknown"
     },
     {
       "id": "sucrose",
       "file": "sucrose.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "traveler-anemo",
       "file": "traveler-anemo.png",
-      "rarity": "4",
-      "element": "Anemo",
-      "weapon": "Unknown"
+      "element": "anemo",
+      "weapon": "unknown"
     },
     {
       "id": "traveler-geo",
       "file": "traveler-geo.png",
-      "rarity": "4",
-      "element": "Geo",
-      "weapon": "Unknown"
+      "element": "geo",
+      "weapon": "unknown"
     }
   ]
 }
