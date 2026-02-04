@@ -7,17 +7,17 @@
     },
     {
       "id": "t1",
-      "name": "T1 (Strong)",
+      "name": "T0.5",
       "color": "#ffbf7f"
     },
     {
       "id": "t2",
-      "name": "T2 (Viable)",
+      "name": "T1",
       "color": "#ffdf7f"
     },
     {
       "id": "t3",
-      "name": "T3",
+      "name": "T2",
       "color": "#ffff7f"
     }
   ],
