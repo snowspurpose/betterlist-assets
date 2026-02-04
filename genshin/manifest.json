@@ -144,7 +144,7 @@
     },
     {
       "id": "traveler-pyro",
-      "file": "traveler-pyro.png",
+      "file": "traveler.png",
       "element": "pyro",
       "weapon": "unknown"
     },
@@ -726,7 +726,7 @@
     },
     {
       "id": "traveler-geo",
-      "file": "traveler-geo.png",
+      "file": "traveler.png",
       "element": "geo",
       "weapon": "unknown"
     }
