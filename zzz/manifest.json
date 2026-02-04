@@ -1,225 +1,320 @@
 {
   "tiers": [
     {
-      "id": "s",
-      "name": "S Tier",
+      "id": "t0",
+      "name": "T0 (OP)",
       "color": "#ff7f7f"
     },
     {
-      "id": "a",
-      "name": "A Tier",
+      "id": "t1",
+      "name": "T0.5",
       "color": "#ffbf7f"
     },
     {
-      "id": "b",
-      "name": "B Tier",
+      "id": "t2",
+      "name": "T1",
       "color": "#ffdf7f"
+    },
+    {
+      "id": "t3",
+      "name": "T2",
+      "color": "#ffff7f"
     }
   ],
   "items": [
     {
-      "id": "belle",
-      "file": "belle.png"
+      "id": "anby",
+      "file": "anby.png",
+      "element": "electric",
+      "type": "stun"
     },
     {
-      "id": "wise",
-      "file": "wise.png"
+      "id": "nekomata",
+      "file": "nekomata.png",
+      "element": "physical",
+      "type": "attack"
     },
     {
-      "id": "anby-demara",
-      "file": "anby-demara.png"
-    },
-    {
-      "id": "billy-kid",
-      "file": "billy-kid.png"
-    },
-    {
-      "id": "nekomiya-mana",
-      "file": "nekomiya-mana.png"
-    },
-    {
-      "id": "nicole-demara",
-      "file": "nicole-demara.png"
-    },
-    {
-      "id": "anton-ivanov",
-      "file": "anton-ivanov.png"
-    },
-    {
-      "id": "ben-bigger",
-      "file": "ben-bigger.png"
-    },
-    {
-      "id": "grace-howard",
-      "file": "grace-howard.png"
-    },
-    {
-      "id": "koleda-belobog",
-      "file": "koleda-belobog.png"
-    },
-    {
-      "id": "alexandrina-sebastiane",
-      "file": "alexandrina-sebastiane.png"
-    },
-    {
-      "id": "corin-wickes",
-      "file": "corin-wickes.png"
-    },
-    {
-      "id": "ellen-joe",
-      "file": "ellen-joe.png"
-    },
-    {
-      "id": "von-lycaon",
-      "file": "von-lycaon.png"
+      "id": "nicole",
+      "file": "nicole.png",
+      "element": "ether",
+      "type": "support"
     },
     {
       "id": "soldier-11",
-      "file": "soldier-11.png"
+      "file": "soldier-11.png",
+      "element": "fire",
+      "type": "attack"
     },
     {
-      "id": "trigger",
-      "file": "trigger.png"
+      "id": "yidhari",
+      "file": "yidhari.png",
+      "element": "ice",
+      "type": "unknown"
     },
     {
-      "id": "seed",
-      "file": "seed.png"
+      "id": "corin",
+      "file": "corin.png",
+      "element": "physical",
+      "type": "attack"
     },
     {
-      "id": "orphie-magnusson---magus",
-      "file": "orphie-magnusson---magus.png"
+      "id": "caesar",
+      "file": "caesar.png",
+      "element": "physical",
+      "type": "defense"
     },
     {
-      "id": "zhu-yuan",
-      "file": "zhu-yuan.png"
+      "id": "billy",
+      "file": "billy.png",
+      "element": "physical",
+      "type": "attack"
     },
     {
-      "id": "qingyi",
-      "file": "qingyi.png"
+      "id": "miyabi",
+      "file": "miyabi.png",
+      "element": "ice",
+      "type": "anomaly"
     },
     {
-      "id": "jane-doe",
-      "file": "jane-doe.png"
+      "id": "koleda",
+      "file": "koleda.png",
+      "element": "fire",
+      "type": "stun"
     },
     {
-      "id": "seth-lowell",
-      "file": "seth-lowell.png"
+      "id": "anton",
+      "file": "anton.png",
+      "element": "electric",
+      "type": "attack"
     },
     {
-      "id": "luciana-de-montefio",
-      "file": "luciana-de-montefio.png"
-    },
-    {
-      "id": "piper-wheel",
-      "file": "piper-wheel.png"
-    },
-    {
-      "id": "caesar-king",
-      "file": "caesar-king.png"
-    },
-    {
-      "id": "burnice-white",
-      "file": "burnice-white.png"
-    },
-    {
-      "id": "lighter",
-      "file": "lighter.png"
-    },
-    {
-      "id": "pulchra-fellini",
-      "file": "pulchra-fellini.png"
+      "id": "ben",
+      "file": "ben.png",
+      "element": "fire",
+      "type": "defense"
     },
     {
       "id": "soukaku",
-      "file": "soukaku.png"
+      "file": "soukaku.png",
+      "element": "ice",
+      "type": "support"
     },
     {
-      "id": "tsukishiro-yanagi",
-      "file": "tsukishiro-yanagi.png"
+      "id": "lycaon",
+      "file": "lycaon.png",
+      "element": "ice",
+      "type": "stun"
     },
     {
-      "id": "asaba-harumasa",
-      "file": "asaba-harumasa.png"
+      "id": "lucy",
+      "file": "lucy.png",
+      "element": "fire",
+      "type": "support"
     },
     {
-      "id": "hoshimi-miyabi",
-      "file": "hoshimi-miyabi.png"
+      "id": "lighter",
+      "file": "lighter.png",
+      "element": "fire",
+      "type": "stun"
+    },
+    {
+      "id": "burnice",
+      "file": "burnice.png",
+      "element": "fire",
+      "type": "anomaly"
+    },
+    {
+      "id": "grace",
+      "file": "grace.png",
+      "element": "electric",
+      "type": "anomaly"
+    },
+    {
+      "id": "ellen",
+      "file": "ellen.png",
+      "element": "ice",
+      "type": "attack"
+    },
+    {
+      "id": "harumasa",
+      "file": "harumasa.png",
+      "element": "electric",
+      "type": "attack"
+    },
+    {
+      "id": "alexandrina-sebastiane",
+      "file": "alexandrina-sebastiane.png",
+      "element": "electric",
+      "type": "support"
+    },
+    {
+      "id": "yanagi",
+      "file": "yanagi.png",
+      "element": "electric",
+      "type": "anomaly"
+    },
+    {
+      "id": "zhu-yuan",
+      "file": "zhu-yuan.png",
+      "element": "ether",
+      "type": "attack"
+    },
+    {
+      "id": "qingyi",
+      "file": "qingyi.png",
+      "element": "electric",
+      "type": "stun"
+    },
+    {
+      "id": "jane",
+      "file": "jane.png",
+      "element": "physical",
+      "type": "anomaly"
+    },
+    {
+      "id": "seth",
+      "file": "seth.png",
+      "element": "electric",
+      "type": "defense"
+    },
+    {
+      "id": "piper",
+      "file": "piper.png",
+      "element": "physical",
+      "type": "anomaly"
+    },
+    {
+      "id": "hugo",
+      "file": "hugo.png",
+      "element": "ice",
+      "type": "attack"
+    },
+    {
+      "id": "orphie-magus",
+      "file": "orphie-magus.png",
+      "element": "fire",
+      "type": "attack"
     },
     {
       "id": "astra-yao",
-      "file": "astra-yao.png"
+      "file": "astra-yao.png",
+      "element": "ether",
+      "type": "support"
     },
     {
-      "id": "evelyn-chevalier",
-      "file": "evelyn-chevalier.png"
+      "id": "evelyn",
+      "file": "evelyn.png",
+      "element": "fire",
+      "type": "attack"
     },
     {
-      "id": "soldier-0---anby",
-      "file": "soldier-0---anby.png"
-    },
-    {
-      "id": "vivian-banshee",
-      "file": "vivian-banshee.png"
-    },
-    {
-      "id": "hugo-vlad",
-      "file": "hugo-vlad.png"
-    },
-    {
-      "id": "pan-yinhu",
-      "file": "pan-yinhu.png"
-    },
-    {
-      "id": "yixuan",
-      "file": "yixuan.png"
-    },
-    {
-      "id": "ju-fufu",
-      "file": "ju-fufu.png"
-    },
-    {
-      "id": "ye-shunguang",
-      "file": "ye-shunguang.png"
-    },
-    {
-      "id": "ukinami-yuzuha",
-      "file": "ukinami-yuzuha.png"
-    },
-    {
-      "id": "alice-thymefield",
-      "file": "alice-thymefield.png"
-    },
-    {
-      "id": "komano-manato",
-      "file": "komano-manato.png"
-    },
-    {
-      "id": "lucia-elowen",
-      "file": "lucia-elowen.png"
-    },
-    {
-      "id": "yidhari-murphy",
-      "file": "yidhari-murphy.png"
-    },
-    {
-      "id": "dialyn",
-      "file": "dialyn.png"
-    },
-    {
-      "id": "banyue",
-      "file": "banyue.png"
+      "id": "vivian",
+      "file": "vivian.png",
+      "element": "ether",
+      "type": "anomaly"
     },
     {
       "id": "zhao",
-      "file": "zhao.png"
+      "file": "zhao.png",
+      "element": "ice",
+      "type": "defense"
+    },
+    {
+      "id": "pulchra",
+      "file": "pulchra.png",
+      "element": "physical",
+      "type": "stun"
+    },
+    {
+      "id": "trigger",
+      "file": "trigger.png",
+      "element": "electric",
+      "type": "stun"
+    },
+    {
+      "id": "yixuan",
+      "file": "yixuan.png",
+      "element": "unknown",
+      "type": "unknown"
+    },
+    {
+      "id": "soldier-0-anby",
+      "file": "soldier-0-anby.png",
+      "element": "electric",
+      "type": "attack"
+    },
+    {
+      "id": "ju-fufu",
+      "file": "ju-fufu.png",
+      "element": "fire",
+      "type": "stun"
+    },
+    {
+      "id": "alice",
+      "file": "alice.png",
+      "element": "physical",
+      "type": "anomaly"
+    },
+    {
+      "id": "yuzuha",
+      "file": "yuzuha.png",
+      "element": "physical",
+      "type": "support"
+    },
+    {
+      "id": "pan-yinhu",
+      "file": "pan-yinhu.png",
+      "element": "physical",
+      "type": "defense"
+    },
+    {
+      "id": "ye-shunguang",
+      "file": "ye-shunguang.png",
+      "element": "honed-edge",
+      "type": "attack"
+    },
+    {
+      "id": "manato",
+      "file": "manato.png",
+      "element": "fire",
+      "type": "unknown"
+    },
+    {
+      "id": "lucia",
+      "file": "lucia.png",
+      "element": "ether",
+      "type": "support"
+    },
+    {
+      "id": "seed",
+      "file": "seed.png",
+      "element": "electric",
+      "type": "attack"
+    },
+    {
+      "id": "banyue",
+      "file": "banyue.png",
+      "element": "fire",
+      "type": "unknown"
+    },
+    {
+      "id": "dialyn",
+      "file": "dialyn.png",
+      "element": "physical",
+      "type": "stun"
     },
     {
       "id": "sunna",
-      "file": "sunna.png"
+      "file": "sunna.png",
+      "element": "physical",
+      "type": "support"
     },
     {
       "id": "aria",
-      "file": "aria.png"
+      "file": "aria.png",
+      "element": "ether",
+      "type": "anomaly"
     }
   ]
 }
