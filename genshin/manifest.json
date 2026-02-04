@@ -1,0 +1,10 @@
+{
+  "tiers": [
+    { "id": "s", "name": "S Tier", "color": "#ff7f7f" },
+    { "id": "a", "name": "A Tier", "color": "#ffbf7f" }
+  ],
+  "items": [
+    { "id": "amber", "file": "amber.png" },
+    { "id": "furina", "file": "furina.png" }
+  ]
+}
