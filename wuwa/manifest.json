@@ -1,364 +1,355 @@
 {
   "tiers": [
     {
-      "id": "s",
-      "name": "S Rank",
+      "id": "t0",
+      "name": "T0 (OP)",
       "color": "#ff7f7f"
     },
     {
-      "id": "a",
-      "name": "A Rank",
+      "id": "t1",
+      "name": "T1 (Strong)",
       "color": "#ffbf7f"
     },
     {
-      "id": "b",
-      "name": "B Rank",
+      "id": "t2",
+      "name": "T2 (Viable)",
       "color": "#ffdf7f"
+    },
+    {
+      "id": "t3",
+      "name": "T3",
+      "color": "#ffff7f"
     }
   ],
   "items": [
     {
-      "id": "aalto",
-      "file": "aalto.png",
-      "element": "Aero",
-      "weapon": "Unknown",
-      "rarity": "4"
-    },
-    {
-      "id": "aemeath",
-      "file": "aemeath.png",
-      "element": "Fusion",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "augusta",
-      "file": "augusta.png",
-      "element": "Electro",
-      "weapon": "Unknown",
-      "rarity": "5"
+      "id": "sanhua",
+      "file": "sanhua.png",
+      "rarity": "4",
+      "element": "Glacio",
+      "weapon": "Unknown"
     },
     {
       "id": "baizhi",
       "file": "baizhi.png",
+      "rarity": "4",
       "element": "Glacio",
-      "weapon": "Unknown",
-      "rarity": "4"
-    },
-    {
-      "id": "brant",
-      "file": "brant.png",
-      "element": "Fusion",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "buling",
-      "file": "buling.png",
-      "element": "Electro",
-      "weapon": "Unknown",
-      "rarity": "4"
-    },
-    {
-      "id": "calcharo",
-      "file": "calcharo.png",
-      "element": "Electro",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "camellya",
-      "file": "camellya.png",
-      "element": "Havoc",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "cantarella",
-      "file": "cantarella.png",
-      "element": "Havoc",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "carlotta",
-      "file": "carlotta.png",
-      "element": "Glacio",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "cartethyia",
-      "file": "cartethyia.png",
-      "element": "Aero",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "changli",
-      "file": "changli.png",
-      "element": "Fusion",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "chisa",
-      "file": "chisa.png",
-      "element": "Havoc",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "chixia",
-      "file": "chixia.png",
-      "element": "Fusion",
-      "weapon": "Unknown",
-      "rarity": "4"
-    },
-    {
-      "id": "ciaccona",
-      "file": "ciaccona.png",
-      "element": "Aero",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "danjin",
-      "file": "danjin.png",
-      "element": "Havoc",
-      "weapon": "Unknown",
-      "rarity": "4"
-    },
-    {
-      "id": "encore",
-      "file": "encore.png",
-      "element": "Fusion",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "galbrena",
-      "file": "galbrena.png",
-      "element": "Fusion",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "iuno",
-      "file": "iuno.png",
-      "element": "Aero",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "jianxin",
-      "file": "jianxin.png",
-      "element": "Aero",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "jinhsi",
-      "file": "jinhsi.png",
-      "element": "Spectro",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "jiyan",
-      "file": "jiyan.png",
-      "element": "Aero",
-      "weapon": "Unknown",
-      "rarity": "5"
+      "weapon": "Rectifier"
     },
     {
       "id": "lingyang",
       "file": "lingyang.png",
+      "rarity": "4",
       "element": "Glacio",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "lucilla",
-      "file": "lucilla.png",
-      "element": "Unknown",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "lumi",
-      "file": "lumi.png",
-      "element": "Electro",
-      "weapon": "Unknown",
-      "rarity": "4"
-    },
-    {
-      "id": "lupa",
-      "file": "lupa.png",
-      "element": "Fusion",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "luuk-herssen",
-      "file": "luuk-herssen.png",
-      "element": "Spectro",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "lynae",
-      "file": "lynae.png",
-      "element": "Spectro",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "mornye",
-      "file": "mornye.png",
-      "element": "Fusion",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "mortefi",
-      "file": "mortefi.png",
-      "element": "Fusion",
-      "weapon": "Unknown",
-      "rarity": "4"
-    },
-    {
-      "id": "phoebe",
-      "file": "phoebe.png",
-      "element": "Spectro",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "phrolova",
-      "file": "phrolova.png",
-      "element": "Havoc",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "qiuyuan",
-      "file": "qiuyuan.png",
-      "element": "Aero",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "roccia",
-      "file": "roccia.png",
-      "element": "Havoc",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "rover-aero",
-      "file": "rover-aero.png",
-      "element": "Aero",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "rover-havoc",
-      "file": "rover-havoc.png",
-      "element": "Havoc",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "rover-spectro",
-      "file": "rover-spectro.png",
-      "element": "Spectro",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "sanhua",
-      "file": "sanhua.png",
-      "element": "Glacio",
-      "weapon": "Unknown",
-      "rarity": "4"
-    },
-    {
-      "id": "sigrika",
-      "file": "sigrika.png",
-      "element": "Unknown",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "taoqi",
-      "file": "taoqi.png",
-      "element": "Havoc",
-      "weapon": "Unknown",
-      "rarity": "4"
-    },
-    {
-      "id": "the-shorekeeper",
-      "file": "the-shorekeeper.png",
-      "element": "Spectro",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "verina",
-      "file": "verina.png",
-      "element": "Spectro",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "xiangli-yao",
-      "file": "xiangli-yao.png",
-      "element": "Electro",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "yangyang",
-      "file": "yangyang.png",
-      "element": "Aero",
-      "weapon": "Unknown",
-      "rarity": "4"
-    },
-    {
-      "id": "yinlin",
-      "file": "yinlin.png",
-      "element": "Electro",
-      "weapon": "Unknown",
-      "rarity": "5"
-    },
-    {
-      "id": "youhu",
-      "file": "youhu.png",
-      "element": "Glacio",
-      "weapon": "Unknown",
-      "rarity": "4"
-    },
-    {
-      "id": "yuanwu",
-      "file": "yuanwu.png",
-      "element": "Electro",
-      "weapon": "Unknown",
-      "rarity": "4"
-    },
-    {
-      "id": "zani",
-      "file": "zani.png",
-      "element": "Spectro",
-      "weapon": "Unknown",
-      "rarity": "5"
+      "weapon": "Unknown"
     },
     {
       "id": "zhezhi",
       "file": "zhezhi.png",
+      "rarity": "4",
       "element": "Glacio",
-      "weapon": "Unknown",
-      "rarity": "5"
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "youhu",
+      "file": "youhu.png",
+      "rarity": "4",
+      "element": "Glacio",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "carlotta",
+      "file": "carlotta.png",
+      "rarity": "4",
+      "element": "Glacio",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "chixia",
+      "file": "chixia.png",
+      "rarity": "4",
+      "element": "Fusion",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "encore",
+      "file": "encore.png",
+      "rarity": "4",
+      "element": "Fusion",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "mortefi",
+      "file": "mortefi.png",
+      "rarity": "4",
+      "element": "Fusion",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "changli",
+      "file": "changli.png",
+      "rarity": "4",
+      "element": "Fusion",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "brant",
+      "file": "brant.png",
+      "rarity": "4",
+      "element": "Fusion",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "lupa",
+      "file": "lupa.png",
+      "rarity": "4",
+      "element": "Fusion",
+      "weapon": "Sword"
+    },
+    {
+      "id": "galbrena",
+      "file": "galbrena.png",
+      "rarity": "4",
+      "element": "Fusion",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "mornye",
+      "file": "mornye.png",
+      "rarity": "4",
+      "element": "Fusion",
+      "weapon": "Sword"
+    },
+    {
+      "id": "aemeath",
+      "file": "aemeath.png",
+      "rarity": "4",
+      "element": "Fusion",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "calcharo",
+      "file": "calcharo.png",
+      "rarity": "4",
+      "element": "Electro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "yinlin",
+      "file": "yinlin.png",
+      "rarity": "4",
+      "element": "Electro",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "yuanwu",
+      "file": "yuanwu.png",
+      "rarity": "4",
+      "element": "Electro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "jinhsi",
+      "file": "jinhsi.png",
+      "rarity": "4",
+      "element": "Spectro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "xiangli-yao",
+      "file": "xiangli-yao.png",
+      "rarity": "4",
+      "element": "Electro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "augusta",
+      "file": "augusta.png",
+      "rarity": "4",
+      "element": "Electro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "buling",
+      "file": "buling.png",
+      "rarity": "4",
+      "element": "Electro",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "yangyang",
+      "file": "yangyang.png",
+      "rarity": "4",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "aalto",
+      "file": "aalto.png",
+      "rarity": "4",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "jiyan",
+      "file": "jiyan.png",
+      "rarity": "4",
+      "element": "Aero",
+      "weapon": "Sword"
+    },
+    {
+      "id": "jianxin",
+      "file": "jianxin.png",
+      "rarity": "4",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "rover-aero",
+      "file": "rover-aero.png",
+      "rarity": "4",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "ciaccona",
+      "file": "ciaccona.png",
+      "rarity": "4",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "cartethyia",
+      "file": "cartethyia.png",
+      "rarity": "4",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "iuno",
+      "file": "iuno.png",
+      "rarity": "4",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "qiuyuan",
+      "file": "qiuyuan.png",
+      "rarity": "4",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "rover-spectro",
+      "file": "rover-spectro.png",
+      "rarity": "4",
+      "element": "Spectro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "verina",
+      "file": "verina.png",
+      "rarity": "4",
+      "element": "Spectro",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "lumi",
+      "file": "lumi.png",
+      "rarity": "4",
+      "element": "Electro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "shorekeeper",
+      "file": "shorekeeper.png",
+      "rarity": "4",
+      "element": "Spectro",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "phoebe",
+      "file": "phoebe.png",
+      "rarity": "4",
+      "element": "Spectro",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "zani",
+      "file": "zani.png",
+      "rarity": "4",
+      "element": "Spectro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "chisa",
+      "file": "chisa.png",
+      "rarity": "4",
+      "element": "Havoc",
+      "weapon": "Sword"
+    },
+    {
+      "id": "lynae",
+      "file": "lynae.png",
+      "rarity": "4",
+      "element": "Spectro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "luuk-herssen",
+      "file": "luuk-herssen.png",
+      "rarity": "4",
+      "element": "Spectro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "taoqi",
+      "file": "taoqi.png",
+      "rarity": "4",
+      "element": "Havoc",
+      "weapon": "Sword"
+    },
+    {
+      "id": "danjin",
+      "file": "danjin.png",
+      "rarity": "4",
+      "element": "Havoc",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "camellya",
+      "file": "camellya.png",
+      "rarity": "4",
+      "element": "Havoc",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "rover-havoc",
+      "file": "rover-havoc.png",
+      "rarity": "4",
+      "element": "Havoc",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "roccia",
+      "file": "roccia.png",
+      "rarity": "4",
+      "element": "Havoc",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "cantarella",
+      "file": "cantarella.png",
+      "rarity": "4",
+      "element": "Havoc",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "phrolova",
+      "file": "phrolova.png",
+      "rarity": "4",
+      "element": "Havoc",
+      "weapon": "Rectifier"
     }
   ]
 }
