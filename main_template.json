@@ -16,5 +16,11 @@
     "name": "Wuthering Waves",
     "thumbnail": "wuwa/coverico.png",
     "folderPath": "wuwa" 
+  },
+  {
+    "id": "hsr",
+    "name": "Honkai Star Rail",
+    "thumbnail": "hsr/coverico.png",
+    "folderPath": "hsr" 
   }
 ]
