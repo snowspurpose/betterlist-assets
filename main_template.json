@@ -4,27 +4,27 @@
     "name": "Genshin Impact",
     "thumbnail": "genshin/coverico.png", 
     "folderPath": "genshin",
-    "elementfolderPath": "genshin/element/",
+    "elementfolderPath": "genshin/element/"
   },
   {
     "id": "zzz",
     "name": "Zenless Zone Zero",
     "thumbnail": "zzz/coverico.png",
     "folderPath": "zzz",
-    "elementfolderPath": "zzz/element/",
+    "elementfolderPath": "zzz/element/"
   },
   {
     "id": "wuwa",
     "name": "Wuthering Waves",
     "thumbnail": "wuwa/coverico.png",
     "folderPath": "wuwa",
-    "elementfolderPath": "wuwa/element/",
+    "elementfolderPath": "wuwa/element/"
   },
   {
     "id": "hsr",
     "name": "Honkai Star Rail",
     "thumbnail": "hsr/coverico.png",
     "folderPath": "hsr",
-    "elementfolderPath": "hsr/element/",
+    "elementfolderPath": "hsr/element/"
   }
 ]
