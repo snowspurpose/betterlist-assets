@@ -1,0 +1,326 @@
+{
+  "tiers": [
+    {
+      "id": "t0",
+      "name": "T0 (OP)",
+      "color": "#ff7f7f"
+    },
+    {
+      "id": "t1",
+      "name": "T0.5",
+      "color": "#ffbf7f"
+    },
+    {
+      "id": "t2",
+      "name": "T1",
+      "color": "#ffdf7f"
+    },
+    {
+      "id": "t3",
+      "name": "T2",
+      "color": "#ffff7f"
+    }
+  ],
+  "items": [
+    {
+      "id": "sanhua",
+      "file": "sanhua.png",
+      "element": "Glacio",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "baizhi",
+      "file": "baizhi.png",
+      "element": "Glacio",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "lingyang",
+      "file": "lingyang.png",
+      "element": "Glacio",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "zhezhi",
+      "file": "zhezhi.png",
+      "element": "Glacio",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "youhu",
+      "file": "youhu.png",
+      "element": "Glacio",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "carlotta",
+      "file": "carlotta.png",
+      "element": "Glacio",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "chixia",
+      "file": "chixia.png",
+      "element": "Fusion",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "encore",
+      "file": "encore.png",
+      "element": "Fusion",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "mortefi",
+      "file": "mortefi.png",
+      "element": "Fusion",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "changli",
+      "file": "changli.png",
+      "element": "Fusion",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "brant",
+      "file": "brant.png",
+      "element": "Fusion",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "lupa",
+      "file": "lupa.png",
+      "element": "Fusion",
+      "weapon": "Sword"
+    },
+    {
+      "id": "galbrena",
+      "file": "galbrena.png",
+      "element": "Fusion",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "mornye",
+      "file": "mornye.png",
+      "element": "Fusion",
+      "weapon": "Sword"
+    },
+    {
+      "id": "aemeath",
+      "file": "aemeath.png",
+      "element": "Fusion",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "calcharo",
+      "file": "calcharo.png",
+      "element": "Electro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "yinlin",
+      "file": "yinlin.png",
+      "element": "Electro",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "yuanwu",
+      "file": "yuanwu.png",
+      "element": "Electro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "jinhsi",
+      "file": "jinhsi.png",
+      "element": "Spectro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "xiangli-yao",
+      "file": "xiangli-yao.png",
+      "element": "Electro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "augusta",
+      "file": "augusta.png",
+      "element": "Electro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "buling",
+      "file": "buling.png",
+      "element": "Electro",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "yangyang",
+      "file": "yangyang.png",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "aalto",
+      "file": "aalto.png",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "jiyan",
+      "file": "jiyan.png",
+      "element": "Aero",
+      "weapon": "Sword"
+    },
+    {
+      "id": "jianxin",
+      "file": "jianxin.png",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "rover-aero",
+      "file": "rover-aero.png",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "ciaccona",
+      "file": "ciaccona.png",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "rover-aero-2",
+      "file": "rover-aero-2.png",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "cartethyia",
+      "file": "cartethyia.png",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "iuno",
+      "file": "iuno.png",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "qiuyuan",
+      "file": "qiuyuan.png",
+      "element": "Aero",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "rover-spectro",
+      "file": "rover-spectro.png",
+      "element": "Spectro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "rover-spectro-2",
+      "file": "rover-spectro-2.png",
+      "element": "Spectro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "verina",
+      "file": "verina.png",
+      "element": "Spectro",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "lumi",
+      "file": "lumi.png",
+      "element": "Electro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "shorekeeper",
+      "file": "shorekeeper.png",
+      "element": "Spectro",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "phoebe",
+      "file": "phoebe.png",
+      "element": "Spectro",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "zani",
+      "file": "zani.png",
+      "element": "Spectro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "chisa",
+      "file": "chisa.png",
+      "element": "Havoc",
+      "weapon": "Sword"
+    },
+    {
+      "id": "lynae",
+      "file": "lynae.png",
+      "element": "Spectro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "luuk-herssen",
+      "file": "luuk-herssen.png",
+      "element": "Spectro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "taoqi",
+      "file": "taoqi.png",
+      "element": "Havoc",
+      "weapon": "Sword"
+    },
+    {
+      "id": "danjin",
+      "file": "danjin.png",
+      "element": "Havoc",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "camellya",
+      "file": "camellya.png",
+      "element": "Havoc",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "rover-havoc",
+      "file": "rover-havoc.png",
+      "element": "Havoc",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "rover-havoc-2",
+      "file": "rover-havoc-2.png",
+      "element": "Havoc",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "roccia",
+      "file": "roccia.png",
+      "element": "Havoc",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "cantarella",
+      "file": "cantarella.png",
+      "element": "Havoc",
+      "weapon": "Rectifier"
+    },
+    {
+      "id": "phrolova",
+      "file": "phrolova.png",
+      "element": "Havoc",
+      "weapon": "Rectifier"
+    }
+  ]
+}
