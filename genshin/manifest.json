@@ -1,0 +1,836 @@
+{
+  "tiers": [
+    {
+      "id": "t0",
+      "name": "T0 (OP)",
+      "color": "#ff7f7f"
+    },
+    {
+      "id": "t1",
+      "name": "T0.5",
+      "color": "#ffbf7f"
+    },
+    {
+      "id": "t2",
+      "name": "T1",
+      "color": "#ffdf7f"
+    },
+    {
+      "id": "t3",
+      "name": "T2",
+      "color": "#ffff7f"
+    }
+  ],
+  "items": [
+    {
+      "id": "varka",
+      "file": "varka.png",
+      "element": "Anemo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "illuga",
+      "file": "illuga.png",
+      "element": "Geo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "zibai",
+      "file": "zibai.png",
+      "element": "Geo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "columbina",
+      "file": "columbina.png",
+      "element": "Hydro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "jahoda",
+      "file": "jahoda.png",
+      "element": "Anemo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "durin",
+      "file": "durin.png",
+      "element": "Pyro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "nefer",
+      "file": "nefer.png",
+      "element": "Dendro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "aino",
+      "file": "aino.png",
+      "element": "Hydro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "flins",
+      "file": "flins.png",
+      "element": "Electro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "lauma",
+      "file": "lauma.png",
+      "element": "Dendro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "ineffa",
+      "file": "ineffa.png",
+      "element": "Electro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "dahlia",
+      "file": "dahlia.png",
+      "element": "Hydro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "skirk",
+      "file": "skirk.png",
+      "element": "Cryo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "ifa",
+      "file": "ifa.png",
+      "element": "Anemo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "escoffier",
+      "file": "escoffier.png",
+      "element": "Cryo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "varesa",
+      "file": "varesa.png",
+      "element": "Electro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "iansan",
+      "file": "iansan.png",
+      "element": "Electro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "yumemizuki-mizuki",
+      "file": "yumemizuki-mizuki.png",
+      "element": "Anemo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "lan-yan",
+      "file": "lan-yan.png",
+      "element": "Anemo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "citlali",
+      "file": "citlali.png",
+      "element": "Cryo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "mavuika",
+      "file": "mavuika.png",
+      "element": "Pyro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "ororon",
+      "file": "ororon.png",
+      "element": "Electro",
+      "weapon": "Bow"
+    },
+    {
+      "id": "chasca",
+      "file": "chasca.png",
+      "element": "Anemo",
+      "weapon": "Bow"
+    },
+    {
+      "id": "xilonen",
+      "file": "xilonen.png",
+      "element": "Geo",
+      "weapon": "Sword"
+    },
+    {
+      "id": "mualani",
+      "file": "mualani.png",
+      "element": "Hydro",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "kinich",
+      "file": "kinich.png",
+      "element": "Dendro",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "kachina",
+      "file": "kachina.png",
+      "element": "Geo",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "emilie",
+      "file": "emilie.png",
+      "element": "Dendro",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "clorinde",
+      "file": "clorinde.png",
+      "element": "Electro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "sethos",
+      "file": "sethos.png",
+      "element": "Electro",
+      "weapon": "Bow"
+    },
+    {
+      "id": "arlecchino",
+      "file": "arlecchino.png",
+      "element": "Pyro",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "sigewinne",
+      "file": "sigewinne.png",
+      "element": "Hydro",
+      "weapon": "Bow"
+    },
+    {
+      "id": "chiori",
+      "file": "chiori.png",
+      "element": "Geo",
+      "weapon": "Sword"
+    },
+    {
+      "id": "xianyun",
+      "file": "xianyun.png",
+      "element": "Anemo",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "gaming",
+      "file": "gaming.png",
+      "element": "Pyro",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "navia",
+      "file": "navia.png",
+      "element": "Geo",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "chevreuse",
+      "file": "chevreuse.png",
+      "element": "Pyro",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "furina",
+      "file": "furina.png",
+      "element": "Hydro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "charlotte",
+      "file": "charlotte.png",
+      "element": "Cryo",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "neuvillette",
+      "file": "neuvillette.png",
+      "element": "Hydro",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "wriothesley",
+      "file": "wriothesley.png",
+      "element": "Cryo",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "freminet",
+      "file": "freminet.png",
+      "element": "Cryo",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "lyney",
+      "file": "lyney.png",
+      "element": "Pyro",
+      "weapon": "Bow"
+    },
+    {
+      "id": "lynette",
+      "file": "lynette.png",
+      "element": "Anemo",
+      "weapon": "Sword"
+    },
+    {
+      "id": "baizhu",
+      "file": "baizhu.png",
+      "element": "Dendro",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "kaveh",
+      "file": "kaveh.png",
+      "element": "Dendro",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "mika",
+      "file": "mika.png",
+      "element": "Cryo",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "dehya",
+      "file": "dehya.png",
+      "element": "Pyro",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "alhaitham",
+      "file": "alhaitham.png",
+      "element": "Dendro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "yaoyao",
+      "file": "yaoyao.png",
+      "element": "Dendro",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "faruzan",
+      "file": "faruzan.png",
+      "element": "Anemo",
+      "weapon": "Bow"
+    },
+    {
+      "id": "wanderer",
+      "file": "wanderer.png",
+      "element": "Anemo",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "layla",
+      "file": "layla.png",
+      "element": "Cryo",
+      "weapon": "Sword"
+    },
+    {
+      "id": "nahida",
+      "file": "nahida.png",
+      "element": "Dendro",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "candace",
+      "file": "candace.png",
+      "element": "Hydro",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "cyno",
+      "file": "cyno.png",
+      "element": "Electro",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "nilou",
+      "file": "nilou.png",
+      "element": "Hydro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "tighnari",
+      "file": "tighnari.png",
+      "element": "Dendro",
+      "weapon": "Bow"
+    },
+    {
+      "id": "dori",
+      "file": "dori.png",
+      "element": "Electro",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "collei",
+      "file": "collei.png",
+      "element": "Dendro",
+      "weapon": "Bow"
+    },
+    {
+      "id": "kamisato-ayato",
+      "file": "kamisato-ayato.png",
+      "element": "Hydro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "kuki-shinobu",
+      "file": "kuki-shinobu.png",
+      "element": "Electro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "yun-jin",
+      "file": "yun-jin.png",
+      "element": "Geo",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "shenhe",
+      "file": "shenhe.png",
+      "element": "Cryo",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "aloy",
+      "file": "aloy.png",
+      "element": "Cryo",
+      "weapon": "Bow"
+    },
+    {
+      "id": "kirara",
+      "file": "kirara.png",
+      "element": "Dendro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "yelan",
+      "file": "yelan.png",
+      "element": "Hydro",
+      "weapon": "Bow"
+    },
+    {
+      "id": "shikanoin-heizou",
+      "file": "shikanoin-heizou.png",
+      "element": "Anemo",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "yae-miko",
+      "file": "yae-miko.png",
+      "element": "Electro",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "arataki-itto",
+      "file": "arataki-itto.png",
+      "element": "Geo",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "kujou-sara",
+      "file": "kujou-sara.png",
+      "element": "Electro",
+      "weapon": "Bow"
+    },
+    {
+      "id": "gorou",
+      "file": "gorou.png",
+      "element": "Geo",
+      "weapon": "Bow"
+    },
+    {
+      "id": "sangonomiya-kokomi",
+      "file": "sangonomiya-kokomi.png",
+      "element": "Hydro",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "sayu",
+      "file": "sayu.png",
+      "element": "Anemo",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "raiden-shogun",
+      "file": "raiden-shogun.png",
+      "element": "Electro",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "eula",
+      "file": "eula.png",
+      "element": "Cryo",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "thoma",
+      "file": "thoma.png",
+      "element": "Pyro",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "yoimiya",
+      "file": "yoimiya.png",
+      "element": "Pyro",
+      "weapon": "Bow"
+    },
+    {
+      "id": "yanfei",
+      "file": "yanfei.png",
+      "element": "Pyro",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "kaedehara-kazuha",
+      "file": "kaedehara-kazuha.png",
+      "element": "Anemo",
+      "weapon": "Sword"
+    },
+    {
+      "id": "hu-tao",
+      "file": "hu-tao.png",
+      "element": "Pyro",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "rosaria",
+      "file": "rosaria.png",
+      "element": "Cryo",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "xinyan",
+      "file": "xinyan.png",
+      "element": "Pyro",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "sucrose",
+      "file": "sucrose.png",
+      "element": "Anemo",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "keqing",
+      "file": "keqing.png",
+      "element": "Electro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "mona",
+      "file": "mona.png",
+      "element": "Hydro",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "diona",
+      "file": "diona.png",
+      "element": "Cryo",
+      "weapon": "Bow"
+    },
+    {
+      "id": "albedo",
+      "file": "albedo.png",
+      "element": "Geo",
+      "weapon": "Sword"
+    },
+    {
+      "id": "ganyu",
+      "file": "ganyu.png",
+      "element": "Cryo",
+      "weapon": "Bow"
+    },
+    {
+      "id": "chongyun",
+      "file": "chongyun.png",
+      "element": "Cryo",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "qiqi",
+      "file": "qiqi.png",
+      "element": "Cryo",
+      "weapon": "Sword"
+    },
+    {
+      "id": "noelle",
+      "file": "noelle.png",
+      "element": "Geo",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "tartaglia",
+      "file": "tartaglia.png",
+      "element": "Hydro",
+      "weapon": "Bow"
+    },
+    {
+      "id": "bennett",
+      "file": "bennett.png",
+      "element": "Pyro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "fischl",
+      "file": "fischl.png",
+      "element": "Electro",
+      "weapon": "Bow"
+    },
+    {
+      "id": "zhongli",
+      "file": "zhongli.png",
+      "element": "Geo",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "klee",
+      "file": "klee.png",
+      "element": "Pyro",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "ningguang",
+      "file": "ningguang.png",
+      "element": "Geo",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "xiao",
+      "file": "xiao.png",
+      "element": "Anemo",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "xingqiu",
+      "file": "xingqiu.png",
+      "element": "Hydro",
+      "weapon": "Sword"
+    },
+    {
+      "id": "beidou",
+      "file": "beidou.png",
+      "element": "Electro",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "xiangling",
+      "file": "xiangling.png",
+      "element": "Pyro",
+      "weapon": "Polearm"
+    },
+    {
+      "id": "venti",
+      "file": "venti.png",
+      "element": "Anemo",
+      "weapon": "Bow"
+    },
+    {
+      "id": "amber",
+      "file": "amber.png",
+      "element": "Pyro",
+      "weapon": "Bow"
+    },
+    {
+      "id": "razor",
+      "file": "razor.png",
+      "element": "Electro",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "diluc",
+      "file": "diluc.png",
+      "element": "Pyro",
+      "weapon": "Claymore"
+    },
+    {
+      "id": "kaeya",
+      "file": "kaeya.png",
+      "element": "Cryo",
+      "weapon": "Sword"
+    },
+    {
+      "id": "barbara",
+      "file": "barbara.png",
+      "element": "Hydro",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "lisa",
+      "file": "lisa.png",
+      "element": "Electro",
+      "weapon": "Catalyst"
+    },
+    {
+      "id": "jean",
+      "file": "jean.png",
+      "element": "Anemo",
+      "weapon": "Sword"
+    },
+    {
+      "id": "kamisato-ayaka",
+      "file": "kamisato-ayaka.png",
+      "element": "Cryo",
+      "weapon": "Sword"
+    },
+    {
+      "id": "manekina",
+      "file": "manekina.png",
+      "element": "Dendro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "manekina-2",
+      "file": "manekina-2.png",
+      "element": "Electro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "manekina-3",
+      "file": "manekina-3.png",
+      "element": "Geo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "manekina-4",
+      "file": "manekina-4.png",
+      "element": "Anemo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "manekina-5",
+      "file": "manekina-5.png",
+      "element": "Hydro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "manekina-6",
+      "file": "manekina-6.png",
+      "element": "Pyro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "manekin",
+      "file": "manekin.png",
+      "element": "Dendro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "manekin-2",
+      "file": "manekin-2.png",
+      "element": "Electro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "manekin-3",
+      "file": "manekin-3.png",
+      "element": "Geo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "manekin-4",
+      "file": "manekin-4.png",
+      "element": "Anemo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "manekin-5",
+      "file": "manekin-5.png",
+      "element": "Hydro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "manekin-6",
+      "file": "manekin-6.png",
+      "element": "Pyro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "traveler-dendro",
+      "file": "traveler-dendro.png",
+      "element": "Dendro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "traveler-electro",
+      "file": "traveler-electro.png",
+      "element": "Electro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "traveler-geo",
+      "file": "traveler-geo.png",
+      "element": "Geo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "traveler-anemo",
+      "file": "traveler-anemo.png",
+      "element": "Anemo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "traveler-hydro",
+      "file": "traveler-hydro.png",
+      "element": "Hydro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "traveler-pyro",
+      "file": "traveler-pyro.png",
+      "element": "Pyro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "traveler-dendro-2",
+      "file": "traveler-dendro-2.png",
+      "element": "Dendro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "traveler-electro-2",
+      "file": "traveler-electro-2.png",
+      "element": "Electro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "traveler-geo-2",
+      "file": "traveler-geo-2.png",
+      "element": "Geo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "traveler-anemo-2",
+      "file": "traveler-anemo-2.png",
+      "element": "Anemo",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "traveler-hydro-2",
+      "file": "traveler-hydro-2.png",
+      "element": "Hydro",
+      "weapon": "Unknown"
+    },
+    {
+      "id": "traveler-pyro-2",
+      "file": "traveler-pyro-2.png",
+      "element": "Pyro",
+      "weapon": "Unknown"
+    }
+  ]
+}
