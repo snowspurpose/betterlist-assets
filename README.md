@@ -2,7 +2,7 @@
 
 A comprehensive asset repository for popular gacha games, providing character portraits and element icons for tier list generation and character management applications.
 
-**🎮 Live App:** [Betterlist](https://betterlists.vercel.app/) - Create custom tier lists using these assets!
+**🎮 Live App:** [Betterlist](https://betterlists.pages.dev/) - Create custom tier lists using these assets!
 
 ## 📋 Overview
 
@@ -332,7 +332,7 @@ Character data sourced from [hakush.in](https://hakush.in/) - thank you for prov
 
 ## 🔗 Related Projects
 
-**[Betterlist](https://betterlists.vercel.app/)** - The official tier list maker built with these assets. Create and share custom tier lists for Genshin Impact, Honkai: Star Rail, Wuthering Waves, and Zenless Zone Zero.
+**[Betterlist](https://betterlists.pages.dev/)** - The official tier list maker built with these assets. Create and share custom tier lists for Genshin Impact, Honkai: Star Rail, Wuthering Waves, and Zenless Zone Zero.
 
 If you're using these assets in your own project, consider linking back to this repository to help others discover it!
 
