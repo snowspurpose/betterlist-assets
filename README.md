@@ -2,7 +2,7 @@
 
 Asset repository for [Betterlists](https://betterlists.pages.dev/) - a tier list maker for gacha games.
 
-## 🎯 What's This?
+## What's This?
 
 This repo powers [Betterlists](https://betterlists.pages.dev/) with character portraits and element icons for:
 - **Genshin Impact** - 100+ characters, 7 elements
@@ -12,7 +12,7 @@ This repo powers [Betterlists](https://betterlists.pages.dev/) with character po
 
 **Note:** While this is primarily built for Betterlists, you're welcome to use these assets via CDN for your own projects.
 
-## 📁 What's Inside
+## Repository Structure
 
 ```
 betterlist-assets/
@@ -25,20 +25,23 @@ betterlist-assets/
 └── main_template.json           # Game list config
 ```
 
-## 🔗 Using the Assets
+## Using the Assets
 
-**Base URL:**
+### Base URL
+
 ```
 https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/
 ```
 
-**Get a character:**
+### Examples
+
+**Character portraits:**
 ```
 https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/genshin/characters/zhongli.png
 https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/zzz/characters/miyabi.png
 ```
 
-**Get an element icon:**
+**Element icons:**
 ```
 https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/genshin/element/pyro.png
 https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/zzz/element/ice.png
@@ -56,11 +59,11 @@ const char = `${BASE}/genshin/characters/hu-tao.png`;
 const element = `${BASE}/genshin/element/pyro.png`;
 ```
 
-## 📋 Manifest Files
+## Manifest Files
 
-### Game List (`main_template.json`)
+### Game List
 
-Lists all supported games with their paths:
+`main_template.json` lists all supported games with their paths:
 
 ```javascript
 const games = await fetch(
@@ -75,9 +78,9 @@ const games = await fetch(
 // ]
 ```
 
-### Character Data (`{game}/manifest.json`)
+### Character Data
 
-Each game has character info and tier templates:
+Each `{game}/manifest.json` contains character info and tier templates:
 
 ```javascript
 const { tiers, items } = await fetch(
@@ -92,7 +95,7 @@ const { tiers, items } = await fetch(
 - **Genshin/Wuwa:** `id`, `file`, `element`, `weapon`
 - **ZZZ:** `id`, `file`, `element`, `type` (attack/defense/support/anomaly/stun)
 
-## 🎨 Naming Convention
+## Naming Convention
 
 All files use kebab-case:
 - `hu-tao.png` - Standard characters
@@ -104,58 +107,65 @@ All files use kebab-case:
 - Traveler/Rover: Element-specific versions (e.g., `traveler-pyro.png`, `rover-aero.png`)
 - Mannequins: Placeholder images (`manekin.png`, `manekina-2.png`, etc.)
 
-## 🤝 Contributing
+## Contributing
 
 ### Adding New Characters
 
 New character released? Here's how to add them:
 
-1. **Get a high-quality portrait**
-   - PNG format with transparent background
-   - Square aspect ratio preferred
-   - Clear, centered composition
-   - Optimized file size (aim for <500KB)
+#### 1. Prepare the Image
 
-2. **Name it correctly**
-   - Use kebab-case: `character-name.png`
-   - Check existing files for reference
-   - Examples: `lan-yan.png`, `the-herta.png`
+- [x] PNG format with transparent background
+- [x] Square aspect ratio preferred
+- [x] Clear, centered composition
+- [x] Optimized file size (aim for <100KB)
 
-3. **Add to the right folder**
-   ```
-   genshin/characters/new-character.png
-   hsr/characters/new-character.png
-   wuwa/characters/new-character.png
-   zzz/characters/new-character.png
-   ```
+#### 2. Name the File
 
-4. **Update the manifest**
-   
-   Edit `{game}/manifest.json` and add to the `items` array:
-   
-   **For Genshin/Wuwa:**
-   ```json
-   {
-     "id": "new-character",
-     "file": "characters/new-character.png",
-     "element": "Pyro",
-     "weapon": "Sword"
-   }
-   ```
-   
-   **For ZZZ:**
-   ```json
-   {
-     "id": "new-character",
-     "file": "characters/new-character.png",
-     "element": "fire",
-     "type": "attack"
-   }
-   ```
+Use kebab-case: `character-name.png`
 
-5. **Submit a PR**
-   - Title: `Add [Character Name] ([Game])`
-   - Description: Character details and source
+Check existing files for reference:
+- `lan-yan.png`
+- `the-herta.png`
+- `kamisato-ayaka.png`
+
+#### 3. Add to the Correct Folder
+
+```
+genshin/characters/new-character.png
+hsr/characters/new-character.png
+wuwa/characters/new-character.png
+zzz/characters/new-character.png
+```
+
+#### 4. Update the Manifest
+
+Edit `{game}/manifest.json` and add to the `items` array:
+
+**For Genshin/Wuwa:**
+```json
+{
+  "id": "new-character",
+  "file": "characters/new-character.png",
+  "element": "Pyro",
+  "weapon": "Sword"
+}
+```
+
+**For ZZZ:**
+```json
+{
+  "id": "new-character",
+  "file": "characters/new-character.png",
+  "element": "fire",
+  "type": "attack"
+}
+```
+
+#### 5. Submit a Pull Request
+
+- **Title:** `Add [Character Name] ([Game])`
+- **Description:** Character details and source
 
 ### Adding New Games
 
@@ -170,37 +180,46 @@ Open an issue first to discuss!
 
 ### Quality Guidelines
 
-**Images:**
-- ✅ PNG with transparency
-- ✅ High resolution (but optimized)
-- ✅ Centered character
-- ✅ Clean background removal
-- ❌ No watermarks
-- ❌ No low-quality upscales
+#### Images
 
-**Manifests:**
-- ✅ Valid JSON (use a validator)
-- ✅ Consistent property names
-- ✅ Correct element/weapon/type values
-- ✅ Alphabetical order helps but not required
+**Required:**
+- [x] PNG with transparency
+- [x] High resolution (but optimized <100KB)
+- [x] Centered character
+- [x] Clean background removal
+
+**Not Allowed:**
+- [ ] Watermarks
+- [ ] Low-quality upscales
+- [ ] Artifacts or compression issues
+
+#### Manifests
+
+**Required:**
+- [x] Valid JSON (use a validator)
+- [x] Consistent property names
+- [x] Correct element/weapon/type values
+
+**Recommended:**
+- [x] Alphabetical order (helps but not required)
 
 ### Where to Find Assets
 
 Good sources for character images:
-- [hakush.in](https://hakush.in/) - Our current data source (ty!)
+- [hakush.in](https://hakush.in/) - Our current data source
 - Official game wikis
-- Game press kits / official art
+- Game press kits and official art
 - High-quality fan renders (with permission)
 
 **Important:** Make sure you have the right to use any images you submit.
 
-## 🙏 Credits
+## Credits
 
 - Character data sourced from [hakush.in](https://hakush.in/)
 - Built for [Betterlists](https://betterlists.pages.dev/)
-- Community contributors (that's you!)
+- Community contributors
 
-## 📮 Questions?
+## Questions?
 
 - **Bug or missing character?** Open an issue
 - **Want to contribute?** See above and submit a PR
