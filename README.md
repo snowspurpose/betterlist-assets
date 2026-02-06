@@ -6,7 +6,7 @@ A comprehensive asset repository for popular gacha games, providing character po
 
 This repository contains high-quality character portraits and element/type icons for four major gacha games:
 
-- **Genshin Impact** - 150+ characters across 7 elements
+- **Genshin Impact** - 100+ characters across 7 elements
 - **Honkai: Star Rail** - 70+ characters across 7 combat types
 - **Wuthering Waves** - 60+ characters across 6 element types
 - **Zenless Zone Zero** - 55+ characters across 6 attribute types
@@ -14,7 +14,7 @@ This repository contains high-quality character portraits and element/type icons
 ## 🎮 Supported Games
 
 ### Genshin Impact (`/genshin`)
-150+ characters across 7 elements (Anemo, Cryo, Dendro, Electro, Geo, Hydro, Pyro)
+100+ characters across 7 elements (Anemo, Cryo, Dendro, Electro, Geo, Hydro, Pyro)
 
 ### Honkai: Star Rail (`/hsr`)
 70+ characters across 7 combat types (Fire, Ice, Imaginary, Lightning, Physical, Quantum, Wind)
