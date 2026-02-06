@@ -1,349 +1,211 @@
 # Betterlist Assets
 
-A comprehensive asset repository for popular gacha games, providing character portraits and element icons for tier list generation and character management applications.
+Asset repository for [Betterlists](https://betterlists.pages.dev/) - a tier list maker for gacha games.
 
-**🎮 Live App:** [Betterlist](https://betterlists.pages.dev/) - Create custom tier lists using these assets!
+## 🎯 What's This?
 
-## 📋 Overview
+This repo powers [Betterlists](https://betterlists.pages.dev/) with character portraits and element icons for:
+- **Genshin Impact** - 100+ characters, 7 elements
+- **Honkai: Star Rail** - 70+ characters, 7 types
+- **Wuthering Waves** - 60+ resonators, 6 elements
+- **Zenless Zone Zero** - 55+ agents, 6 attributes
 
-This repository contains high-quality character portraits and element/type icons for four major gacha games:
+**Note:** While this is primarily built for Betterlists, you're welcome to use these assets via CDN for your own projects.
 
-- **Genshin Impact** - 100+ characters across 7 elements
-- **Honkai: Star Rail** - 70+ characters across 7 combat types
-- **Wuthering Waves** - 60+ characters across 6 element types
-- **Zenless Zone Zero** - 55+ characters across 6 attribute types
-
-## 🎮 Supported Games
-
-### Genshin Impact (`/genshin`)
-100+ characters across 7 elements (Anemo, Cryo, Dendro, Electro, Geo, Hydro, Pyro)
-
-### Honkai: Star Rail (`/hsr`)
-70+ characters across 7 combat types (Fire, Ice, Imaginary, Lightning, Physical, Quantum, Wind)
-
-### Wuthering Waves (`/wuwa`)
-60+ resonators across 6 elements (Aero, Electro, Fusion, Glacio, Havoc, Spectro)
-
-### Zenless Zone Zero (`/zzz`)
-55+ agents across 6 attributes (Electric, Ether, Fire, Ice, Physical, Honed Edge)
-
-## 📁 Repository Structure
+## 📁 What's Inside
 
 ```
 betterlist-assets/
-├── genshin/
-│   ├── characters/          # 100+ character portraits
-│   ├── element/             # 7 element icons
-│   ├── coverico.png         # Game cover icon
-│   └── manifest.json        # Character and element metadata
-├── hsr/
-│   ├── characters/          # 70+ character portraits
-│   ├── element/             # 7 combat type icons
-│   ├── coverico.png         # Game cover icon
-│   └── manifest.json        # Character and element metadata
-├── wuwa/
-│   ├── characters/          # 60+ character portraits
-│   ├── element/             # 6 element icons
-│   ├── coverico.png         # Game cover icon
-│   └── manifest.json        # Character and element metadata
-├── zzz/
-│   ├── characters/          # 55+ character portraits
-│   ├── element/             # 6 attribute icons
-│   ├── coverico.png         # Game cover icon
-│   └── manifest.json        # Character and element metadata
-├── main_template.json       # Main configuration template
-└── README.md
+├── genshin/characters/          # Character portraits
+├── genshin/element/             # Element icons
+├── genshin/manifest.json        # Character data
+├── hsr/...                      # Same structure for HSR
+├── wuwa/...                     # Same structure for Wuwa
+├── zzz/...                      # Same structure for ZZZ
+└── main_template.json           # Game list config
 ```
 
-## 🔧 Asset Naming Convention
+## 🔗 Using the Assets
 
-All character assets follow a consistent kebab-case naming pattern:
-
+**Base URL:**
 ```
-character-name.png
-```
-
-### Examples:
-- `arataki-itto.png` - Multi-word names use hyphens
-- `kamisato-ayaka.png` - Full character names
-- `hu-tao.png` - Names with spaces
-- `traveler-anemo.png` - Variant characters include suffix
-- `trailblazer-fire.png` - HSR protagonist variants
-- `rover-havoc.png` - Wuthering Waves protagonist variants
-
-### Special Cases:
-- **Travelers/Rovers**: Element-specific variants (e.g., `traveler-dendro.png`, `rover-spectro.png`)
-- **Alternative versions**: Numbered suffixes (e.g., `traveler-anemo-2.png`)
-- **Mannequins**: Placeholder characters (`manekin.png`, `manekina.png` with numbered variants)
-
-## 📦 Usage
-
-### Direct File Access
-
-All assets can be accessed directly via GitHub's raw content URL:
-
-```
-https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/{game}/{type}/{filename}
+https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/
 ```
 
-#### Examples:
-
-**Character Portraits:**
+**Get a character:**
 ```
 https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/genshin/characters/zhongli.png
-https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/hsr/characters/acheron.png
-https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/wuwa/characters/jiyan.png
 https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/zzz/characters/miyabi.png
 ```
 
-**Element Icons:**
+**Get an element icon:**
 ```
 https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/genshin/element/pyro.png
-https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/hsr/element/fire.png
-https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/wuwa/element/havoc.png
-https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/zzz/element/ether.png
+https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/zzz/element/ice.png
 ```
 
-### Integration in Applications
-
-#### JavaScript/TypeScript Example
+### Quick Integration
 
 ```javascript
-const ASSETS_BASE_URL = 'https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main';
+const BASE = 'https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main';
 
-// Get character portrait
-function getCharacterPortrait(game, characterName) {
-  return `${ASSETS_BASE_URL}/${game}/characters/${characterName}.png`;
-}
+// Character image
+const char = `${BASE}/genshin/characters/hu-tao.png`;
 
-// Get element icon
-function getElementIcon(game, elementName) {
-  return `${ASSETS_BASE_URL}/${game}/element/${elementName}.png`;
-}
-
-// Usage
-const zhongliPortrait = getCharacterPortrait('genshin', 'zhongli');
-const pyroIcon = getElementIcon('genshin', 'pyro');
+// Element icon
+const element = `${BASE}/genshin/element/pyro.png`;
 ```
 
-#### React Component Example
+## 📋 Manifest Files
 
-```jsx
-import React from 'react';
+### Game List (`main_template.json`)
 
-const CharacterCard = ({ game, character, element }) => {
-  const baseUrl = 'https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main';
-  
-  return (
-    <div className="character-card">
-      <img 
-        src={`${baseUrl}/${game}/characters/${character}.png`}
-        alt={character}
-        className="character-portrait"
-      />
-      <img 
-        src={`${baseUrl}/${game}/element/${element}.png`}
-        alt={element}
-        className="element-icon"
-      />
-    </div>
-  );
-};
-```
-
-## 📊 Manifest Files
-
-The repository includes two types of manifest files for programmatic access to asset metadata.
-
-### Main Template (`main_template.json`)
-
-Contains the game list configuration with paths to assets:
-
-```json
-[
-  {
-    "id": "genshin",
-    "name": "Genshin Impact",
-    "thumbnail": "genshin/coverico.png",
-    "folderPath": "genshin",
-    "elementfolderPath": "genshin/element/"
-  },
-  {
-    "id": "hsr",
-    "name": "Honkai Star Rail",
-    "thumbnail": "hsr/coverico.png",
-    "folderPath": "hsr",
-    "elementfolderPath": "hsr/element/"
-  }
-  // ... more games
-]
-```
-
-**Properties:**
-- `id` - Unique game identifier
-- `name` - Display name
-- `thumbnail` - Path to game cover icon
-- `folderPath` - Base path for game assets
-- `elementfolderPath` - Path to element/type icons
-
-### Game-Specific Manifests (`{game}/manifest.json`)
-
-Each game folder contains a detailed manifest with character and tier data.
-
-#### Structure
-
-All manifests include:
-- `tiers` - Array of tier definitions for tier lists
-- `items` - Array of character objects
-
-#### Tier Structure
-
-```json
-"tiers": [
-  {
-    "id": "t0",
-    "name": "T0 (OP)",
-    "color": "#ff7f7f"
-  },
-  {
-    "id": "t1",
-    "name": "T0.5",
-    "color": "#ffbf7f"
-  }
-  // ... more tiers
-]
-```
-
-#### Character Structure by Game
-
-**Genshin Impact & Wuthering Waves:**
-```json
-{
-  "id": "zhongli",
-  "file": "characters/zhongli.png",
-  "element": "Geo",
-  "weapon": "Polearm"
-}
-```
-
-**Zenless Zone Zero:**
-```json
-{
-  "id": "miyabi",
-  "file": "characters/miyabi.png",
-  "element": "ice",
-  "type": "anomaly"
-}
-```
-
-**ZZZ Types:** `attack`, `defense`, `support`, `anomaly`, `stun`
-
-### Using Manifests
-
-#### Fetch Game List
+Lists all supported games with their paths:
 
 ```javascript
-const response = await fetch(
+const games = await fetch(
   'https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/main_template.json'
-);
-const games = await response.json();
+).then(r => r.json());
+
+// Result:
+// [
+//   { id: "genshin", name: "Genshin Impact", thumbnail: "genshin/coverico.png", ... },
+//   { id: "hsr", name: "Honkai Star Rail", ... },
+//   ...
+// ]
 ```
 
-#### Fetch Game Characters
+### Character Data (`{game}/manifest.json`)
+
+Each game has character info and tier templates:
 
 ```javascript
-const response = await fetch(
+const { tiers, items } = await fetch(
   'https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/genshin/manifest.json'
-);
-const { tiers, items } = await response.json();
+).then(r => r.json());
 
-// Filter characters by element
-const pyroCharacters = items.filter(char => char.element === 'Pyro');
+// tiers: [{ id: "t0", name: "T0 (OP)", color: "#ff7f7f" }, ...]
+// items: [{ id: "zhongli", file: "characters/zhongli.png", element: "Geo", weapon: "Polearm" }, ...]
 ```
 
-#### Dynamic Character Loading
+**Character Properties:**
+- **Genshin/Wuwa:** `id`, `file`, `element`, `weapon`
+- **ZZZ:** `id`, `file`, `element`, `type` (attack/defense/support/anomaly/stun)
 
-```javascript
-async function loadGameData(gameId) {
-  const manifest = await fetch(
-    `https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/${gameId}/manifest.json`
-  ).then(r => r.json());
-  
-  return {
-    characters: manifest.items.map(item => ({
-      ...item,
-      imageUrl: `https://raw.githubusercontent.com/snowspurpose/betterlist-assets/main/${gameId}/${item.file}`
-    })),
-    tiers: manifest.tiers
-  };
-}
-```
+## 🎨 Naming Convention
 
-## 🎨 Asset Specifications
+All files use kebab-case:
+- `hu-tao.png` - Standard characters
+- `kamisato-ayaka.png` - Full names
+- `traveler-dendro.png` - Element variants
+- `rover-havoc-2.png` - Alt versions (numbered)
 
-- **Format**: PNG with transparency
-- **Character Portraits**: Consistent aspect ratio and sizing
-- **Element Icons**: Square format, optimized for use as badges/tags
-- **Cover Icons**: Game-specific branding/logo representations
-
-## 🔄 Updates and Maintenance
-
-This repository is regularly updated to include:
-- New character releases
-- Character variant additions
-- Asset quality improvements
-- New game support
+**Special characters:**
+- Traveler/Rover: Element-specific versions (e.g., `traveler-pyro.png`, `rover-aero.png`)
+- Mannequins: Placeholder images (`manekin.png`, `manekina-2.png`, etc.)
 
 ## 🤝 Contributing
 
-To contribute new assets or report issues:
+### Adding New Characters
 
-1. Ensure assets follow the naming convention
-2. Verify image quality and format (PNG)
-3. Submit a pull request with clear descriptions
-4. Update the relevant `manifest.json` file
+New character released? Here's how to add them:
 
-### Asset Guidelines
+1. **Get a high-quality portrait**
+   - PNG format with transparent background
+   - Square aspect ratio preferred
+   - Clear, centered composition
+   - Optimized file size (aim for <500KB)
 
-- **Character portraits**: High-quality, transparent background, centered composition
-- **Element icons**: Clean, recognizable symbols at various sizes
-- **Naming**: Use kebab-case, avoid special characters except hyphens
-- **File size**: Optimize images without significant quality loss
+2. **Name it correctly**
+   - Use kebab-case: `character-name.png`
+   - Check existing files for reference
+   - Examples: `lan-yan.png`, `the-herta.png`
 
-## 📝 License
+3. **Add to the right folder**
+   ```
+   genshin/characters/new-character.png
+   hsr/characters/new-character.png
+   wuwa/characters/new-character.png
+   zzz/characters/new-character.png
+   ```
 
-Please refer to the repository license for usage terms and conditions.
+4. **Update the manifest**
+   
+   Edit `{game}/manifest.json` and add to the `items` array:
+   
+   **For Genshin/Wuwa:**
+   ```json
+   {
+     "id": "new-character",
+     "file": "characters/new-character.png",
+     "element": "Pyro",
+     "weapon": "Sword"
+   }
+   ```
+   
+   **For ZZZ:**
+   ```json
+   {
+     "id": "new-character",
+     "file": "characters/new-character.png",
+     "element": "fire",
+     "type": "attack"
+   }
+   ```
 
-## 🎯 Use Cases
+5. **Submit a PR**
+   - Title: `Add [Character Name] ([Game])`
+   - Description: Character details and source
 
-This asset repository is perfect for:
+### Adding New Games
 
-- **Tier List Generators**: Create visual tier lists for characters
-- **Team Builders**: Design team composition tools
-- **Character Databases**: Build searchable character catalogs
-- **Discord Bots**: Integrate character data and visuals
-- **Mobile Apps**: Use in companion apps and guides
-- **Wiki Sites**: Enhance game wikis and databases
-- **Content Creation**: Thumbnails, guides, and video content
+Want to add a new game? You'll need:
+- Character portraits folder
+- Element/type icons folder
+- Game cover icon (`coverico.png`)
+- Manifest file following the existing structure
+- Entry in `main_template.json`
+
+Open an issue first to discuss!
+
+### Quality Guidelines
+
+**Images:**
+- ✅ PNG with transparency
+- ✅ High resolution (but optimized)
+- ✅ Centered character
+- ✅ Clean background removal
+- ❌ No watermarks
+- ❌ No low-quality upscales
+
+**Manifests:**
+- ✅ Valid JSON (use a validator)
+- ✅ Consistent property names
+- ✅ Correct element/weapon/type values
+- ✅ Alphabetical order helps but not required
+
+### Where to Find Assets
+
+Good sources for character images:
+- [hakush.in](https://hakush.in/) - Our current data source (ty!)
+- Official game wikis
+- Game press kits / official art
+- High-quality fan renders (with permission)
+
+**Important:** Make sure you have the right to use any images you submit.
 
 ## 🙏 Credits
 
-Character data sourced from [hakush.in](https://hakush.in/) - thank you for providing comprehensive game databases!
+- Character data sourced from [hakush.in](https://hakush.in/)
+- Built for [Betterlists](https://betterlists.pages.dev/)
+- Community contributors (that's you!)
 
-## 🔗 Related Projects
+## 📮 Questions?
 
-**[Betterlist](https://betterlists.pages.dev/)** - The official tier list maker built with these assets. Create and share custom tier lists for Genshin Impact, Honkai: Star Rail, Wuthering Waves, and Zenless Zone Zero.
-
-If you're using these assets in your own project, consider linking back to this repository to help others discover it!
-
-## 📮 Contact & Support
-
-For questions, suggestions, or issues, please use the GitHub Issues tab.
+- **Bug or missing character?** Open an issue
+- **Want to contribute?** See above and submit a PR
+- **Using this for your project?** That's cool! A link back is appreciated but not required
 
 ---
 
-**Note**: This is an unofficial fan-made asset repository. All character designs and game elements are property of their respective owners:
-- Genshin Impact © HoYoverse
-- Honkai: Star Rail © HoYoverse  
-- Wuthering Waves © Kuro Games
-- Zenless Zone Zero © HoYoverse
+**Disclaimer:** Unofficial fan project. All game assets © their respective owners (HoYoverse, Kuro Games). Not affiliated with or endorsed by any game publisher.
