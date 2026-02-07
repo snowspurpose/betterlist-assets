@@ -104,7 +104,7 @@
       "id": "banyue",
       "name": "Banyue",
       "file": "characters/banyue.png",
-      "specialty": "unknown",
+      "specialty": "rupture",
       "attributes": "fire",
       "extra": {
         "rank": "S",
@@ -299,7 +299,7 @@
       "id": "komano-manato",
       "name": "Komano Manato",
       "file": "characters/komano-manato.png",
-      "specialty": "unknown",
+      "specialty": "rupture",
       "attributes": "fire",
       "extra": {
         "rank": "A",
@@ -598,7 +598,7 @@
       "id": "yidhari-murphy",
       "name": "Yidhari Murphy",
       "file": "characters/yidhari-murphy.png",
-      "specialty": "unknown",
+      "specialty": "rupture",
       "attributes": "ice",
       "extra": {
         "rank": "S",
