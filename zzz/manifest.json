@@ -747,7 +747,7 @@
       "name": "Yixuan",
       "file": "characters/yixuan.png",
       "specialty": "rupture",
-      "attributes": "auric ink",
+      "attributes": "auric-link",
       "extra": {
         "rank": "S",
         "rarity": "S-Rank",
