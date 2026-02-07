@@ -23,406 +23,1332 @@
   ],
   "items": [
     {
-      "id": "castorice",
-      "file": "characters/castorice.png",
-      "element": "quantum",
-      "path": "remembrance"
-    },
-    {
-      "id": "mydei",
-      "file": "characters/mydei.png",
-      "element": "ice",
-      "path": "hunt"
-    },
-    {
-      "id": "tribbie",
-      "file": "characters/tribbie.png",
-      "element": "quantum",
-      "path": "harmony"
+      "id": "acheron",
+      "name": "Acheron",
+      "file": "characters/acheron.png",
+      "specialty": "Nihility",
+      "attributes": "Lightning",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Nihility",
+        "version": "2.1",
+        "portrait": "characters/portraits/acheron.png"
+      }
     },
     {
       "id": "aglaea",
+      "name": "Aglaea",
       "file": "characters/aglaea.png",
-      "element": "lightning",
-      "path": "remembrance"
+      "specialty": "Remembrance",
+      "attributes": "Lightning",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Remembrance",
+        "version": "3.0",
+        "portrait": "characters/portraits/aglaea.png"
+      }
     },
     {
-      "id": "the-herta",
-      "file": "characters/the-herta.png",
-      "element": "ice",
-      "path": "erudition"
+      "id": "anaxa",
+      "name": "Anaxa",
+      "file": "characters/anaxa.png",
+      "specialty": "Erudition",
+      "attributes": "Wind",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Erudition",
+        "version": "3.2",
+        "portrait": "characters/portraits/anaxa.png"
+      }
     },
     {
-      "id": "trailblazer-ice",
-      "file": "characters/trailblazer-ice.png",
-      "element": "ice",
-      "path": "remembrance"
-    },
-    {
-      "id": "fugue",
-      "file": "characters/fugue.png",
-      "element": "fire",
-      "path": "nihility"
-    },
-    {
-      "id": "sunday",
-      "file": "characters/sunday.png",
-      "element": "imaginary",
-      "path": "harmony"
-    },
-    {
-      "id": "rappa",
-      "file": "characters/rappa.png",
-      "element": "imaginary",
-      "path": "erudition"
-    },
-    {
-      "id": "lingsha",
-      "file": "characters/lingsha.png",
-      "element": "fire",
-      "path": "abundance"
-    },
-    {
-      "id": "feixiao",
-      "file": "characters/feixiao.png",
-      "element": "wind",
-      "path": "hunt"
-    },
-    {
-      "id": "moze",
-      "file": "characters/moze.png",
-      "element": "lightning",
-      "path": "hunt"
-    },
-    {
-      "id": "jiaoqiu",
-      "file": "characters/jiaoqiu.png",
-      "element": "fire",
-      "path": "nihility"
-    },
-    {
-      "id": "yunli",
-      "file": "characters/yunli.png",
-      "element": "physical",
-      "path": "destruction"
-    },
-    {
-      "id": "march-7th",
-      "file": "characters/march-7th.png",
-      "element": "ice",
-      "path": "preservation"
-    },
-    {
-      "id": "jade",
-      "file": "characters/jade.png",
-      "element": "quantum",
-      "path": "erudition"
-    },
-    {
-      "id": "firefly",
-      "file": "characters/firefly.png",
-      "element": "fire",
-      "path": "destruction"
-    },
-    {
-      "id": "boothill",
-      "file": "characters/boothill.png",
-      "element": "physical",
-      "path": "hunt"
-    },
-    {
-      "id": "robin",
-      "file": "characters/robin.png",
-      "element": "physical",
-      "path": "harmony"
-    },
-    {
-      "id": "trailblazer-imaginary",
-      "file": "characters/trailblazer-imaginary.png",
-      "element": "imaginary",
-      "path": "harmony"
-    },
-    {
-      "id": "aventurine",
-      "file": "characters/aventurine.png",
-      "element": "imaginary",
-      "path": "preservation"
-    },
-    {
-      "id": "gallagher",
-      "file": "characters/gallagher.png",
-      "element": "fire",
-      "path": "abundance"
-    },
-    {
-      "id": "acheron",
-      "file": "characters/acheron.png",
-      "element": "lightning",
-      "path": "nihility"
-    },
-    {
-      "id": "misha",
-      "file": "characters/misha.png",
-      "element": "ice",
-      "path": "destruction"
-    },
-    {
-      "id": "sparkle",
-      "file": "characters/sparkle.png",
-      "element": "quantum",
-      "path": "harmony"
-    },
-    {
-      "id": "black-swan",
-      "file": "characters/black-swan.png",
-      "element": "wind",
-      "path": "nihility"
-    },
-    {
-      "id": "dr-ratio",
-      "file": "characters/dr-ratio.png",
-      "element": "imaginary",
-      "path": "hunt"
-    },
-    {
-      "id": "xueyi",
-      "file": "characters/xueyi.png",
-      "element": "quantum",
-      "path": "destruction"
-    },
-    {
-      "id": "ruan-mei",
-      "file": "characters/ruan-mei.png",
-      "element": "ice",
-      "path": "harmony"
-    },
-    {
-      "id": "hanya",
-      "file": "characters/hanya.png",
-      "element": "physical",
-      "path": "harmony"
+      "id": "archer",
+      "name": "Archer",
+      "file": "characters/archer.png",
+      "specialty": "The Hunt",
+      "attributes": "Quantum",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "The Hunt",
+        "version": "3.4",
+        "portrait": "characters/portraits/archer.png"
+      }
     },
     {
       "id": "argenti",
+      "name": "Argenti",
       "file": "characters/argenti.png",
-      "element": "physical",
-      "path": "erudition"
-    },
-    {
-      "id": "huohuo",
-      "file": "characters/huohuo.png",
-      "element": "wind",
-      "path": "abundance"
-    },
-    {
-      "id": "topaz",
-      "file": "characters/topaz.png",
-      "element": "fire",
-      "path": "hunt"
-    },
-    {
-      "id": "guinaifen",
-      "file": "characters/guinaifen.png",
-      "element": "fire",
-      "path": "nihility"
-    },
-    {
-      "id": "jingliu",
-      "file": "characters/jingliu.png",
-      "element": "ice",
-      "path": "destruction"
-    },
-    {
-      "id": "lynx",
-      "file": "characters/lynx.png",
-      "element": "quantum",
-      "path": "abundance"
-    },
-    {
-      "id": "fu-xuan",
-      "file": "characters/fu-xuan.png",
-      "element": "quantum",
-      "path": "preservation"
-    },
-    {
-      "id": "imbibitor-lunae",
-      "file": "characters/imbibitor-lunae.png",
-      "element": "imaginary",
-      "path": "destruction"
-    },
-    {
-      "id": "kafka",
-      "file": "characters/kafka.png",
-      "element": "lightning",
-      "path": "nihility"
-    },
-    {
-      "id": "luka",
-      "file": "characters/luka.png",
-      "element": "physical",
-      "path": "nihility"
-    },
-    {
-      "id": "blade",
-      "file": "characters/blade.png",
-      "element": "wind",
-      "path": "destruction"
-    },
-    {
-      "id": "luocha",
-      "file": "characters/luocha.png",
-      "element": "imaginary",
-      "path": "abundance"
-    },
-    {
-      "id": "yukong",
-      "file": "characters/yukong.png",
-      "element": "imaginary",
-      "path": "harmony"
-    },
-    {
-      "id": "silver-wolf",
-      "file": "characters/silver-wolf.png",
-      "element": "quantum",
-      "path": "nihility"
-    },
-    {
-      "id": "jing-yuan",
-      "file": "characters/jing-yuan.png",
-      "element": "lightning",
-      "path": "erudition"
-    },
-    {
-      "id": "dan-heng",
-      "file": "characters/dan-heng.png",
-      "element": "wind",
-      "path": "hunt"
-    },
-    {
-      "id": "himeko",
-      "file": "characters/himeko.png",
-      "element": "fire",
-      "path": "erudition"
-    },
-    {
-      "id": "welt",
-      "file": "characters/welt.png",
-      "element": "imaginary",
-      "path": "nihility"
+      "specialty": "Erudition",
+      "attributes": "Physical",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Erudition",
+        "version": "1.5",
+        "portrait": "characters/portraits/argenti.png"
+      }
     },
     {
       "id": "arlan",
+      "name": "Arlan",
       "file": "characters/arlan.png",
-      "element": "lightning",
-      "path": "destruction"
+      "specialty": "Destruction",
+      "attributes": "Lightning",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Destruction",
+        "version": "1.0",
+        "portrait": "characters/portraits/arlan.png"
+      }
     },
     {
       "id": "asta",
+      "name": "Asta",
       "file": "characters/asta.png",
-      "element": "fire",
-      "path": "harmony"
+      "specialty": "Harmony",
+      "attributes": "Fire",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Harmony",
+        "version": "1.0",
+        "portrait": "characters/portraits/asta.png"
+      }
     },
     {
-      "id": "herta",
-      "file": "characters/herta.png",
-      "element": "ice",
-      "path": "erudition"
-    },
-    {
-      "id": "bronya",
-      "file": "characters/bronya.png",
-      "element": "wind",
-      "path": "harmony"
-    },
-    {
-      "id": "seele",
-      "file": "characters/seele.png",
-      "element": "quantum",
-      "path": "hunt"
-    },
-    {
-      "id": "serval",
-      "file": "characters/serval.png",
-      "element": "lightning",
-      "path": "erudition"
-    },
-    {
-      "id": "gepard",
-      "file": "characters/gepard.png",
-      "element": "ice",
-      "path": "preservation"
-    },
-    {
-      "id": "natasha",
-      "file": "characters/natasha.png",
-      "element": "physical",
-      "path": "abundance"
-    },
-    {
-      "id": "pela",
-      "file": "characters/pela.png",
-      "element": "ice",
-      "path": "nihility"
-    },
-    {
-      "id": "clara",
-      "file": "characters/clara.png",
-      "element": "physical",
-      "path": "destruction"
-    },
-    {
-      "id": "sampo",
-      "file": "characters/sampo.png",
-      "element": "wind",
-      "path": "nihility"
-    },
-    {
-      "id": "hook",
-      "file": "characters/hook.png",
-      "element": "fire",
-      "path": "destruction"
-    },
-    {
-      "id": "qingque",
-      "file": "characters/qingque.png",
-      "element": "quantum",
-      "path": "erudition"
-    },
-    {
-      "id": "tingyun",
-      "file": "characters/tingyun.png",
-      "element": "lightning",
-      "path": "harmony"
-    },
-    {
-      "id": "sushang",
-      "file": "characters/sushang.png",
-      "element": "physical",
-      "path": "hunt"
-    },
-    {
-      "id": "yanqing",
-      "file": "characters/yanqing.png",
-      "element": "ice",
-      "path": "hunt"
+      "id": "aventurine",
+      "name": "Aventurine",
+      "file": "characters/aventurine.png",
+      "specialty": "Preservation",
+      "attributes": "Imaginary",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Preservation",
+        "version": "2.1",
+        "portrait": "characters/portraits/aventurine.png"
+      }
     },
     {
       "id": "bailu",
+      "name": "Bailu",
       "file": "characters/bailu.png",
-      "element": "lightning",
-      "path": "abundance"
+      "specialty": "Abundance",
+      "attributes": "Lightning",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Abundance",
+        "version": "1.0",
+        "portrait": "characters/portraits/bailu.png"
+      }
     },
     {
-      "id": "trailblazer-physical",
-      "file": "characters/trailblazer-physical.png",
-      "element": "physical",
-      "path": "destruction"
+      "id": "black-swan",
+      "name": "Black Swan",
+      "file": "characters/black-swan.png",
+      "specialty": "Nihility",
+      "attributes": "Wind",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Nihility",
+        "version": "2.0",
+        "portrait": "characters/portraits/black-swan.png"
+      }
     },
     {
-      "id": "trailblazer-fire",
-      "file": "characters/trailblazer-fire.png",
-      "element": "fire",
-      "path": "preservation"
+      "id": "blade",
+      "name": "Blade",
+      "file": "characters/blade.png",
+      "specialty": "Destruction",
+      "attributes": "Wind",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Destruction",
+        "version": "1.2",
+        "portrait": "characters/portraits/blade.png"
+      }
+    },
+    {
+      "id": "boothill",
+      "name": "Boothill",
+      "file": "characters/boothill.png",
+      "specialty": "The Hunt",
+      "attributes": "Physical",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "The Hunt",
+        "version": "2.2",
+        "portrait": "characters/portraits/boothill.png"
+      }
+    },
+    {
+      "id": "bronya",
+      "name": "Bronya",
+      "file": "characters/bronya.png",
+      "specialty": "Harmony",
+      "attributes": "Wind",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Harmony",
+        "version": "1.0",
+        "portrait": "characters/portraits/bronya.png"
+      }
+    },
+    {
+      "id": "castorice",
+      "name": "Castorice",
+      "file": "characters/castorice.png",
+      "specialty": "Remembrance",
+      "attributes": "Quantum",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Remembrance",
+        "version": "3.2",
+        "portrait": "characters/portraits/castorice.png"
+      }
+    },
+    {
+      "id": "cerydra",
+      "name": "Cerydra",
+      "file": "characters/cerydra.png",
+      "specialty": "Harmony",
+      "attributes": "Wind",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Harmony",
+        "version": "3.5",
+        "portrait": "characters/portraits/cerydra.png"
+      }
+    },
+    {
+      "id": "cipher",
+      "name": "Cipher",
+      "file": "characters/cipher.png",
+      "specialty": "Nihility",
+      "attributes": "Quantum",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Nihility",
+        "version": "3.3",
+        "portrait": "characters/portraits/cipher.png"
+      }
+    },
+    {
+      "id": "clara",
+      "name": "Clara",
+      "file": "characters/clara.png",
+      "specialty": "Destruction",
+      "attributes": "Physical",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Destruction",
+        "version": "1.0",
+        "portrait": "characters/portraits/clara.png"
+      }
+    },
+    {
+      "id": "cyrene",
+      "name": "Cyrene",
+      "file": "characters/cyrene.png",
+      "specialty": "Remembrance",
+      "attributes": "Ice",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Remembrance",
+        "version": "3.7",
+        "portrait": "characters/portraits/cyrene.png"
+      }
+    },
+    {
+      "id": "dan-heng",
+      "name": "Dan Heng",
+      "file": "characters/dan-heng.png",
+      "specialty": "The Hunt",
+      "attributes": "Wind",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "The Hunt",
+        "version": "1.0",
+        "portrait": "characters/portraits/dan-heng.png"
+      }
+    },
+    {
+      "id": "dan-heng-imbibitor-lunae",
+      "name": "Dan Heng • Imbibitor Lunae",
+      "file": "characters/dan-heng-imbibitor-lunae.png",
+      "specialty": "Destruction",
+      "attributes": "Imaginary",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Destruction",
+        "version": "1.3",
+        "portrait": "characters/portraits/dan-heng-imbibitor-lunae.png"
+      }
+    },
+    {
+      "id": "dan-heng-permansor-terrae",
+      "name": "Dan Heng • Permansor Terrae",
+      "file": "characters/dan-heng-permansor-terrae.png",
+      "specialty": "Preservation",
+      "attributes": "Physical",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Preservation",
+        "version": "3.6",
+        "portrait": "characters/portraits/dan-heng-permansor-terrae.png"
+      }
+    },
+    {
+      "id": "dr-ratio",
+      "name": "Dr. Ratio",
+      "file": "characters/dr-ratio.png",
+      "specialty": "The Hunt",
+      "attributes": "Imaginary",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "The Hunt",
+        "version": "1.6",
+        "portrait": "characters/portraits/dr-ratio.png"
+      }
+    },
+    {
+      "id": "evernight",
+      "name": "Evernight",
+      "file": "characters/evernight.png",
+      "specialty": "Remembrance",
+      "attributes": "Ice",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Remembrance",
+        "version": "3.6",
+        "portrait": "characters/portraits/evernight.png"
+      }
+    },
+    {
+      "id": "feixiao",
+      "name": "Feixiao",
+      "file": "characters/feixiao.png",
+      "specialty": "The Hunt",
+      "attributes": "Wind",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "The Hunt",
+        "version": "2.5",
+        "portrait": "characters/portraits/feixiao.png"
+      }
+    },
+    {
+      "id": "firefly",
+      "name": "Firefly",
+      "file": "characters/firefly.png",
+      "specialty": "Destruction",
+      "attributes": "Fire",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Destruction",
+        "version": "2.3",
+        "portrait": "characters/portraits/firefly.png"
+      }
+    },
+    {
+      "id": "fu-xuan",
+      "name": "Fu Xuan",
+      "file": "characters/fu-xuan.png",
+      "specialty": "Preservation",
+      "attributes": "Quantum",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Preservation",
+        "version": "1.3",
+        "portrait": "characters/portraits/fu-xuan.png"
+      }
+    },
+    {
+      "id": "fugue",
+      "name": "Fugue",
+      "file": "characters/fugue.png",
+      "specialty": "Nihility",
+      "attributes": "Fire",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Nihility",
+        "version": "2.7",
+        "portrait": "characters/portraits/fugue.png"
+      }
+    },
+    {
+      "id": "gallagher",
+      "name": "Gallagher",
+      "file": "characters/gallagher.png",
+      "specialty": "Abundance",
+      "attributes": "Fire",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Abundance",
+        "version": "2.1",
+        "portrait": "characters/portraits/gallagher.png"
+      }
+    },
+    {
+      "id": "gepard",
+      "name": "Gepard",
+      "file": "characters/gepard.png",
+      "specialty": "Preservation",
+      "attributes": "Ice",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Preservation",
+        "version": "1.0",
+        "portrait": "characters/portraits/gepard.png"
+      }
+    },
+    {
+      "id": "guinaifen",
+      "name": "Guinaifen",
+      "file": "characters/guinaifen.png",
+      "specialty": "Nihility",
+      "attributes": "Fire",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Nihility",
+        "version": "1.4",
+        "portrait": "characters/portraits/guinaifen.png"
+      }
+    },
+    {
+      "id": "hanya",
+      "name": "Hanya",
+      "file": "characters/hanya.png",
+      "specialty": "Harmony",
+      "attributes": "Physical",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Harmony",
+        "version": "1.5",
+        "portrait": "characters/portraits/hanya.png"
+      }
+    },
+    {
+      "id": "herta",
+      "name": "Herta",
+      "file": "characters/herta.png",
+      "specialty": "Erudition",
+      "attributes": "Ice",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Erudition",
+        "version": "1.0",
+        "portrait": "characters/portraits/herta.png"
+      }
+    },
+    {
+      "id": "himeko",
+      "name": "Himeko",
+      "file": "characters/himeko.png",
+      "specialty": "Erudition",
+      "attributes": "Fire",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Erudition",
+        "version": "1.0",
+        "portrait": "characters/portraits/himeko.png"
+      }
+    },
+    {
+      "id": "hook",
+      "name": "Hook",
+      "file": "characters/hook.png",
+      "specialty": "Destruction",
+      "attributes": "Fire",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Destruction",
+        "version": "1.0",
+        "portrait": "characters/portraits/hook.png"
+      }
+    },
+    {
+      "id": "huohuo",
+      "name": "Huohuo",
+      "file": "characters/huohuo.png",
+      "specialty": "Abundance",
+      "attributes": "Wind",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Abundance",
+        "version": "1.5",
+        "portrait": "characters/portraits/huohuo.png"
+      }
+    },
+    {
+      "id": "hyacine",
+      "name": "Hyacine",
+      "file": "characters/hyacine.png",
+      "specialty": "Remembrance",
+      "attributes": "Wind",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Remembrance",
+        "version": "3.3",
+        "portrait": "characters/portraits/hyacine.png"
+      }
+    },
+    {
+      "id": "hysilens",
+      "name": "Hysilens",
+      "file": "characters/hysilens.png",
+      "specialty": "Nihility",
+      "attributes": "Physical",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Nihility",
+        "version": "3.5",
+        "portrait": "characters/portraits/hysilens.png"
+      }
+    },
+    {
+      "id": "jade",
+      "name": "Jade",
+      "file": "characters/jade.png",
+      "specialty": "Erudition",
+      "attributes": "Quantum",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Erudition",
+        "version": "2.3",
+        "portrait": "characters/portraits/jade.png"
+      }
+    },
+    {
+      "id": "jiaoqiu",
+      "name": "Jiaoqiu",
+      "file": "characters/jiaoqiu.png",
+      "specialty": "Nihility",
+      "attributes": "Fire",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Nihility",
+        "version": "2.4",
+        "portrait": "characters/portraits/jiaoqiu.png"
+      }
+    },
+    {
+      "id": "jing-yuan",
+      "name": "Jing Yuan",
+      "file": "characters/jing-yuan.png",
+      "specialty": "Erudition",
+      "attributes": "Lightning",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Erudition",
+        "version": "1.0",
+        "portrait": "characters/portraits/jing-yuan.png"
+      }
+    },
+    {
+      "id": "jingliu",
+      "name": "Jingliu",
+      "file": "characters/jingliu.png",
+      "specialty": "Destruction",
+      "attributes": "Ice",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Destruction",
+        "version": "1.4",
+        "portrait": "characters/portraits/jingliu.png"
+      }
+    },
+    {
+      "id": "kafka",
+      "name": "Kafka",
+      "file": "characters/kafka.png",
+      "specialty": "Nihility",
+      "attributes": "Lightning",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Nihility",
+        "version": "1.2",
+        "portrait": "characters/portraits/kafka.png"
+      }
+    },
+    {
+      "id": "lingsha",
+      "name": "Lingsha",
+      "file": "characters/lingsha.png",
+      "specialty": "Abundance",
+      "attributes": "Fire",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Abundance",
+        "version": "2.5",
+        "portrait": "characters/portraits/lingsha.png"
+      }
+    },
+    {
+      "id": "luka",
+      "name": "Luka",
+      "file": "characters/luka.png",
+      "specialty": "Nihility",
+      "attributes": "Physical",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Nihility",
+        "version": "1.2",
+        "portrait": "characters/portraits/luka.png"
+      }
+    },
+    {
+      "id": "luocha",
+      "name": "Luocha",
+      "file": "characters/luocha.png",
+      "specialty": "Abundance",
+      "attributes": "Imaginary",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Abundance",
+        "version": "1.1",
+        "portrait": "characters/portraits/luocha.png"
+      }
+    },
+    {
+      "id": "lynx",
+      "name": "Lynx",
+      "file": "characters/lynx.png",
+      "specialty": "Abundance",
+      "attributes": "Quantum",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Abundance",
+        "version": "1.3",
+        "portrait": "characters/portraits/lynx.png"
+      }
+    },
+    {
+      "id": "march-7th",
+      "name": "March 7th",
+      "file": "characters/march-7th.png",
+      "specialty": "Preservation",
+      "attributes": "Ice",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Preservation",
+        "version": "1.0",
+        "portrait": "characters/portraits/march-7th.png"
+      }
+    },
+    {
+      "id": "march-7th",
+      "name": "March 7th",
+      "file": "characters/march-7th.png",
+      "specialty": "The Hunt",
+      "attributes": "Imaginary",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "The Hunt",
+        "version": "2.4",
+        "portrait": "characters/portraits/march-7th.png"
+      }
+    },
+    {
+      "id": "misha",
+      "name": "Misha",
+      "file": "characters/misha.png",
+      "specialty": "Destruction",
+      "attributes": "Ice",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Destruction",
+        "version": "2.0",
+        "portrait": "characters/portraits/misha.png"
+      }
+    },
+    {
+      "id": "moze",
+      "name": "Moze",
+      "file": "characters/moze.png",
+      "specialty": "The Hunt",
+      "attributes": "Lightning",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "The Hunt",
+        "version": "2.5",
+        "portrait": "characters/portraits/moze.png"
+      }
+    },
+    {
+      "id": "mydei",
+      "name": "Mydei",
+      "file": "characters/mydei.png",
+      "specialty": "Destruction",
+      "attributes": "Imaginary",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Destruction",
+        "version": "3.1",
+        "portrait": "characters/portraits/mydei.png"
+      }
+    },
+    {
+      "id": "natasha",
+      "name": "Natasha",
+      "file": "characters/natasha.png",
+      "specialty": "Abundance",
+      "attributes": "Physical",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Abundance",
+        "version": "1.0",
+        "portrait": "characters/portraits/natasha.png"
+      }
+    },
+    {
+      "id": "pela",
+      "name": "Pela",
+      "file": "characters/pela.png",
+      "specialty": "Nihility",
+      "attributes": "Ice",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Nihility",
+        "version": "1.0",
+        "portrait": "characters/portraits/pela.png"
+      }
+    },
+    {
+      "id": "phainon",
+      "name": "Phainon",
+      "file": "characters/phainon.png",
+      "specialty": "Destruction",
+      "attributes": "Physical",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Destruction",
+        "version": "3.4",
+        "portrait": "characters/portraits/phainon.png"
+      }
+    },
+    {
+      "id": "qingque",
+      "name": "Qingque",
+      "file": "characters/qingque.png",
+      "specialty": "Erudition",
+      "attributes": "Quantum",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Erudition",
+        "version": "1.0",
+        "portrait": "characters/portraits/qingque.png"
+      }
+    },
+    {
+      "id": "rappa",
+      "name": "Rappa",
+      "file": "characters/rappa.png",
+      "specialty": "Erudition",
+      "attributes": "Imaginary",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Erudition",
+        "version": "2.6",
+        "portrait": "characters/portraits/rappa.png"
+      }
+    },
+    {
+      "id": "robin",
+      "name": "Robin",
+      "file": "characters/robin.png",
+      "specialty": "Harmony",
+      "attributes": "Physical",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Harmony",
+        "version": "2.2",
+        "portrait": "characters/portraits/robin.png"
+      }
+    },
+    {
+      "id": "ruan-mei",
+      "name": "Ruan Mei",
+      "file": "characters/ruan-mei.png",
+      "specialty": "Harmony",
+      "attributes": "Ice",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Harmony",
+        "version": "1.6",
+        "portrait": "characters/portraits/ruan-mei.png"
+      }
+    },
+    {
+      "id": "saber",
+      "name": "Saber",
+      "file": "characters/saber.png",
+      "specialty": "Destruction",
+      "attributes": "Wind",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Destruction",
+        "version": "3.4",
+        "portrait": "characters/portraits/saber.png"
+      }
+    },
+    {
+      "id": "sampo",
+      "name": "Sampo",
+      "file": "characters/sampo.png",
+      "specialty": "Nihility",
+      "attributes": "Wind",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Nihility",
+        "version": "1.0",
+        "portrait": "characters/portraits/sampo.png"
+      }
+    },
+    {
+      "id": "seele",
+      "name": "Seele",
+      "file": "characters/seele.png",
+      "specialty": "The Hunt",
+      "attributes": "Quantum",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "The Hunt",
+        "version": "1.0",
+        "portrait": "characters/portraits/seele.png"
+      }
+    },
+    {
+      "id": "serval",
+      "name": "Serval",
+      "file": "characters/serval.png",
+      "specialty": "Erudition",
+      "attributes": "Lightning",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Erudition",
+        "version": "1.0",
+        "portrait": "characters/portraits/serval.png"
+      }
+    },
+    {
+      "id": "silver-wolf",
+      "name": "Silver Wolf",
+      "file": "characters/silver-wolf.png",
+      "specialty": "Nihility",
+      "attributes": "Quantum",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Nihility",
+        "version": "1.1",
+        "portrait": "characters/portraits/silver-wolf.png"
+      }
+    },
+    {
+      "id": "sparkle",
+      "name": "Sparkle",
+      "file": "characters/sparkle.png",
+      "specialty": "Harmony",
+      "attributes": "Quantum",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Harmony",
+        "version": "2.0",
+        "portrait": "characters/portraits/sparkle.png"
+      }
+    },
+    {
+      "id": "sunday",
+      "name": "Sunday",
+      "file": "characters/sunday.png",
+      "specialty": "Harmony",
+      "attributes": "Imaginary",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Harmony",
+        "version": "2.7",
+        "portrait": "characters/portraits/sunday.png"
+      }
+    },
+    {
+      "id": "sushang",
+      "name": "Sushang",
+      "file": "characters/sushang.png",
+      "specialty": "The Hunt",
+      "attributes": "Physical",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "The Hunt",
+        "version": "1.0",
+        "portrait": "characters/portraits/sushang.png"
+      }
+    },
+    {
+      "id": "the-dahlia",
+      "name": "The Dahlia",
+      "file": "characters/the-dahlia.png",
+      "specialty": "Nihility",
+      "attributes": "Fire",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Nihility",
+        "version": "3.8",
+        "portrait": "characters/portraits/the-dahlia.png"
+      }
+    },
+    {
+      "id": "the-herta",
+      "name": "The Herta",
+      "file": "characters/the-herta.png",
+      "specialty": "Erudition",
+      "attributes": "Ice",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Erudition",
+        "version": "3.0",
+        "portrait": "characters/portraits/the-herta.png"
+      }
+    },
+    {
+      "id": "tingyun",
+      "name": "Tingyun",
+      "file": "characters/tingyun.png",
+      "specialty": "Harmony",
+      "attributes": "Lightning",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Harmony",
+        "version": "1.0",
+        "portrait": "characters/portraits/tingyun.png"
+      }
+    },
+    {
+      "id": "topaz-numby",
+      "name": "Topaz & Numby",
+      "file": "characters/topaz-numby.png",
+      "specialty": "The Hunt",
+      "attributes": "Fire",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "The Hunt",
+        "version": "1.4",
+        "portrait": "characters/portraits/topaz-numby.png"
+      }
+    },
+    {
+      "id": "trailblazer",
+      "name": "Trailblazer",
+      "file": "characters/trailblazer.png",
+      "specialty": "Destruction",
+      "attributes": "Physical",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Destruction",
+        "version": "1.0",
+        "portrait": "characters/portraits/trailblazer.png"
+      }
+    },
+    {
+      "id": "trailblazer",
+      "name": "Trailblazer",
+      "file": "characters/trailblazer.png",
+      "specialty": "Preservation",
+      "attributes": "Fire",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Preservation",
+        "version": "1.0",
+        "portrait": "characters/portraits/trailblazer.png"
+      }
+    },
+    {
+      "id": "trailblazer",
+      "name": "Trailblazer",
+      "file": "characters/trailblazer.png",
+      "specialty": "Harmony",
+      "attributes": "Imaginary",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Harmony",
+        "version": "2.2",
+        "portrait": "characters/portraits/trailblazer.png"
+      }
+    },
+    {
+      "id": "trailblazer",
+      "name": "Trailblazer",
+      "file": "characters/trailblazer.png",
+      "specialty": "Remembrance",
+      "attributes": "Ice",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Remembrance",
+        "version": "3.0",
+        "portrait": "characters/portraits/trailblazer.png"
+      }
+    },
+    {
+      "id": "tribbie",
+      "name": "Tribbie",
+      "file": "characters/tribbie.png",
+      "specialty": "Harmony",
+      "attributes": "Quantum",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Harmony",
+        "version": "3.1",
+        "portrait": "characters/portraits/tribbie.png"
+      }
+    },
+    {
+      "id": "welt",
+      "name": "Welt",
+      "file": "characters/welt.png",
+      "specialty": "Nihility",
+      "attributes": "Imaginary",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Nihility",
+        "version": "1.0",
+        "portrait": "characters/portraits/welt.png"
+      }
+    },
+    {
+      "id": "xueyi",
+      "name": "Xueyi",
+      "file": "characters/xueyi.png",
+      "specialty": "Destruction",
+      "attributes": "Quantum",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Destruction",
+        "version": "1.6",
+        "portrait": "characters/portraits/xueyi.png"
+      }
+    },
+    {
+      "id": "yanqing",
+      "name": "Yanqing",
+      "file": "characters/yanqing.png",
+      "specialty": "The Hunt",
+      "attributes": "Ice",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "The Hunt",
+        "version": "1.0",
+        "portrait": "characters/portraits/yanqing.png"
+      }
+    },
+    {
+      "id": "yukong",
+      "name": "Yukong",
+      "file": "characters/yukong.png",
+      "specialty": "Harmony",
+      "attributes": "Imaginary",
+      "extra": {
+        "rank": "A",
+        "rarity": "4 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Harmony",
+        "version": "1.1",
+        "portrait": "characters/portraits/yukong.png"
+      }
+    },
+    {
+      "id": "yunli",
+      "name": "Yunli",
+      "file": "characters/yunli.png",
+      "specialty": "Destruction",
+      "attributes": "Physical",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Destruction",
+        "version": "2.4",
+        "portrait": "characters/portraits/yunli.png"
+      }
+    },
+    {
+      "id": "ashveil",
+      "name": "Ashveil",
+      "file": "characters/ashveil.png",
+      "specialty": "The Hunt",
+      "attributes": "Lightning",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "The Hunt",
+        "version": "Unknown",
+        "portrait": "characters/portraits/ashveil.png"
+      }
+    },
+    {
+      "id": "sparxie",
+      "name": "Sparxie",
+      "file": "characters/sparxie.png",
+      "specialty": "Elation",
+      "attributes": "Fire",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Elation",
+        "version": "Unknown",
+        "portrait": "characters/portraits/sparxie.png"
+      }
+    },
+    {
+      "id": "yao-guang",
+      "name": "Yao Guang",
+      "file": "characters/yao-guang.png",
+      "specialty": "Elation",
+      "attributes": "Physical",
+      "extra": {
+        "rank": "S",
+        "rarity": "5 Star",
+        "faction": "Unknown",
+        "affiliation": "Unknown",
+        "attack_type": "Elation",
+        "version": "Unknown",
+        "portrait": "characters/portraits/yao-guang.png"
+      }
     }
   ]
 }
