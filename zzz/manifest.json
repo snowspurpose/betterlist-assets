@@ -25,7 +25,7 @@
     {
       "id": "alexandrina-sebastiane",
       "name": "Alexandrina Sebastiane",
-      "file": "characters/alexandrina-sebastiane.png",
+      "file": "characters/squares/alexandrina-sebastiane.png",
       "specialty": "support",
       "attributes": "electric",
       "extra": {
@@ -41,7 +41,7 @@
     {
       "id": "alice-thymefield",
       "name": "Alice Thymefield",
-      "file": "characters/alice-thymefield.png",
+      "file": "characters/squares/alice-thymefield.png",
       "specialty": "anomaly",
       "attributes": "physical",
       "extra": {
@@ -57,7 +57,7 @@
     {
       "id": "anby-demara",
       "name": "Anby Demara",
-      "file": "characters/anby-demara.png",
+      "file": "characters/squares/anby-demara.png",
       "specialty": "stun",
       "attributes": "electric",
       "extra": {
@@ -73,7 +73,7 @@
     {
       "id": "anton-ivanov",
       "name": "Anton Ivanov",
-      "file": "characters/anton-ivanov.png",
+      "file": "characters/squares/anton-ivanov.png",
       "specialty": "attack",
       "attributes": "electric",
       "extra": {
@@ -89,7 +89,7 @@
     {
       "id": "asaba-harumasa",
       "name": "Asaba Harumasa",
-      "file": "characters/asaba-harumasa.png",
+      "file": "characters/squares/asaba-harumasa.png",
       "specialty": "attack",
       "attributes": "electric",
       "extra": {
@@ -105,7 +105,7 @@
     {
       "id": "astra-yao",
       "name": "Astra Yao",
-      "file": "characters/astra-yao.png",
+      "file": "characters/squares/astra-yao.png",
       "specialty": "support",
       "attributes": "ether",
       "extra": {
@@ -121,7 +121,7 @@
     {
       "id": "banyue",
       "name": "Banyue",
-      "file": "characters/banyue.png",
+      "file": "characters/squares/banyue.png",
       "specialty": "rupture",
       "attributes": "fire",
       "extra": {
@@ -137,7 +137,7 @@
     {
       "id": "ben-bigger",
       "name": "Ben Bigger",
-      "file": "characters/ben-bigger.png",
+      "file": "characters/squares/ben-bigger.png",
       "specialty": "defense",
       "attributes": "fire",
       "extra": {
@@ -153,7 +153,7 @@
     {
       "id": "billy-kid",
       "name": "Billy Kid",
-      "file": "characters/billy-kid.png",
+      "file": "characters/squares/billy-kid.png",
       "specialty": "attack",
       "attributes": "physical",
       "extra": {
@@ -169,7 +169,7 @@
     {
       "id": "burnice-white",
       "name": "Burnice White",
-      "file": "characters/burnice-white.png",
+      "file": "characters/squares/burnice-white.png",
       "specialty": "anomaly",
       "attributes": "fire",
       "extra": {
@@ -185,7 +185,7 @@
     {
       "id": "caesar-king",
       "name": "Caesar King",
-      "file": "characters/caesar-king.png",
+      "file": "characters/squares/caesar-king.png",
       "specialty": "defense",
       "attributes": "physical",
       "extra": {
@@ -201,7 +201,7 @@
     {
       "id": "corin-wickes",
       "name": "Corin Wickes",
-      "file": "characters/corin-wickes.png",
+      "file": "characters/squares/corin-wickes.png",
       "specialty": "attack",
       "attributes": "physical",
       "extra": {
@@ -217,7 +217,7 @@
     {
       "id": "dialyn",
       "name": "Dialyn",
-      "file": "characters/dialyn.png",
+      "file": "characters/squares/dialyn.png",
       "specialty": "stun",
       "attributes": "physical",
       "extra": {
@@ -233,7 +233,7 @@
     {
       "id": "ellen-joe",
       "name": "Ellen Joe",
-      "file": "characters/ellen-joe.png",
+      "file": "characters/squares/ellen-joe.png",
       "specialty": "attack",
       "attributes": "ice",
       "extra": {
@@ -249,7 +249,7 @@
     {
       "id": "evelyn-chevalier",
       "name": "Evelyn Chevalier",
-      "file": "characters/evelyn-chevalier.png",
+      "file": "characters/squares/evelyn-chevalier.png",
       "specialty": "attack",
       "attributes": "fire",
       "extra": {
@@ -265,7 +265,7 @@
     {
       "id": "grace-howard",
       "name": "Grace Howard",
-      "file": "characters/grace-howard.png",
+      "file": "characters/squares/grace-howard.png",
       "specialty": "anomaly",
       "attributes": "electric",
       "extra": {
@@ -281,7 +281,7 @@
     {
       "id": "hoshimi-miyabi",
       "name": "Hoshimi Miyabi",
-      "file": "characters/hoshimi-miyabi.png",
+      "file": "characters/squares/hoshimi-miyabi.png",
       "specialty": "anomaly",
       "attributes": "frost",
       "extra": {
@@ -297,7 +297,7 @@
     {
       "id": "hugo-vlad",
       "name": "Hugo Vlad",
-      "file": "characters/hugo-vlad.png",
+      "file": "characters/squares/hugo-vlad.png",
       "specialty": "attack",
       "attributes": "ice",
       "extra": {
@@ -313,7 +313,7 @@
     {
       "id": "jane-doe",
       "name": "Jane Doe",
-      "file": "characters/jane-doe.png",
+      "file": "characters/squares/jane-doe.png",
       "specialty": "anomaly",
       "attributes": "physical",
       "extra": {
@@ -329,7 +329,7 @@
     {
       "id": "ju-fufu",
       "name": "Ju Fufu",
-      "file": "characters/ju-fufu.png",
+      "file": "characters/squares/ju-fufu.png",
       "specialty": "stun",
       "attributes": "fire",
       "extra": {
@@ -345,7 +345,7 @@
     {
       "id": "koleda-belobog",
       "name": "Koleda Belobog",
-      "file": "characters/koleda-belobog.png",
+      "file": "characters/squares/koleda-belobog.png",
       "specialty": "stun",
       "attributes": "fire",
       "extra": {
@@ -361,7 +361,7 @@
     {
       "id": "komano-manato",
       "name": "Komano Manato",
-      "file": "characters/komano-manato.png",
+      "file": "characters/squares/komano-manato.png",
       "specialty": "rupture",
       "attributes": "fire",
       "extra": {
@@ -377,7 +377,7 @@
     {
       "id": "lighter",
       "name": "Lighter",
-      "file": "characters/lighter.png",
+      "file": "characters/squares/lighter.png",
       "specialty": "stun",
       "attributes": "fire",
       "extra": {
@@ -393,7 +393,7 @@
     {
       "id": "lucia-elowen",
       "name": "Lucia Elowen",
-      "file": "characters/lucia-elowen.png",
+      "file": "characters/squares/lucia-elowen.png",
       "specialty": "support",
       "attributes": "ether",
       "extra": {
@@ -409,7 +409,7 @@
     {
       "id": "luciana-de-montefio",
       "name": "Luciana de Montefio",
-      "file": "characters/luciana-de-montefio.png",
+      "file": "characters/squares/luciana-de-montefio.png",
       "specialty": "support",
       "attributes": "fire",
       "extra": {
@@ -425,7 +425,7 @@
     {
       "id": "nekomiya-mana",
       "name": "Nekomiya Mana",
-      "file": "characters/nekomiya-mana.png",
+      "file": "characters/squares/nekomiya-mana.png",
       "specialty": "attack",
       "attributes": "physical",
       "extra": {
@@ -441,7 +441,7 @@
     {
       "id": "nicole-demara",
       "name": "Nicole Demara",
-      "file": "characters/nicole-demara.png",
+      "file": "characters/squares/nicole-demara.png",
       "specialty": "support",
       "attributes": "ether",
       "extra": {
@@ -457,7 +457,7 @@
     {
       "id": "orphie-magnusson-magus",
       "name": "Orphie Magnusson & Magus",
-      "file": "characters/orphie-magnusson-magus.png",
+      "file": "characters/squares/orphie-magnusson-magus.png",
       "specialty": "attack",
       "attributes": "fire",
       "extra": {
@@ -473,7 +473,7 @@
     {
       "id": "pan-yinhu",
       "name": "Pan Yinhu",
-      "file": "characters/pan-yinhu.png",
+      "file": "characters/squares/pan-yinhu.png",
       "specialty": "defense",
       "attributes": "physical",
       "extra": {
@@ -489,7 +489,7 @@
     {
       "id": "piper-wheel",
       "name": "Piper Wheel",
-      "file": "characters/piper-wheel.png",
+      "file": "characters/squares/piper-wheel.png",
       "specialty": "anomaly",
       "attributes": "physical",
       "extra": {
@@ -505,7 +505,7 @@
     {
       "id": "pulchra-fellini",
       "name": "Pulchra Fellini",
-      "file": "characters/pulchra-fellini.png",
+      "file": "characters/squares/pulchra-fellini.png",
       "specialty": "stun",
       "attributes": "physical",
       "extra": {
@@ -521,7 +521,7 @@
     {
       "id": "qingyi",
       "name": "Qingyi",
-      "file": "characters/qingyi.png",
+      "file": "characters/squares/qingyi.png",
       "specialty": "stun",
       "attributes": "electric",
       "extra": {
@@ -537,7 +537,7 @@
     {
       "id": "seed",
       "name": "Seed",
-      "file": "characters/seed.png",
+      "file": "characters/squares/seed.png",
       "specialty": "attack",
       "attributes": "electric",
       "extra": {
@@ -553,7 +553,7 @@
     {
       "id": "seth-lowell",
       "name": "Seth Lowell",
-      "file": "characters/seth-lowell.png",
+      "file": "characters/squares/seth-lowell.png",
       "specialty": "defense",
       "attributes": "electric",
       "extra": {
@@ -569,7 +569,7 @@
     {
       "id": "soldier-0---anby",
       "name": "Soldier 0 - Anby",
-      "file": "characters/soldier-0---anby.png",
+      "file": "characters/squares/soldier-0---anby.png",
       "specialty": "attack",
       "attributes": "electric",
       "extra": {
@@ -585,7 +585,7 @@
     {
       "id": "soldier-11",
       "name": "Soldier 11",
-      "file": "characters/soldier-11.png",
+      "file": "characters/squares/soldier-11.png",
       "specialty": "attack",
       "attributes": "fire",
       "extra": {
@@ -601,7 +601,7 @@
     {
       "id": "soukaku",
       "name": "Soukaku",
-      "file": "characters/soukaku.png",
+      "file": "characters/squares/soukaku.png",
       "specialty": "support",
       "attributes": "ice",
       "extra": {
@@ -617,7 +617,7 @@
     {
       "id": "sunna",
       "name": "Sunna",
-      "file": "characters/sunna.png",
+      "file": "characters/squares/sunna.png",
       "specialty": "support",
       "attributes": "physical",
       "extra": {
@@ -633,7 +633,7 @@
     {
       "id": "trigger",
       "name": "Trigger",
-      "file": "characters/trigger.png",
+      "file": "characters/squares/trigger.png",
       "specialty": "stun",
       "attributes": "electric",
       "extra": {
@@ -649,7 +649,7 @@
     {
       "id": "tsukishiro-yanagi",
       "name": "Tsukishiro Yanagi",
-      "file": "characters/tsukishiro-yanagi.png",
+      "file": "characters/squares/tsukishiro-yanagi.png",
       "specialty": "anomaly",
       "attributes": "electric",
       "extra": {
@@ -665,7 +665,7 @@
     {
       "id": "ukinami-yuzuha",
       "name": "Ukinami Yuzuha",
-      "file": "characters/ukinami-yuzuha.png",
+      "file": "characters/squares/ukinami-yuzuha.png",
       "specialty": "support",
       "attributes": "physical",
       "extra": {
@@ -681,7 +681,7 @@
     {
       "id": "vivian-banshee",
       "name": "Vivian Banshee",
-      "file": "characters/vivian-banshee.png",
+      "file": "characters/squares/vivian-banshee.png",
       "specialty": "anomaly",
       "attributes": "ether",
       "extra": {
@@ -697,7 +697,7 @@
     {
       "id": "von-lycaon",
       "name": "Von Lycaon",
-      "file": "characters/von-lycaon.png",
+      "file": "characters/squares/von-lycaon.png",
       "specialty": "stun",
       "attributes": "ice",
       "extra": {
@@ -713,7 +713,7 @@
     {
       "id": "ye-shunguang",
       "name": "Ye Shunguang",
-      "file": "characters/ye-shunguang.png",
+      "file": "characters/squares/ye-shunguang.png",
       "specialty": "attack",
       "attributes": "honed edge",
       "extra": {
@@ -729,7 +729,7 @@
     {
       "id": "yidhari-murphy",
       "name": "Yidhari Murphy",
-      "file": "characters/yidhari-murphy.png",
+      "file": "characters/squares/yidhari-murphy.png",
       "specialty": "rupture",
       "attributes": "ice",
       "extra": {
@@ -745,7 +745,7 @@
     {
       "id": "yixuan",
       "name": "Yixuan",
-      "file": "characters/yixuan.png",
+      "file": "characters/squares/yixuan.png",
       "specialty": "rupture",
       "attributes": "auric-ink",
       "extra": {
@@ -761,7 +761,7 @@
     {
       "id": "zhao",
       "name": "Zhao",
-      "file": "characters/zhao.png",
+      "file": "characters/squares/zhao.png",
       "specialty": "defense",
       "attributes": "ice",
       "extra": {
@@ -777,7 +777,7 @@
     {
       "id": "zhu-yuan",
       "name": "Zhu Yuan",
-      "file": "characters/zhu-yuan.png",
+      "file": "characters/squares/zhu-yuan.png",
       "specialty": "attack",
       "attributes": "ether",
       "extra": {
@@ -793,7 +793,7 @@
     {
       "id": "aria",
       "name": "Aria",
-      "file": "characters/aria.png",
+      "file": "characters/squares/aria.png",
       "specialty": "anomaly",
       "attributes": "ether",
       "extra": {
