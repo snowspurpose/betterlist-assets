@@ -1,1 +1,1079 @@
-
+{
+  "tiers": [
+    {
+      "id": "t0",
+      "name": "T0 (OP)",
+      "color": "#ff7f7f"
+    },
+    {
+      "id": "t1",
+      "name": "T0.5",
+      "color": "#ffbf7f"
+    },
+    {
+      "id": "t2",
+      "name": "T1",
+      "color": "#ffdf7f"
+    },
+    {
+      "id": "t3",
+      "name": "T2",
+      "color": "#ffff7f"
+    }
+  ],
+  "items": [
+    {
+      "id": "master-tape",
+      "name": "Master Tape",
+      "file": "characters/master-tape.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/master-tape.png"
+      }
+    },
+    {
+      "id": "master-tape",
+      "name": "Master Tape",
+      "file": "characters/master-tape.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/master-tape.png"
+      }
+    },
+    {
+      "id": "master-tape",
+      "name": "Master Tape",
+      "file": "characters/master-tape.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/master-tape.png"
+      }
+    },
+    {
+      "id": "alexandrina-sebastiane",
+      "name": "Alexandrina Sebastiane",
+      "file": "characters/alexandrina-sebastiane.png",
+      "specialty": "support",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "victoria housekeeping",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/alexandrina-sebastiane.png"
+      }
+    },
+    {
+      "id": "alice-thymefield",
+      "name": "Alice Thymefield",
+      "file": "characters/alice-thymefield.png",
+      "specialty": "anomaly",
+      "attributes": "ice",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/alice-thymefield.png"
+      }
+    },
+    {
+      "id": "anby-demara",
+      "name": "Anby Demara",
+      "file": "characters/anby-demara.png",
+      "specialty": "stun",
+      "attributes": "electric",
+      "extra": {
+        "rank": "A",
+        "faction": "cunning hares",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/anby-demara.png"
+      }
+    },
+    {
+      "id": "anton-ivanov",
+      "name": "Anton Ivanov",
+      "file": "characters/anton-ivanov.png",
+      "specialty": "attack",
+      "attributes": "electric",
+      "extra": {
+        "rank": "A",
+        "faction": "belobog",
+        "attack_type": "pierce",
+        "portrait": "characters/portraits/anton-ivanov.png"
+      }
+    },
+    {
+      "id": "asaba-harumasa",
+      "name": "Asaba Harumasa",
+      "file": "characters/asaba-harumasa.png",
+      "specialty": "attack",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "section-6",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/asaba-harumasa.png"
+      }
+    },
+    {
+      "id": "astra-yao",
+      "name": "Astra Yao",
+      "file": "characters/astra-yao.png",
+      "specialty": "support",
+      "attributes": "ether",
+      "extra": {
+        "rank": "S",
+        "faction": "stars of lyra",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/astra-yao.png"
+      }
+    },
+    {
+      "id": "banyue",
+      "name": "Banyue",
+      "file": "characters/banyue.png",
+      "specialty": "unknown",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "krampus",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/banyue.png"
+      }
+    },
+    {
+      "id": "ben-bigger",
+      "name": "Ben Bigger",
+      "file": "characters/ben-bigger.png",
+      "specialty": "defense",
+      "attributes": "fire",
+      "extra": {
+        "rank": "A",
+        "faction": "belobog",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/ben-bigger.png"
+      }
+    },
+    {
+      "id": "billy-kid",
+      "name": "Billy Kid",
+      "file": "characters/billy-kid.png",
+      "specialty": "attack",
+      "attributes": "physical",
+      "extra": {
+        "rank": "A",
+        "faction": "cunning hares",
+        "attack_type": "pierce",
+        "portrait": "characters/portraits/billy-kid.png"
+      }
+    },
+    {
+      "id": "burnice-white",
+      "name": "Burnice White",
+      "file": "characters/burnice-white.png",
+      "specialty": "anomaly",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "sons of calydon",
+        "attack_type": "pierce",
+        "portrait": "characters/portraits/burnice-white.png"
+      }
+    },
+    {
+      "id": "caesar-king",
+      "name": "Caesar King",
+      "file": "characters/caesar-king.png",
+      "specialty": "defense",
+      "attributes": "physical",
+      "extra": {
+        "rank": "S",
+        "faction": "sons of calydon",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/caesar-king.png"
+      }
+    },
+    {
+      "id": "corin-wickes",
+      "name": "Corin Wickes",
+      "file": "characters/corin-wickes.png",
+      "specialty": "attack",
+      "attributes": "physical",
+      "extra": {
+        "rank": "A",
+        "faction": "victoria housekeeping",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/corin-wickes.png"
+      }
+    },
+    {
+      "id": "dialyn",
+      "name": "Dialyn",
+      "file": "characters/dialyn.png",
+      "specialty": "stun",
+      "attributes": "physical",
+      "extra": {
+        "rank": "S",
+        "faction": "krampus",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/dialyn.png"
+      }
+    },
+    {
+      "id": "ellen-joe",
+      "name": "Ellen Joe",
+      "file": "characters/ellen-joe.png",
+      "specialty": "attack",
+      "attributes": "ice",
+      "extra": {
+        "rank": "S",
+        "faction": "victoria housekeeping",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/ellen-joe.png"
+      }
+    },
+    {
+      "id": "evelyn-chevalier",
+      "name": "Evelyn Chevalier",
+      "file": "characters/evelyn-chevalier.png",
+      "specialty": "attack",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "stars of lyra",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/evelyn-chevalier.png"
+      }
+    },
+    {
+      "id": "grace-howard",
+      "name": "Grace Howard",
+      "file": "characters/grace-howard.png",
+      "specialty": "anomaly",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "belobog",
+        "attack_type": "pierce",
+        "portrait": "characters/portraits/grace-howard.png"
+      }
+    },
+    {
+      "id": "hoshimi-miyabi",
+      "name": "Hoshimi Miyabi",
+      "file": "characters/hoshimi-miyabi.png",
+      "specialty": "anomaly",
+      "attributes": "frost",
+      "extra": {
+        "rank": "S",
+        "faction": "section-6",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/hoshimi-miyabi.png"
+      }
+    },
+    {
+      "id": "hugo-vlad",
+      "name": "Hugo Vlad",
+      "file": "characters/hugo-vlad.png",
+      "specialty": "attack",
+      "attributes": "ice",
+      "extra": {
+        "rank": "S",
+        "faction": "mockingbird",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/hugo-vlad.png"
+      }
+    },
+    {
+      "id": "jane-doe",
+      "name": "Jane Doe",
+      "file": "characters/jane-doe.png",
+      "specialty": "anomaly",
+      "attributes": "physical",
+      "extra": {
+        "rank": "S",
+        "faction": "neps",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/jane-doe.png"
+      }
+    },
+    {
+      "id": "ju-fufu",
+      "name": "Ju Fufu",
+      "file": "characters/ju-fufu.png",
+      "specialty": "stun",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/ju-fufu.png"
+      }
+    },
+    {
+      "id": "koleda-belobog",
+      "name": "Koleda Belobog",
+      "file": "characters/koleda-belobog.png",
+      "specialty": "stun",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "belobog",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/koleda-belobog.png"
+      }
+    },
+    {
+      "id": "komano-manato",
+      "name": "Komano Manato",
+      "file": "characters/komano-manato.png",
+      "specialty": "unknown",
+      "attributes": "fire",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/komano-manato.png"
+      }
+    },
+    {
+      "id": "lighter",
+      "name": "Lighter",
+      "file": "characters/lighter.png",
+      "specialty": "stun",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "sons of calydon",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/lighter.png"
+      }
+    },
+    {
+      "id": "lucia-elowen",
+      "name": "Lucia Elowen",
+      "file": "characters/lucia-elowen.png",
+      "specialty": "support",
+      "attributes": "ether",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/lucia-elowen.png"
+      }
+    },
+    {
+      "id": "luciana-de-montefio",
+      "name": "Luciana de Montefio",
+      "file": "characters/luciana-de-montefio.png",
+      "specialty": "support",
+      "attributes": "fire",
+      "extra": {
+        "rank": "A",
+        "faction": "sons of calydon",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/luciana-de-montefio.png"
+      }
+    },
+    {
+      "id": "nekomiya-mana",
+      "name": "Nekomiya Mana",
+      "file": "characters/nekomiya-mana.png",
+      "specialty": "attack",
+      "attributes": "physical",
+      "extra": {
+        "rank": "S",
+        "faction": "cunning hares",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/nekomiya-mana.png"
+      }
+    },
+    {
+      "id": "nicole-demara",
+      "name": "Nicole Demara",
+      "file": "characters/nicole-demara.png",
+      "specialty": "support",
+      "attributes": "ether",
+      "extra": {
+        "rank": "A",
+        "faction": "cunning hares",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/nicole-demara.png"
+      }
+    },
+    {
+      "id": "orphie-magnusson-magus",
+      "name": "Orphie Magnusson & Magus",
+      "file": "characters/orphie-magnusson-magus.png",
+      "specialty": "attack",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "obol squad",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/orphie-magnusson-magus.png"
+      }
+    },
+    {
+      "id": "pan-yinhu",
+      "name": "Pan Yinhu",
+      "file": "characters/pan-yinhu.png",
+      "specialty": "defense",
+      "attributes": "physical",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/pan-yinhu.png"
+      }
+    },
+    {
+      "id": "piper-wheel",
+      "name": "Piper Wheel",
+      "file": "characters/piper-wheel.png",
+      "specialty": "anomaly",
+      "attributes": "physical",
+      "extra": {
+        "rank": "A",
+        "faction": "sons of calydon",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/piper-wheel.png"
+      }
+    },
+    {
+      "id": "pulchra-fellini",
+      "name": "Pulchra Fellini",
+      "file": "characters/pulchra-fellini.png",
+      "specialty": "stun",
+      "attributes": "physical",
+      "extra": {
+        "rank": "A",
+        "faction": "sons of calydon",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/pulchra-fellini.png"
+      }
+    },
+    {
+      "id": "qingyi",
+      "name": "Qingyi",
+      "file": "characters/qingyi.png",
+      "specialty": "stun",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "neps",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/qingyi.png"
+      }
+    },
+    {
+      "id": "seed",
+      "name": "Seed",
+      "file": "characters/seed.png",
+      "specialty": "attack",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "obol squad",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/seed.png"
+      }
+    },
+    {
+      "id": "seth-lowell",
+      "name": "Seth Lowell",
+      "file": "characters/seth-lowell.png",
+      "specialty": "defense",
+      "attributes": "electric",
+      "extra": {
+        "rank": "A",
+        "faction": "neps",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/seth-lowell.png"
+      }
+    },
+    {
+      "id": "soldier-0---anby",
+      "name": "Soldier 0 - Anby",
+      "file": "characters/soldier-0---anby.png",
+      "specialty": "attack",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/soldier-0---anby.png"
+      }
+    },
+    {
+      "id": "soldier-11",
+      "name": "Soldier 11",
+      "file": "characters/soldier-11.png",
+      "specialty": "attack",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "obol squad",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/soldier-11.png"
+      }
+    },
+    {
+      "id": "soukaku",
+      "name": "Soukaku",
+      "file": "characters/soukaku.png",
+      "specialty": "support",
+      "attributes": "ice",
+      "extra": {
+        "rank": "A",
+        "faction": "section-6",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/soukaku.png"
+      }
+    },
+    {
+      "id": "sunna",
+      "name": "Sunna",
+      "file": "characters/sunna.png",
+      "specialty": "support",
+      "attributes": "physical",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/sunna.png"
+      }
+    },
+    {
+      "id": "trigger",
+      "name": "Trigger",
+      "file": "characters/trigger.png",
+      "specialty": "stun",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "obol squad",
+        "attack_type": "pierce",
+        "portrait": "characters/portraits/trigger.png"
+      }
+    },
+    {
+      "id": "tsukishiro-yanagi",
+      "name": "Tsukishiro Yanagi",
+      "file": "characters/tsukishiro-yanagi.png",
+      "specialty": "anomaly",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "section-6",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/tsukishiro-yanagi.png"
+      }
+    },
+    {
+      "id": "ukinami-yuzuha",
+      "name": "Ukinami Yuzuha",
+      "file": "characters/ukinami-yuzuha.png",
+      "specialty": "support",
+      "attributes": "physical",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/ukinami-yuzuha.png"
+      }
+    },
+    {
+      "id": "vivian-banshee",
+      "name": "Vivian Banshee",
+      "file": "characters/vivian-banshee.png",
+      "specialty": "anomaly",
+      "attributes": "ether",
+      "extra": {
+        "rank": "S",
+        "faction": "mockingbird",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/vivian-banshee.png"
+      }
+    },
+    {
+      "id": "von-lycaon",
+      "name": "Von Lycaon",
+      "file": "characters/von-lycaon.png",
+      "specialty": "stun",
+      "attributes": "ice",
+      "extra": {
+        "rank": "S",
+        "faction": "victoria housekeeping",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/von-lycaon.png"
+      }
+    },
+    {
+      "id": "ye-shunguang",
+      "name": "Ye Shunguang",
+      "file": "characters/ye-shunguang.png",
+      "specialty": "attack",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/ye-shunguang.png"
+      }
+    },
+    {
+      "id": "yidhari-murphy",
+      "name": "Yidhari Murphy",
+      "file": "characters/yidhari-murphy.png",
+      "specialty": "unknown",
+      "attributes": "ice",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/yidhari-murphy.png"
+      }
+    },
+    {
+      "id": "yixuan",
+      "name": "Yixuan",
+      "file": "characters/yixuan.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/yixuan.png"
+      }
+    },
+    {
+      "id": "zhao",
+      "name": "Zhao",
+      "file": "characters/zhao.png",
+      "specialty": "defense",
+      "attributes": "ice",
+      "extra": {
+        "rank": "S",
+        "faction": "krampus",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/zhao.png"
+      }
+    },
+    {
+      "id": "zhu-yuan",
+      "name": "Zhu Yuan",
+      "file": "characters/zhu-yuan.png",
+      "specialty": "attack",
+      "attributes": "ether",
+      "extra": {
+        "rank": "S",
+        "faction": "neps",
+        "attack_type": "pierce",
+        "portrait": "characters/portraits/zhu-yuan.png"
+      }
+    },
+    {
+      "id": "aria",
+      "name": "Aria",
+      "file": "characters/aria.png",
+      "specialty": "anomaly",
+      "attributes": "ether",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/aria.png"
+      }
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "file": "characters/english.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/english.png"
+      }
+    },
+    {
+      "id": "chinesesimplified",
+      "name": "Chinese(Simplified)",
+      "file": "characters/chinesesimplified.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/chinesesimplified.png"
+      }
+    },
+    {
+      "id": "chinesetraditional",
+      "name": "Chinese(Traditional)",
+      "file": "characters/chinesetraditional.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/chinesetraditional.png"
+      }
+    },
+    {
+      "id": "japanese",
+      "name": "Japanese",
+      "file": "characters/japanese.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/japanese.png"
+      }
+    },
+    {
+      "id": "korean",
+      "name": "Korean",
+      "file": "characters/korean.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/korean.png"
+      }
+    },
+    {
+      "id": "spanish",
+      "name": "Spanish",
+      "file": "characters/spanish.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/spanish.png"
+      }
+    },
+    {
+      "id": "french",
+      "name": "French",
+      "file": "characters/french.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/french.png"
+      }
+    },
+    {
+      "id": "russian",
+      "name": "Russian",
+      "file": "characters/russian.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/russian.png"
+      }
+    },
+    {
+      "id": "thai",
+      "name": "Thai",
+      "file": "characters/thai.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/thai.png"
+      }
+    },
+    {
+      "id": "vietnamese",
+      "name": "Vietnamese",
+      "file": "characters/vietnamese.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/vietnamese.png"
+      }
+    },
+    {
+      "id": "german",
+      "name": "German",
+      "file": "characters/german.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/german.png"
+      }
+    },
+    {
+      "id": "indonesian",
+      "name": "Indonesian",
+      "file": "characters/indonesian.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/indonesian.png"
+      }
+    },
+    {
+      "id": "portuguese",
+      "name": "Portuguese",
+      "file": "characters/portuguese.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/portuguese.png"
+      }
+    },
+    {
+      "id": "agents",
+      "name": "Agents",
+      "file": "characters/agents.png",
+      "specialty": "defense",
+      "attributes": "ice",
+      "extra": {
+        "rank": "A",
+        "faction": "victoria housekeeping",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/agents.png"
+      }
+    },
+    {
+      "id": "agents",
+      "name": "Agents",
+      "file": "characters/agents.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/agents.png"
+      }
+    },
+    {
+      "id": "phaethon",
+      "name": "Phaethon",
+      "file": "characters/phaethon.png",
+      "specialty": "defense",
+      "attributes": "ice",
+      "extra": {
+        "rank": "A",
+        "faction": "victoria housekeeping",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/phaethon.png"
+      }
+    },
+    {
+      "id": "aria",
+      "name": "Aria",
+      "file": "characters/aria.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/aria.png"
+      }
+    },
+    {
+      "id": "",
+      "name": "",
+      "file": "characters/.png",
+      "specialty": "attack",
+      "attributes": "ice",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/.png"
+      }
+    },
+    {
+      "id": "",
+      "name": "",
+      "file": "characters/.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/.png"
+      }
+    },
+    {
+      "id": "zenless-zone-zero",
+      "name": "Zenless Zone Zero",
+      "file": "characters/zenless-zone-zero.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/zenless-zone-zero.png"
+      }
+    },
+    {
+      "id": "activities",
+      "name": "Activities",
+      "file": "characters/activities.png",
+      "specialty": "defense",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/activities.png"
+      }
+    },
+    {
+      "id": "ether",
+      "name": "Ether",
+      "file": "characters/ether.png",
+      "specialty": "unknown",
+      "attributes": "ether",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/ether.png"
+      }
+    },
+    {
+      "id": "progression",
+      "name": "Progression",
+      "file": "characters/progression.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/progression.png"
+      }
+    },
+    {
+      "id": "items",
+      "name": "Items",
+      "file": "characters/items.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/items.png"
+      }
+    },
+    {
+      "id": "combat",
+      "name": "Combat",
+      "file": "characters/combat.png",
+      "specialty": "attack",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/combat.png"
+      }
+    },
+    {
+      "id": "enemies",
+      "name": "Enemies",
+      "file": "characters/enemies.png",
+      "specialty": "unknown",
+      "attributes": "ether",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/enemies.png"
+      }
+    },
+    {
+      "id": "personal-homepage",
+      "name": "Personal Homepage",
+      "file": "characters/personal-homepage.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/personal-homepage.png"
+      }
+    },
+    {
+      "id": "monetization",
+      "name": "Monetization",
+      "file": "characters/monetization.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/monetization.png"
+      }
+    },
+    {
+      "id": "soundtrack",
+      "name": "Soundtrack",
+      "file": "characters/soundtrack.png",
+      "specialty": "unknown",
+      "attributes": "ice",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/soundtrack.png"
+      }
+    }
+  ]
+}
