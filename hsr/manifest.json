@@ -25,7 +25,7 @@
     {
       "id": "acheron",
       "name": "Acheron",
-      "file": "characters/acheron.png",
+      "file": "characters/squares/acheron.png",
       "specialty": "Nihility",
       "attributes": "Lightning",
       "extra": {
@@ -41,7 +41,7 @@
     {
       "id": "aglaea",
       "name": "Aglaea",
-      "file": "characters/aglaea.png",
+      "file": "characters/squares/aglaea.png",
       "specialty": "Remembrance",
       "attributes": "Lightning",
       "extra": {
@@ -57,7 +57,7 @@
     {
       "id": "anaxa",
       "name": "Anaxa",
-      "file": "characters/anaxa.png",
+      "file": "characters/squares/anaxa.png",
       "specialty": "Erudition",
       "attributes": "Wind",
       "extra": {
@@ -73,7 +73,7 @@
     {
       "id": "archer",
       "name": "Archer",
-      "file": "characters/archer.png",
+      "file": "characters/squares/archer.png",
       "specialty": "The Hunt",
       "attributes": "Quantum",
       "extra": {
@@ -89,7 +89,7 @@
     {
       "id": "argenti",
       "name": "Argenti",
-      "file": "characters/argenti.png",
+      "file": "characters/squares/argenti.png",
       "specialty": "Erudition",
       "attributes": "Physical",
       "extra": {
@@ -105,7 +105,7 @@
     {
       "id": "arlan",
       "name": "Arlan",
-      "file": "characters/arlan.png",
+      "file": "characters/squares/arlan.png",
       "specialty": "Destruction",
       "attributes": "Lightning",
       "extra": {
@@ -121,7 +121,7 @@
     {
       "id": "asta",
       "name": "Asta",
-      "file": "characters/asta.png",
+      "file": "characters/squares/asta.png",
       "specialty": "Harmony",
       "attributes": "Fire",
       "extra": {
@@ -137,7 +137,7 @@
     {
       "id": "aventurine",
       "name": "Aventurine",
-      "file": "characters/aventurine.png",
+      "file": "characters/squares/aventurine.png",
       "specialty": "Preservation",
       "attributes": "Imaginary",
       "extra": {
@@ -153,7 +153,7 @@
     {
       "id": "bailu",
       "name": "Bailu",
-      "file": "characters/bailu.png",
+      "file": "characters/squares/bailu.png",
       "specialty": "Abundance",
       "attributes": "Lightning",
       "extra": {
@@ -169,7 +169,7 @@
     {
       "id": "black-swan",
       "name": "Black Swan",
-      "file": "characters/black-swan.png",
+      "file": "characters/squares/black-swan.png",
       "specialty": "Nihility",
       "attributes": "Wind",
       "extra": {
@@ -185,7 +185,7 @@
     {
       "id": "blade",
       "name": "Blade",
-      "file": "characters/blade.png",
+      "file": "characters/squares/blade.png",
       "specialty": "Destruction",
       "attributes": "Wind",
       "extra": {
@@ -201,7 +201,7 @@
     {
       "id": "boothill",
       "name": "Boothill",
-      "file": "characters/boothill.png",
+      "file": "characters/squares/boothill.png",
       "specialty": "The Hunt",
       "attributes": "Physical",
       "extra": {
@@ -217,7 +217,7 @@
     {
       "id": "bronya",
       "name": "Bronya",
-      "file": "characters/bronya.png",
+      "file": "characters/squares/bronya.png",
       "specialty": "Harmony",
       "attributes": "Wind",
       "extra": {
@@ -233,7 +233,7 @@
     {
       "id": "castorice",
       "name": "Castorice",
-      "file": "characters/castorice.png",
+      "file": "characters/squares/castorice.png",
       "specialty": "Remembrance",
       "attributes": "Quantum",
       "extra": {
@@ -249,7 +249,7 @@
     {
       "id": "cerydra",
       "name": "Cerydra",
-      "file": "characters/cerydra.png",
+      "file": "characters/squares/cerydra.png",
       "specialty": "Harmony",
       "attributes": "Wind",
       "extra": {
@@ -265,7 +265,7 @@
     {
       "id": "cipher",
       "name": "Cipher",
-      "file": "characters/cipher.png",
+      "file": "characters/squares/cipher.png",
       "specialty": "Nihility",
       "attributes": "Quantum",
       "extra": {
@@ -281,7 +281,7 @@
     {
       "id": "clara",
       "name": "Clara",
-      "file": "characters/clara.png",
+      "file": "characters/squares/clara.png",
       "specialty": "Destruction",
       "attributes": "Physical",
       "extra": {
@@ -297,7 +297,7 @@
     {
       "id": "cyrene",
       "name": "Cyrene",
-      "file": "characters/cyrene.png",
+      "file": "characters/squares/cyrene.png",
       "specialty": "Remembrance",
       "attributes": "Ice",
       "extra": {
@@ -313,7 +313,7 @@
     {
       "id": "dan-heng",
       "name": "Dan Heng",
-      "file": "characters/dan-heng.png",
+      "file": "characters/squares/dan-heng.png",
       "specialty": "The Hunt",
       "attributes": "Wind",
       "extra": {
@@ -329,7 +329,7 @@
     {
       "id": "dan-heng-imbibitor-lunae",
       "name": "Dan Heng • Imbibitor Lunae",
-      "file": "characters/dan-heng-imbibitor-lunae.png",
+      "file": "characters/squares/dan-heng-imbibitor-lunae.png",
       "specialty": "Destruction",
       "attributes": "Imaginary",
       "extra": {
@@ -345,7 +345,7 @@
     {
       "id": "dan-heng-permansor-terrae",
       "name": "Dan Heng • Permansor Terrae",
-      "file": "characters/dan-heng-permansor-terrae.png",
+      "file": "characters/squares/dan-heng-permansor-terrae.png",
       "specialty": "Preservation",
       "attributes": "Physical",
       "extra": {
@@ -361,7 +361,7 @@
     {
       "id": "dr-ratio",
       "name": "Dr. Ratio",
-      "file": "characters/dr-ratio.png",
+      "file": "characters/squares/dr-ratio.png",
       "specialty": "The Hunt",
       "attributes": "Imaginary",
       "extra": {
@@ -377,7 +377,7 @@
     {
       "id": "evernight",
       "name": "Evernight",
-      "file": "characters/evernight.png",
+      "file": "characters/squares/evernight.png",
       "specialty": "Remembrance",
       "attributes": "Ice",
       "extra": {
@@ -393,7 +393,7 @@
     {
       "id": "feixiao",
       "name": "Feixiao",
-      "file": "characters/feixiao.png",
+      "file": "characters/squares/feixiao.png",
       "specialty": "The Hunt",
       "attributes": "Wind",
       "extra": {
@@ -409,7 +409,7 @@
     {
       "id": "firefly",
       "name": "Firefly",
-      "file": "characters/firefly.png",
+      "file": "characters/squares/firefly.png",
       "specialty": "Destruction",
       "attributes": "Fire",
       "extra": {
@@ -425,7 +425,7 @@
     {
       "id": "fu-xuan",
       "name": "Fu Xuan",
-      "file": "characters/fu-xuan.png",
+      "file": "characters/squares/fu-xuan.png",
       "specialty": "Preservation",
       "attributes": "Quantum",
       "extra": {
@@ -441,7 +441,7 @@
     {
       "id": "fugue",
       "name": "Fugue",
-      "file": "characters/fugue.png",
+      "file": "characters/squares/fugue.png",
       "specialty": "Nihility",
       "attributes": "Fire",
       "extra": {
@@ -457,7 +457,7 @@
     {
       "id": "gallagher",
       "name": "Gallagher",
-      "file": "characters/gallagher.png",
+      "file": "characters/squares/gallagher.png",
       "specialty": "Abundance",
       "attributes": "Fire",
       "extra": {
@@ -473,7 +473,7 @@
     {
       "id": "gepard",
       "name": "Gepard",
-      "file": "characters/gepard.png",
+      "file": "characters/squares/gepard.png",
       "specialty": "Preservation",
       "attributes": "Ice",
       "extra": {
@@ -489,7 +489,7 @@
     {
       "id": "guinaifen",
       "name": "Guinaifen",
-      "file": "characters/guinaifen.png",
+      "file": "characters/squares/guinaifen.png",
       "specialty": "Nihility",
       "attributes": "Fire",
       "extra": {
@@ -505,7 +505,7 @@
     {
       "id": "hanya",
       "name": "Hanya",
-      "file": "characters/hanya.png",
+      "file": "characters/squares/hanya.png",
       "specialty": "Harmony",
       "attributes": "Physical",
       "extra": {
@@ -521,7 +521,7 @@
     {
       "id": "herta",
       "name": "Herta",
-      "file": "characters/herta.png",
+      "file": "characters/squares/herta.png",
       "specialty": "Erudition",
       "attributes": "Ice",
       "extra": {
@@ -537,7 +537,7 @@
     {
       "id": "himeko",
       "name": "Himeko",
-      "file": "characters/himeko.png",
+      "file": "characters/squares/himeko.png",
       "specialty": "Erudition",
       "attributes": "Fire",
       "extra": {
@@ -553,7 +553,7 @@
     {
       "id": "hook",
       "name": "Hook",
-      "file": "characters/hook.png",
+      "file": "characters/squares/hook.png",
       "specialty": "Destruction",
       "attributes": "Fire",
       "extra": {
@@ -569,7 +569,7 @@
     {
       "id": "huohuo",
       "name": "Huohuo",
-      "file": "characters/huohuo.png",
+      "file": "characters/squares/huohuo.png",
       "specialty": "Abundance",
       "attributes": "Wind",
       "extra": {
@@ -585,7 +585,7 @@
     {
       "id": "hyacine",
       "name": "Hyacine",
-      "file": "characters/hyacine.png",
+      "file": "characters/squares/hyacine.png",
       "specialty": "Remembrance",
       "attributes": "Wind",
       "extra": {
@@ -601,7 +601,7 @@
     {
       "id": "hysilens",
       "name": "Hysilens",
-      "file": "characters/hysilens.png",
+      "file": "characters/squares/hysilens.png",
       "specialty": "Nihility",
       "attributes": "Physical",
       "extra": {
@@ -617,7 +617,7 @@
     {
       "id": "jade",
       "name": "Jade",
-      "file": "characters/jade.png",
+      "file": "characters/squares/jade.png",
       "specialty": "Erudition",
       "attributes": "Quantum",
       "extra": {
@@ -633,7 +633,7 @@
     {
       "id": "jiaoqiu",
       "name": "Jiaoqiu",
-      "file": "characters/jiaoqiu.png",
+      "file": "characters/squares/jiaoqiu.png",
       "specialty": "Nihility",
       "attributes": "Fire",
       "extra": {
@@ -649,7 +649,7 @@
     {
       "id": "jing-yuan",
       "name": "Jing Yuan",
-      "file": "characters/jing-yuan.png",
+      "file": "characters/squares/jing-yuan.png",
       "specialty": "Erudition",
       "attributes": "Lightning",
       "extra": {
@@ -665,7 +665,7 @@
     {
       "id": "jingliu",
       "name": "Jingliu",
-      "file": "characters/jingliu.png",
+      "file": "characters/squares/jingliu.png",
       "specialty": "Destruction",
       "attributes": "Ice",
       "extra": {
@@ -681,7 +681,7 @@
     {
       "id": "kafka",
       "name": "Kafka",
-      "file": "characters/kafka.png",
+      "file": "characters/squares/kafka.png",
       "specialty": "Nihility",
       "attributes": "Lightning",
       "extra": {
@@ -697,7 +697,7 @@
     {
       "id": "lingsha",
       "name": "Lingsha",
-      "file": "characters/lingsha.png",
+      "file": "characters/squares/lingsha.png",
       "specialty": "Abundance",
       "attributes": "Fire",
       "extra": {
@@ -713,7 +713,7 @@
     {
       "id": "luka",
       "name": "Luka",
-      "file": "characters/luka.png",
+      "file": "characters/squares/luka.png",
       "specialty": "Nihility",
       "attributes": "Physical",
       "extra": {
@@ -729,7 +729,7 @@
     {
       "id": "luocha",
       "name": "Luocha",
-      "file": "characters/luocha.png",
+      "file": "characters/squares/luocha.png",
       "specialty": "Abundance",
       "attributes": "Imaginary",
       "extra": {
@@ -745,7 +745,7 @@
     {
       "id": "lynx",
       "name": "Lynx",
-      "file": "characters/lynx.png",
+      "file": "characters/squares/lynx.png",
       "specialty": "Abundance",
       "attributes": "Quantum",
       "extra": {
@@ -761,7 +761,7 @@
     {
       "id": "march-7th",
       "name": "March 7th",
-      "file": "characters/march-7th.png",
+      "file": "characters/squares/march-7th.png",
       "specialty": "Preservation",
       "attributes": "Ice",
       "extra": {
@@ -777,7 +777,7 @@
     {
       "id": "march-7th",
       "name": "March 7th",
-      "file": "characters/march-7th.png",
+      "file": "characters/squares/march-7th.png",
       "specialty": "The Hunt",
       "attributes": "Imaginary",
       "extra": {
@@ -793,7 +793,7 @@
     {
       "id": "misha",
       "name": "Misha",
-      "file": "characters/misha.png",
+      "file": "characters/squares/misha.png",
       "specialty": "Destruction",
       "attributes": "Ice",
       "extra": {
@@ -809,7 +809,7 @@
     {
       "id": "moze",
       "name": "Moze",
-      "file": "characters/moze.png",
+      "file": "characters/squares/moze.png",
       "specialty": "The Hunt",
       "attributes": "Lightning",
       "extra": {
@@ -825,7 +825,7 @@
     {
       "id": "mydei",
       "name": "Mydei",
-      "file": "characters/mydei.png",
+      "file": "characters/squares/mydei.png",
       "specialty": "Destruction",
       "attributes": "Imaginary",
       "extra": {
@@ -841,7 +841,7 @@
     {
       "id": "natasha",
       "name": "Natasha",
-      "file": "characters/natasha.png",
+      "file": "characters/squares/natasha.png",
       "specialty": "Abundance",
       "attributes": "Physical",
       "extra": {
@@ -857,7 +857,7 @@
     {
       "id": "pela",
       "name": "Pela",
-      "file": "characters/pela.png",
+      "file": "characters/squares/pela.png",
       "specialty": "Nihility",
       "attributes": "Ice",
       "extra": {
@@ -873,7 +873,7 @@
     {
       "id": "phainon",
       "name": "Phainon",
-      "file": "characters/phainon.png",
+      "file": "characters/squares/phainon.png",
       "specialty": "Destruction",
       "attributes": "Physical",
       "extra": {
@@ -889,7 +889,7 @@
     {
       "id": "qingque",
       "name": "Qingque",
-      "file": "characters/qingque.png",
+      "file": "characters/squares/qingque.png",
       "specialty": "Erudition",
       "attributes": "Quantum",
       "extra": {
@@ -905,7 +905,7 @@
     {
       "id": "rappa",
       "name": "Rappa",
-      "file": "characters/rappa.png",
+      "file": "characters/squares/rappa.png",
       "specialty": "Erudition",
       "attributes": "Imaginary",
       "extra": {
@@ -921,7 +921,7 @@
     {
       "id": "robin",
       "name": "Robin",
-      "file": "characters/robin.png",
+      "file": "characters/squares/robin.png",
       "specialty": "Harmony",
       "attributes": "Physical",
       "extra": {
@@ -937,7 +937,7 @@
     {
       "id": "ruan-mei",
       "name": "Ruan Mei",
-      "file": "characters/ruan-mei.png",
+      "file": "characters/squares/ruan-mei.png",
       "specialty": "Harmony",
       "attributes": "Ice",
       "extra": {
@@ -953,7 +953,7 @@
     {
       "id": "saber",
       "name": "Saber",
-      "file": "characters/saber.png",
+      "file": "characters/squares/saber.png",
       "specialty": "Destruction",
       "attributes": "Wind",
       "extra": {
@@ -969,7 +969,7 @@
     {
       "id": "sampo",
       "name": "Sampo",
-      "file": "characters/sampo.png",
+      "file": "characters/squares/sampo.png",
       "specialty": "Nihility",
       "attributes": "Wind",
       "extra": {
@@ -985,7 +985,7 @@
     {
       "id": "seele",
       "name": "Seele",
-      "file": "characters/seele.png",
+      "file": "characters/squares/seele.png",
       "specialty": "The Hunt",
       "attributes": "Quantum",
       "extra": {
@@ -1001,7 +1001,7 @@
     {
       "id": "serval",
       "name": "Serval",
-      "file": "characters/serval.png",
+      "file": "characters/squares/serval.png",
       "specialty": "Erudition",
       "attributes": "Lightning",
       "extra": {
@@ -1017,7 +1017,7 @@
     {
       "id": "silver-wolf",
       "name": "Silver Wolf",
-      "file": "characters/silver-wolf.png",
+      "file": "characters/squares/silver-wolf.png",
       "specialty": "Nihility",
       "attributes": "Quantum",
       "extra": {
@@ -1033,7 +1033,7 @@
     {
       "id": "sparkle",
       "name": "Sparkle",
-      "file": "characters/sparkle.png",
+      "file": "characters/squares/sparkle.png",
       "specialty": "Harmony",
       "attributes": "Quantum",
       "extra": {
@@ -1049,7 +1049,7 @@
     {
       "id": "sunday",
       "name": "Sunday",
-      "file": "characters/sunday.png",
+      "file": "characters/squares/sunday.png",
       "specialty": "Harmony",
       "attributes": "Imaginary",
       "extra": {
@@ -1065,7 +1065,7 @@
     {
       "id": "sushang",
       "name": "Sushang",
-      "file": "characters/sushang.png",
+      "file": "characters/squares/sushang.png",
       "specialty": "The Hunt",
       "attributes": "Physical",
       "extra": {
@@ -1081,7 +1081,7 @@
     {
       "id": "the-dahlia",
       "name": "The Dahlia",
-      "file": "characters/the-dahlia.png",
+      "file": "characters/squares/the-dahlia.png",
       "specialty": "Nihility",
       "attributes": "Fire",
       "extra": {
@@ -1097,7 +1097,7 @@
     {
       "id": "the-herta",
       "name": "The Herta",
-      "file": "characters/the-herta.png",
+      "file": "characters/squares/the-herta.png",
       "specialty": "Erudition",
       "attributes": "Ice",
       "extra": {
@@ -1113,7 +1113,7 @@
     {
       "id": "tingyun",
       "name": "Tingyun",
-      "file": "characters/tingyun.png",
+      "file": "characters/squares/tingyun.png",
       "specialty": "Harmony",
       "attributes": "Lightning",
       "extra": {
@@ -1129,7 +1129,7 @@
     {
       "id": "topaz-numby",
       "name": "Topaz & Numby",
-      "file": "characters/topaz-numby.png",
+      "file": "characters/squares/topaz-numby.png",
       "specialty": "The Hunt",
       "attributes": "Fire",
       "extra": {
@@ -1145,7 +1145,7 @@
     {
       "id": "trailblazer",
       "name": "Trailblazer",
-      "file": "characters/trailblazer.png",
+      "file": "characters/squares/trailblazer.png",
       "specialty": "Destruction",
       "attributes": "Physical",
       "extra": {
@@ -1161,7 +1161,7 @@
     {
       "id": "trailblazer",
       "name": "Trailblazer",
-      "file": "characters/trailblazer.png",
+      "file": "characters/squares/trailblazer.png",
       "specialty": "Preservation",
       "attributes": "Fire",
       "extra": {
@@ -1177,7 +1177,7 @@
     {
       "id": "trailblazer",
       "name": "Trailblazer",
-      "file": "characters/trailblazer.png",
+      "file": "characters/squares/trailblazer.png",
       "specialty": "Harmony",
       "attributes": "Imaginary",
       "extra": {
@@ -1193,7 +1193,7 @@
     {
       "id": "trailblazer",
       "name": "Trailblazer",
-      "file": "characters/trailblazer.png",
+      "file": "characters/squares/trailblazer.png",
       "specialty": "Remembrance",
       "attributes": "Ice",
       "extra": {
@@ -1209,7 +1209,7 @@
     {
       "id": "tribbie",
       "name": "Tribbie",
-      "file": "characters/tribbie.png",
+      "file": "characters/squares/tribbie.png",
       "specialty": "Harmony",
       "attributes": "Quantum",
       "extra": {
@@ -1225,7 +1225,7 @@
     {
       "id": "welt",
       "name": "Welt",
-      "file": "characters/welt.png",
+      "file": "characters/squares/welt.png",
       "specialty": "Nihility",
       "attributes": "Imaginary",
       "extra": {
@@ -1241,7 +1241,7 @@
     {
       "id": "xueyi",
       "name": "Xueyi",
-      "file": "characters/xueyi.png",
+      "file": "characters/squares/xueyi.png",
       "specialty": "Destruction",
       "attributes": "Quantum",
       "extra": {
@@ -1257,7 +1257,7 @@
     {
       "id": "yanqing",
       "name": "Yanqing",
-      "file": "characters/yanqing.png",
+      "file": "characters/squares/yanqing.png",
       "specialty": "The Hunt",
       "attributes": "Ice",
       "extra": {
@@ -1273,7 +1273,7 @@
     {
       "id": "yukong",
       "name": "Yukong",
-      "file": "characters/yukong.png",
+      "file": "characters/squares/yukong.png",
       "specialty": "Harmony",
       "attributes": "Imaginary",
       "extra": {
@@ -1289,7 +1289,7 @@
     {
       "id": "yunli",
       "name": "Yunli",
-      "file": "characters/yunli.png",
+      "file": "characters/squares/yunli.png",
       "specialty": "Destruction",
       "attributes": "Physical",
       "extra": {
@@ -1305,7 +1305,7 @@
     {
       "id": "ashveil",
       "name": "Ashveil",
-      "file": "characters/ashveil.png",
+      "file": "characters/squares/ashveil.png",
       "specialty": "The Hunt",
       "attributes": "Lightning",
       "extra": {
@@ -1321,7 +1321,7 @@
     {
       "id": "sparxie",
       "name": "Sparxie",
-      "file": "characters/sparxie.png",
+      "file": "characters/squares/sparxie.png",
       "specialty": "Elation",
       "attributes": "Fire",
       "extra": {
@@ -1337,7 +1337,7 @@
     {
       "id": "yao-guang",
       "name": "Yao Guang",
-      "file": "characters/yao-guang.png",
+      "file": "characters/squares/yao-guang.png",
       "specialty": "Elation",
       "attributes": "Physical",
       "extra": {
