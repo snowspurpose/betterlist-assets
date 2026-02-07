@@ -25,7 +25,7 @@
     {
       "id": "aalto",
       "name": "Aalto",
-      "file": "characters/aalto.png",
+      "file": "characters/squares/aalto.png",
       "specialty": "Pistols",
       "attributes": "Aero",
       "extra": {
@@ -41,7 +41,7 @@
     {
       "id": "aemeath",
       "name": "Aemeath",
-      "file": "characters/aemeath.png",
+      "file": "characters/squares/aemeath.png",
       "specialty": "Sword",
       "attributes": "Fusion",
       "extra": {
@@ -57,7 +57,7 @@
     {
       "id": "augusta",
       "name": "Augusta",
-      "file": "characters/augusta.png",
+      "file": "characters/squares/augusta.png",
       "specialty": "Broadblade",
       "attributes": "Electro",
       "extra": {
@@ -73,7 +73,7 @@
     {
       "id": "baizhi",
       "name": "Baizhi",
-      "file": "characters/baizhi.png",
+      "file": "characters/squares/baizhi.png",
       "specialty": "Rectifier",
       "attributes": "Glacio",
       "extra": {
@@ -89,7 +89,7 @@
     {
       "id": "brant",
       "name": "Brant",
-      "file": "characters/brant.png",
+      "file": "characters/squares/brant.png",
       "specialty": "Sword",
       "attributes": "Fusion",
       "extra": {
@@ -105,7 +105,7 @@
     {
       "id": "buling",
       "name": "Buling",
-      "file": "characters/buling.png",
+      "file": "characters/squares/buling.png",
       "specialty": "Rectifier",
       "attributes": "Electro",
       "extra": {
@@ -121,7 +121,7 @@
     {
       "id": "calcharo",
       "name": "Calcharo",
-      "file": "characters/calcharo.png",
+      "file": "characters/squares/calcharo.png",
       "specialty": "Broadblade",
       "attributes": "Electro",
       "extra": {
@@ -137,7 +137,7 @@
     {
       "id": "camellya",
       "name": "Camellya",
-      "file": "characters/camellya.png",
+      "file": "characters/squares/camellya.png",
       "specialty": "Sword",
       "attributes": "Havoc",
       "extra": {
@@ -153,7 +153,7 @@
     {
       "id": "cantarella",
       "name": "Cantarella",
-      "file": "characters/cantarella.png",
+      "file": "characters/squares/cantarella.png",
       "specialty": "Rectifier",
       "attributes": "Havoc",
       "extra": {
@@ -169,7 +169,7 @@
     {
       "id": "carlotta",
       "name": "Carlotta",
-      "file": "characters/carlotta.png",
+      "file": "characters/squares/carlotta.png",
       "specialty": "Pistols",
       "attributes": "Glacio",
       "extra": {
@@ -185,7 +185,7 @@
     {
       "id": "cartethyia",
       "name": "Cartethyia",
-      "file": "characters/cartethyia.png",
+      "file": "characters/squares/cartethyia.png",
       "specialty": "Sword",
       "attributes": "Aero",
       "extra": {
@@ -201,7 +201,7 @@
     {
       "id": "changli",
       "name": "Changli",
-      "file": "characters/changli.png",
+      "file": "characters/squares/changli.png",
       "specialty": "Sword",
       "attributes": "Fusion",
       "extra": {
@@ -217,7 +217,7 @@
     {
       "id": "chisa",
       "name": "Chisa",
-      "file": "characters/chisa.png",
+      "file": "characters/squares/chisa.png",
       "specialty": "Broadblade",
       "attributes": "Havoc",
       "extra": {
@@ -233,7 +233,7 @@
     {
       "id": "chixia",
       "name": "Chixia",
-      "file": "characters/chixia.png",
+      "file": "characters/squares/chixia.png",
       "specialty": "Pistols",
       "attributes": "Fusion",
       "extra": {
@@ -249,7 +249,7 @@
     {
       "id": "ciaccona",
       "name": "Ciaccona",
-      "file": "characters/ciaccona.png",
+      "file": "characters/squares/ciaccona.png",
       "specialty": "Pistols",
       "attributes": "Aero",
       "extra": {
@@ -265,7 +265,7 @@
     {
       "id": "danjin",
       "name": "Danjin",
-      "file": "characters/danjin.png",
+      "file": "characters/squares/danjin.png",
       "specialty": "Sword",
       "attributes": "Havoc",
       "extra": {
@@ -281,7 +281,7 @@
     {
       "id": "encore",
       "name": "Encore",
-      "file": "characters/encore.png",
+      "file": "characters/squares/encore.png",
       "specialty": "Rectifier",
       "attributes": "Fusion",
       "extra": {
@@ -297,7 +297,7 @@
     {
       "id": "galbrena",
       "name": "Galbrena",
-      "file": "characters/galbrena.png",
+      "file": "characters/squares/galbrena.png",
       "specialty": "Pistols",
       "attributes": "Fusion",
       "extra": {
@@ -313,7 +313,7 @@
     {
       "id": "iuno",
       "name": "Iuno",
-      "file": "characters/iuno.png",
+      "file": "characters/squares/iuno.png",
       "specialty": "Gauntlets",
       "attributes": "Aero",
       "extra": {
@@ -329,7 +329,7 @@
     {
       "id": "jianxin",
       "name": "Jianxin",
-      "file": "characters/jianxin.png",
+      "file": "characters/squares/jianxin.png",
       "specialty": "Gauntlets",
       "attributes": "Aero",
       "extra": {
@@ -345,7 +345,7 @@
     {
       "id": "jinhsi",
       "name": "Jinhsi",
-      "file": "characters/jinhsi.png",
+      "file": "characters/squares/jinhsi.png",
       "specialty": "Broadblade",
       "attributes": "Spectro",
       "extra": {
@@ -361,7 +361,7 @@
     {
       "id": "jiyan",
       "name": "Jiyan",
-      "file": "characters/jiyan.png",
+      "file": "characters/squares/jiyan.png",
       "specialty": "Broadblade",
       "attributes": "Aero",
       "extra": {
@@ -377,7 +377,7 @@
     {
       "id": "lingyang",
       "name": "Lingyang",
-      "file": "characters/lingyang.png",
+      "file": "characters/squares/lingyang.png",
       "specialty": "Gauntlets",
       "attributes": "Glacio",
       "extra": {
@@ -393,7 +393,7 @@
     {
       "id": "lumi",
       "name": "Lumi",
-      "file": "characters/lumi.png",
+      "file": "characters/squares/lumi.png",
       "specialty": "Broadblade",
       "attributes": "Electro",
       "extra": {
@@ -409,7 +409,7 @@
     {
       "id": "lupa",
       "name": "Lupa",
-      "file": "characters/lupa.png",
+      "file": "characters/squares/lupa.png",
       "specialty": "Broadblade",
       "attributes": "Fusion",
       "extra": {
@@ -425,7 +425,7 @@
     {
       "id": "lynae",
       "name": "Lynae",
-      "file": "characters/lynae.png",
+      "file": "characters/squares/lynae.png",
       "specialty": "Pistols",
       "attributes": "Spectro",
       "extra": {
@@ -441,7 +441,7 @@
     {
       "id": "mornye",
       "name": "Mornye",
-      "file": "characters/mornye.png",
+      "file": "characters/squares/mornye.png",
       "specialty": "Broadblade",
       "attributes": "Fusion",
       "extra": {
@@ -457,7 +457,7 @@
     {
       "id": "mortefi",
       "name": "Mortefi",
-      "file": "characters/mortefi.png",
+      "file": "characters/squares/mortefi.png",
       "specialty": "Pistols",
       "attributes": "Fusion",
       "extra": {
@@ -473,7 +473,7 @@
     {
       "id": "phoebe",
       "name": "Phoebe",
-      "file": "characters/phoebe.png",
+      "file": "characters/squares/phoebe.png",
       "specialty": "Rectifier",
       "attributes": "Spectro",
       "extra": {
@@ -489,7 +489,7 @@
     {
       "id": "phrolova",
       "name": "Phrolova",
-      "file": "characters/phrolova.png",
+      "file": "characters/squares/phrolova.png",
       "specialty": "Rectifier",
       "attributes": "Havoc",
       "extra": {
@@ -505,7 +505,7 @@
     {
       "id": "qiuyuan",
       "name": "Qiuyuan",
-      "file": "characters/qiuyuan.png",
+      "file": "characters/squares/qiuyuan.png",
       "specialty": "Sword",
       "attributes": "Aero",
       "extra": {
@@ -521,7 +521,7 @@
     {
       "id": "roccia",
       "name": "Roccia",
-      "file": "characters/roccia.png",
+      "file": "characters/squares/roccia.png",
       "specialty": "Unknown",
       "attributes": "Havoc",
       "extra": {
@@ -537,7 +537,7 @@
     {
       "id": "rover-aero",
       "name": "Rover-Aero",
-      "file": "characters/rover-aero.png",
+      "file": "characters/squares/rover-aero.png",
       "specialty": "Sword",
       "attributes": "Aero",
       "extra": {
@@ -553,7 +553,7 @@
     {
       "id": "rover-havoc",
       "name": "Rover-Havoc",
-      "file": "characters/rover-havoc.png",
+      "file": "characters/squares/rover-havoc.png",
       "specialty": "Sword",
       "attributes": "Havoc",
       "extra": {
@@ -569,7 +569,7 @@
     {
       "id": "rover-spectro",
       "name": "Rover-Spectro",
-      "file": "characters/rover-spectro.png",
+      "file": "characters/squares/rover-spectro.png",
       "specialty": "Sword",
       "attributes": "Spectro",
       "extra": {
@@ -585,7 +585,7 @@
     {
       "id": "sanhua",
       "name": "Sanhua",
-      "file": "characters/sanhua.png",
+      "file": "characters/squares/sanhua.png",
       "specialty": "Sword",
       "attributes": "Glacio",
       "extra": {
@@ -601,7 +601,7 @@
     {
       "id": "shorekeeper",
       "name": "Shorekeeper",
-      "file": "characters/shorekeeper.png",
+      "file": "characters/squares/shorekeeper.png",
       "specialty": "Rectifier",
       "attributes": "Spectro",
       "extra": {
@@ -617,7 +617,7 @@
     {
       "id": "taoqi",
       "name": "Taoqi",
-      "file": "characters/taoqi.png",
+      "file": "characters/squares/taoqi.png",
       "specialty": "Broadblade",
       "attributes": "Havoc",
       "extra": {
@@ -633,7 +633,7 @@
     {
       "id": "verina",
       "name": "Verina",
-      "file": "characters/verina.png",
+      "file": "characters/squares/verina.png",
       "specialty": "Rectifier",
       "attributes": "Spectro",
       "extra": {
@@ -649,7 +649,7 @@
     {
       "id": "xiangli-yao",
       "name": "Xiangli Yao",
-      "file": "characters/xiangli-yao.png",
+      "file": "characters/squares/xiangli-yao.png",
       "specialty": "Gauntlets",
       "attributes": "Electro",
       "extra": {
@@ -665,7 +665,7 @@
     {
       "id": "yangyang",
       "name": "Yangyang",
-      "file": "characters/yangyang.png",
+      "file": "characters/squares/yangyang.png",
       "specialty": "Sword",
       "attributes": "Aero",
       "extra": {
@@ -681,7 +681,7 @@
     {
       "id": "yinlin",
       "name": "Yinlin",
-      "file": "characters/yinlin.png",
+      "file": "characters/squares/yinlin.png",
       "specialty": "Rectifier",
       "attributes": "Electro",
       "extra": {
@@ -697,7 +697,7 @@
     {
       "id": "youhu",
       "name": "Youhu",
-      "file": "characters/youhu.png",
+      "file": "characters/squares/youhu.png",
       "specialty": "Gauntlets",
       "attributes": "Glacio",
       "extra": {
@@ -713,7 +713,7 @@
     {
       "id": "yuanwu",
       "name": "Yuanwu",
-      "file": "characters/yuanwu.png",
+      "file": "characters/squares/yuanwu.png",
       "specialty": "Gauntlets",
       "attributes": "Electro",
       "extra": {
@@ -729,7 +729,7 @@
     {
       "id": "zani",
       "name": "Zani",
-      "file": "characters/zani.png",
+      "file": "characters/squares/zani.png",
       "specialty": "Gauntlets",
       "attributes": "Spectro",
       "extra": {
@@ -745,7 +745,7 @@
     {
       "id": "zhezhi",
       "name": "Zhezhi",
-      "file": "characters/zhezhi.png",
+      "file": "characters/squares/zhezhi.png",
       "specialty": "Rectifier",
       "attributes": "Glacio",
       "extra": {
@@ -761,7 +761,7 @@
     {
       "id": "lucilla",
       "name": "Lucilla",
-      "file": "characters/lucilla.png",
+      "file": "characters/squares/lucilla.png",
       "specialty": "Unknown",
       "attributes": "Unknown",
       "extra": {
@@ -777,7 +777,7 @@
     {
       "id": "luuk-herssen",
       "name": "Luuk Herssen",
-      "file": "characters/luuk-herssen.png",
+      "file": "characters/squares/luuk-herssen.png",
       "specialty": "Gauntlets",
       "attributes": "Spectro",
       "extra": {
@@ -793,7 +793,7 @@
     {
       "id": "sigrika",
       "name": "Sigrika",
-      "file": "characters/sigrika.png",
+      "file": "characters/squares/sigrika.png",
       "specialty": "Unknown",
       "attributes": "Unknown",
       "extra": {
