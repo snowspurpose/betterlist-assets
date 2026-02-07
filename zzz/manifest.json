@@ -23,298 +23,667 @@
   ],
   "items": [
     {
-      "id": "anby",
-      "file": "characters/anby.png",
-      "element": "electric",
-      "type": "stun"
-    },
-    {
-      "id": "nekomata",
-      "file": "characters/nekomata.png",
-      "element": "physical",
-      "type": "attack"
-    },
-    {
-      "id": "nicole",
-      "file": "characters/nicole.png",
-      "element": "ether",
-      "type": "support"
-    },
-    {
-      "id": "soldier-11",
-      "file": "characters/soldier-11.png",
-      "element": "fire",
-      "type": "attack"
-    },
-    {
-      "id": "yidhari",
-      "file": "characters/yidhari.png",
-      "element": "ice",
-      "type": "unknown"
-    },
-    {
-      "id": "corin",
-      "file": "characters/corin.png",
-      "element": "physical",
-      "type": "attack"
-    },
-    {
-      "id": "caesar",
-      "file": "characters/caesar.png",
-      "element": "physical",
-      "type": "defense"
-    },
-    {
-      "id": "billy",
-      "file": "characters/billy.png",
-      "element": "physical",
-      "type": "attack"
-    },
-    {
-      "id": "miyabi",
-      "file": "characters/miyabi.png",
-      "element": "ice",
-      "type": "anomaly"
-    },
-    {
-      "id": "koleda",
-      "file": "characters/koleda.png",
-      "element": "fire",
-      "type": "stun"
-    },
-    {
-      "id": "anton",
-      "file": "characters/anton.png",
-      "element": "electric",
-      "type": "attack"
-    },
-    {
-      "id": "ben",
-      "file": "characters/ben.png",
-      "element": "fire",
-      "type": "defense"
-    },
-    {
-      "id": "soukaku",
-      "file": "characters/soukaku.png",
-      "element": "ice",
-      "type": "support"
-    },
-    {
-      "id": "lycaon",
-      "file": "characters/lycaon.png",
-      "element": "ice",
-      "type": "stun"
-    },
-    {
-      "id": "lucy",
-      "file": "characters/lucy.png",
-      "element": "fire",
-      "type": "support"
-    },
-    {
-      "id": "lighter",
-      "file": "characters/lighter.png",
-      "element": "fire",
-      "type": "stun"
-    },
-    {
-      "id": "burnice",
-      "file": "characters/burnice.png",
-      "element": "fire",
-      "type": "anomaly"
-    },
-    {
-      "id": "grace",
-      "file": "characters/grace.png",
-      "element": "electric",
-      "type": "anomaly"
-    },
-    {
-      "id": "ellen",
-      "file": "characters/ellen.png",
-      "element": "ice",
-      "type": "attack"
-    },
-    {
-      "id": "harumasa",
-      "file": "characters/harumasa.png",
-      "element": "electric",
-      "type": "attack"
-    },
-    {
       "id": "alexandrina-sebastiane",
+      "name": "Alexandrina Sebastiane",
       "file": "characters/alexandrina-sebastiane.png",
-      "element": "electric",
-      "type": "support"
+      "specialty": "support",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "victoria housekeeping",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/alexandrina-sebastiane.png"
+      }
     },
     {
-      "id": "yanagi",
-      "file": "characters/yanagi.png",
-      "element": "electric",
-      "type": "anomaly"
+      "id": "alice-thymefield",
+      "name": "Alice Thymefield",
+      "file": "characters/alice-thymefield.png",
+      "specialty": "anomaly",
+      "attributes": "physical",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/alice-thymefield.png"
+      }
     },
     {
-      "id": "zhu-yuan",
-      "file": "characters/zhu-yuan.png",
-      "element": "ether",
-      "type": "attack"
+      "id": "anby-demara",
+      "name": "Anby Demara",
+      "file": "characters/anby-demara.png",
+      "specialty": "stun",
+      "attributes": "electric",
+      "extra": {
+        "rank": "A",
+        "faction": "cunning hares",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/anby-demara.png"
+      }
     },
     {
-      "id": "qingyi",
-      "file": "characters/qingyi.png",
-      "element": "electric",
-      "type": "stun"
+      "id": "anton-ivanov",
+      "name": "Anton Ivanov",
+      "file": "characters/anton-ivanov.png",
+      "specialty": "attack",
+      "attributes": "electric",
+      "extra": {
+        "rank": "A",
+        "faction": "belobog",
+        "attack_type": "pierce",
+        "portrait": "characters/portraits/anton-ivanov.png"
+      }
     },
     {
-      "id": "jane",
-      "file": "characters/jane.png",
-      "element": "physical",
-      "type": "anomaly"
-    },
-    {
-      "id": "seth",
-      "file": "characters/seth.png",
-      "element": "electric",
-      "type": "defense"
-    },
-    {
-      "id": "piper",
-      "file": "characters/piper.png",
-      "element": "physical",
-      "type": "anomaly"
-    },
-    {
-      "id": "hugo",
-      "file": "characters/hugo.png",
-      "element": "ice",
-      "type": "attack"
-    },
-    {
-      "id": "orphie-magus",
-      "file": "characters/orphie-magus.png",
-      "element": "fire",
-      "type": "attack"
+      "id": "asaba-harumasa",
+      "name": "Asaba Harumasa",
+      "file": "characters/asaba-harumasa.png",
+      "specialty": "attack",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "section-6",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/asaba-harumasa.png"
+      }
     },
     {
       "id": "astra-yao",
+      "name": "Astra Yao",
       "file": "characters/astra-yao.png",
-      "element": "ether",
-      "type": "support"
-    },
-    {
-      "id": "evelyn",
-      "file": "characters/evelyn.png",
-      "element": "fire",
-      "type": "attack"
-    },
-    {
-      "id": "vivian",
-      "file": "characters/vivian.png",
-      "element": "ether",
-      "type": "anomaly"
-    },
-    {
-      "id": "zhao",
-      "file": "characters/zhao.png",
-      "element": "ice",
-      "type": "defense"
-    },
-    {
-      "id": "pulchra",
-      "file": "characters/pulchra.png",
-      "element": "physical",
-      "type": "stun"
-    },
-    {
-      "id": "trigger",
-      "file": "characters/trigger.png",
-      "element": "electric",
-      "type": "stun"
-    },
-    {
-      "id": "yixuan",
-      "file": "characters/yixuan.png",
-      "element": "unknown",
-      "type": "unknown"
-    },
-    {
-      "id": "soldier-0-anby",
-      "file": "characters/soldier-0-anby.png",
-      "element": "electric",
-      "type": "attack"
-    },
-    {
-      "id": "ju-fufu",
-      "file": "characters/ju-fufu.png",
-      "element": "fire",
-      "type": "stun"
-    },
-    {
-      "id": "alice",
-      "file": "characters/alice.png",
-      "element": "physical",
-      "type": "anomaly"
-    },
-    {
-      "id": "yuzuha",
-      "file": "characters/yuzuha.png",
-      "element": "physical",
-      "type": "support"
-    },
-    {
-      "id": "pan-yinhu",
-      "file": "characters/pan-yinhu.png",
-      "element": "physical",
-      "type": "defense"
-    },
-    {
-      "id": "ye-shunguang",
-      "file": "characters/ye-shunguang.png",
-      "element": "honed-edge",
-      "type": "attack"
-    },
-    {
-      "id": "manato",
-      "file": "characters/manato.png",
-      "element": "fire",
-      "type": "unknown"
-    },
-    {
-      "id": "lucia",
-      "file": "characters/lucia.png",
-      "element": "ether",
-      "type": "support"
-    },
-    {
-      "id": "seed",
-      "file": "characters/seed.png",
-      "element": "electric",
-      "type": "attack"
+      "specialty": "support",
+      "attributes": "ether",
+      "extra": {
+        "rank": "S",
+        "faction": "stars of lyra",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/astra-yao.png"
+      }
     },
     {
       "id": "banyue",
+      "name": "Banyue",
       "file": "characters/banyue.png",
-      "element": "fire",
-      "type": "unknown"
+      "specialty": "rupture",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "krampus",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/banyue.png"
+      }
+    },
+    {
+      "id": "ben-bigger",
+      "name": "Ben Bigger",
+      "file": "characters/ben-bigger.png",
+      "specialty": "defense",
+      "attributes": "fire",
+      "extra": {
+        "rank": "A",
+        "faction": "belobog",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/ben-bigger.png"
+      }
+    },
+    {
+      "id": "billy-kid",
+      "name": "Billy Kid",
+      "file": "characters/billy-kid.png",
+      "specialty": "attack",
+      "attributes": "physical",
+      "extra": {
+        "rank": "A",
+        "faction": "cunning hares",
+        "attack_type": "pierce",
+        "portrait": "characters/portraits/billy-kid.png"
+      }
+    },
+    {
+      "id": "burnice-white",
+      "name": "Burnice White",
+      "file": "characters/burnice-white.png",
+      "specialty": "anomaly",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "sons of calydon",
+        "attack_type": "pierce",
+        "portrait": "characters/portraits/burnice-white.png"
+      }
+    },
+    {
+      "id": "caesar-king",
+      "name": "Caesar King",
+      "file": "characters/caesar-king.png",
+      "specialty": "defense",
+      "attributes": "physical",
+      "extra": {
+        "rank": "S",
+        "faction": "sons of calydon",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/caesar-king.png"
+      }
+    },
+    {
+      "id": "corin-wickes",
+      "name": "Corin Wickes",
+      "file": "characters/corin-wickes.png",
+      "specialty": "attack",
+      "attributes": "physical",
+      "extra": {
+        "rank": "A",
+        "faction": "victoria housekeeping",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/corin-wickes.png"
+      }
     },
     {
       "id": "dialyn",
+      "name": "Dialyn",
       "file": "characters/dialyn.png",
-      "element": "physical",
-      "type": "stun"
+      "specialty": "stun",
+      "attributes": "physical",
+      "extra": {
+        "rank": "S",
+        "faction": "krampus",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/dialyn.png"
+      }
+    },
+    {
+      "id": "ellen-joe",
+      "name": "Ellen Joe",
+      "file": "characters/ellen-joe.png",
+      "specialty": "attack",
+      "attributes": "ice",
+      "extra": {
+        "rank": "S",
+        "faction": "victoria housekeeping",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/ellen-joe.png"
+      }
+    },
+    {
+      "id": "evelyn-chevalier",
+      "name": "Evelyn Chevalier",
+      "file": "characters/evelyn-chevalier.png",
+      "specialty": "attack",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "stars of lyra",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/evelyn-chevalier.png"
+      }
+    },
+    {
+      "id": "grace-howard",
+      "name": "Grace Howard",
+      "file": "characters/grace-howard.png",
+      "specialty": "anomaly",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "belobog",
+        "attack_type": "pierce",
+        "portrait": "characters/portraits/grace-howard.png"
+      }
+    },
+    {
+      "id": "hoshimi-miyabi",
+      "name": "Hoshimi Miyabi",
+      "file": "characters/hoshimi-miyabi.png",
+      "specialty": "anomaly",
+      "attributes": "frost",
+      "extra": {
+        "rank": "S",
+        "faction": "section-6",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/hoshimi-miyabi.png"
+      }
+    },
+    {
+      "id": "hugo-vlad",
+      "name": "Hugo Vlad",
+      "file": "characters/hugo-vlad.png",
+      "specialty": "attack",
+      "attributes": "ice",
+      "extra": {
+        "rank": "S",
+        "faction": "mockingbird",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/hugo-vlad.png"
+      }
+    },
+    {
+      "id": "jane-doe",
+      "name": "Jane Doe",
+      "file": "characters/jane-doe.png",
+      "specialty": "anomaly",
+      "attributes": "physical",
+      "extra": {
+        "rank": "S",
+        "faction": "neps",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/jane-doe.png"
+      }
+    },
+    {
+      "id": "ju-fufu",
+      "name": "Ju Fufu",
+      "file": "characters/ju-fufu.png",
+      "specialty": "stun",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/ju-fufu.png"
+      }
+    },
+    {
+      "id": "koleda-belobog",
+      "name": "Koleda Belobog",
+      "file": "characters/koleda-belobog.png",
+      "specialty": "stun",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "belobog",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/koleda-belobog.png"
+      }
+    },
+    {
+      "id": "komano-manato",
+      "name": "Komano Manato",
+      "file": "characters/komano-manato.png",
+      "specialty": "rupture",
+      "attributes": "fire",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/komano-manato.png"
+      }
+    },
+    {
+      "id": "lighter",
+      "name": "Lighter",
+      "file": "characters/lighter.png",
+      "specialty": "stun",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "sons of calydon",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/lighter.png"
+      }
+    },
+    {
+      "id": "lucia-elowen",
+      "name": "Lucia Elowen",
+      "file": "characters/lucia-elowen.png",
+      "specialty": "support",
+      "attributes": "ether",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/lucia-elowen.png"
+      }
+    },
+    {
+      "id": "luciana-de-montefio",
+      "name": "Luciana de Montefio",
+      "file": "characters/luciana-de-montefio.png",
+      "specialty": "support",
+      "attributes": "fire",
+      "extra": {
+        "rank": "A",
+        "faction": "sons of calydon",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/luciana-de-montefio.png"
+      }
+    },
+    {
+      "id": "nekomiya-mana",
+      "name": "Nekomiya Mana",
+      "file": "characters/nekomiya-mana.png",
+      "specialty": "attack",
+      "attributes": "physical",
+      "extra": {
+        "rank": "S",
+        "faction": "cunning hares",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/nekomiya-mana.png"
+      }
+    },
+    {
+      "id": "nicole-demara",
+      "name": "Nicole Demara",
+      "file": "characters/nicole-demara.png",
+      "specialty": "support",
+      "attributes": "ether",
+      "extra": {
+        "rank": "A",
+        "faction": "cunning hares",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/nicole-demara.png"
+      }
+    },
+    {
+      "id": "orphie-magnusson-magus",
+      "name": "Orphie Magnusson & Magus",
+      "file": "characters/orphie-magnusson-magus.png",
+      "specialty": "attack",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "obol squad",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/orphie-magnusson-magus.png"
+      }
+    },
+    {
+      "id": "pan-yinhu",
+      "name": "Pan Yinhu",
+      "file": "characters/pan-yinhu.png",
+      "specialty": "defense",
+      "attributes": "physical",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/pan-yinhu.png"
+      }
+    },
+    {
+      "id": "piper-wheel",
+      "name": "Piper Wheel",
+      "file": "characters/piper-wheel.png",
+      "specialty": "anomaly",
+      "attributes": "physical",
+      "extra": {
+        "rank": "A",
+        "faction": "sons of calydon",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/piper-wheel.png"
+      }
+    },
+    {
+      "id": "pulchra-fellini",
+      "name": "Pulchra Fellini",
+      "file": "characters/pulchra-fellini.png",
+      "specialty": "stun",
+      "attributes": "physical",
+      "extra": {
+        "rank": "A",
+        "faction": "sons of calydon",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/pulchra-fellini.png"
+      }
+    },
+    {
+      "id": "qingyi",
+      "name": "Qingyi",
+      "file": "characters/qingyi.png",
+      "specialty": "stun",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "neps",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/qingyi.png"
+      }
+    },
+    {
+      "id": "seed",
+      "name": "Seed",
+      "file": "characters/seed.png",
+      "specialty": "attack",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "obol squad",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/seed.png"
+      }
+    },
+    {
+      "id": "seth-lowell",
+      "name": "Seth Lowell",
+      "file": "characters/seth-lowell.png",
+      "specialty": "defense",
+      "attributes": "electric",
+      "extra": {
+        "rank": "A",
+        "faction": "neps",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/seth-lowell.png"
+      }
+    },
+    {
+      "id": "soldier-0---anby",
+      "name": "Soldier 0 - Anby",
+      "file": "characters/soldier-0---anby.png",
+      "specialty": "attack",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/soldier-0---anby.png"
+      }
+    },
+    {
+      "id": "soldier-11",
+      "name": "Soldier 11",
+      "file": "characters/soldier-11.png",
+      "specialty": "attack",
+      "attributes": "fire",
+      "extra": {
+        "rank": "S",
+        "faction": "obol squad",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/soldier-11.png"
+      }
+    },
+    {
+      "id": "soukaku",
+      "name": "Soukaku",
+      "file": "characters/soukaku.png",
+      "specialty": "support",
+      "attributes": "ice",
+      "extra": {
+        "rank": "A",
+        "faction": "section-6",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/soukaku.png"
+      }
     },
     {
       "id": "sunna",
+      "name": "Sunna",
       "file": "characters/sunna.png",
-      "element": "physical",
-      "type": "support"
+      "specialty": "support",
+      "attributes": "physical",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/sunna.png"
+      }
+    },
+    {
+      "id": "trigger",
+      "name": "Trigger",
+      "file": "characters/trigger.png",
+      "specialty": "stun",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "obol squad",
+        "attack_type": "pierce",
+        "portrait": "characters/portraits/trigger.png"
+      }
+    },
+    {
+      "id": "tsukishiro-yanagi",
+      "name": "Tsukishiro Yanagi",
+      "file": "characters/tsukishiro-yanagi.png",
+      "specialty": "anomaly",
+      "attributes": "electric",
+      "extra": {
+        "rank": "S",
+        "faction": "section-6",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/tsukishiro-yanagi.png"
+      }
+    },
+    {
+      "id": "ukinami-yuzuha",
+      "name": "Ukinami Yuzuha",
+      "file": "characters/ukinami-yuzuha.png",
+      "specialty": "support",
+      "attributes": "physical",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/ukinami-yuzuha.png"
+      }
+    },
+    {
+      "id": "vivian-banshee",
+      "name": "Vivian Banshee",
+      "file": "characters/vivian-banshee.png",
+      "specialty": "anomaly",
+      "attributes": "ether",
+      "extra": {
+        "rank": "S",
+        "faction": "mockingbird",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/vivian-banshee.png"
+      }
+    },
+    {
+      "id": "von-lycaon",
+      "name": "Von Lycaon",
+      "file": "characters/von-lycaon.png",
+      "specialty": "stun",
+      "attributes": "ice",
+      "extra": {
+        "rank": "S",
+        "faction": "victoria housekeeping",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/von-lycaon.png"
+      }
+    },
+    {
+      "id": "ye-shunguang",
+      "name": "Ye Shunguang",
+      "file": "characters/ye-shunguang.png",
+      "specialty": "attack",
+      "attributes": "honed-edge",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/ye-shunguang.png"
+      }
+    },
+    {
+      "id": "yidhari-murphy",
+      "name": "Yidhari Murphy",
+      "file": "characters/yidhari-murphy.png",
+      "specialty": "rupture",
+      "attributes": "ice",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/yidhari-murphy.png"
+      }
+    },
+    {
+      "id": "yixuan",
+      "name": "Yixuan",
+      "file": "characters/yixuan.png",
+      "specialty": "rupture",
+      "attributes": "auric-ink",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "strike",
+        "portrait": "characters/portraits/yixuan.png"
+      }
+    },
+    {
+      "id": "zhao",
+      "name": "Zhao",
+      "file": "characters/zhao.png",
+      "specialty": "defense",
+      "attributes": "ice",
+      "extra": {
+        "rank": "S",
+        "faction": "krampus",
+        "attack_type": "slash",
+        "portrait": "characters/portraits/zhao.png"
+      }
+    },
+    {
+      "id": "zhu-yuan",
+      "name": "Zhu Yuan",
+      "file": "characters/zhu-yuan.png",
+      "specialty": "attack",
+      "attributes": "ether",
+      "extra": {
+        "rank": "S",
+        "faction": "neps",
+        "attack_type": "pierce",
+        "portrait": "characters/portraits/zhu-yuan.png"
+      }
     },
     {
       "id": "aria",
+      "name": "Aria",
       "file": "characters/aria.png",
-      "element": "ether",
-      "type": "anomaly"
+      "specialty": "anomaly",
+      "attributes": "ether",
+      "extra": {
+        "rank": "S",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/aria.png"
+      }
+    },
+    {
+      "id": "phaethon",
+      "name": "Phaethon",
+      "file": "characters/phaethon.png",
+      "specialty": "defense",
+      "attributes": "ice",
+      "extra": {
+        "rank": "A",
+        "faction": "victoria housekeeping",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/phaethon.png"
+      }
+    },
+    {
+      "id": "zenless-zone-zero",
+      "name": "Zenless Zone Zero",
+      "file": "characters/zenless-zone-zero.png",
+      "specialty": "unknown",
+      "attributes": "unknown",
+      "extra": {
+        "rank": "A",
+        "faction": "unknown",
+        "attack_type": "unknown",
+        "portrait": "characters/portraits/zenless-zone-zero.png"
+      }
     }
   ]
 }
