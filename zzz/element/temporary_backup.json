@@ -660,201 +660,6 @@
       }
     },
     {
-      "id": "english",
-      "name": "English",
-      "file": "characters/english.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/english.png"
-      }
-    },
-    {
-      "id": "chinesesimplified",
-      "name": "Chinese(Simplified)",
-      "file": "characters/chinesesimplified.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/chinesesimplified.png"
-      }
-    },
-    {
-      "id": "chinesetraditional",
-      "name": "Chinese(Traditional)",
-      "file": "characters/chinesetraditional.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/chinesetraditional.png"
-      }
-    },
-    {
-      "id": "japanese",
-      "name": "Japanese",
-      "file": "characters/japanese.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/japanese.png"
-      }
-    },
-    {
-      "id": "korean",
-      "name": "Korean",
-      "file": "characters/korean.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/korean.png"
-      }
-    },
-    {
-      "id": "spanish",
-      "name": "Spanish",
-      "file": "characters/spanish.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/spanish.png"
-      }
-    },
-    {
-      "id": "french",
-      "name": "French",
-      "file": "characters/french.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/french.png"
-      }
-    },
-    {
-      "id": "russian",
-      "name": "Russian",
-      "file": "characters/russian.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/russian.png"
-      }
-    },
-    {
-      "id": "thai",
-      "name": "Thai",
-      "file": "characters/thai.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/thai.png"
-      }
-    },
-    {
-      "id": "vietnamese",
-      "name": "Vietnamese",
-      "file": "characters/vietnamese.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/vietnamese.png"
-      }
-    },
-    {
-      "id": "german",
-      "name": "German",
-      "file": "characters/german.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/german.png"
-      }
-    },
-    {
-      "id": "indonesian",
-      "name": "Indonesian",
-      "file": "characters/indonesian.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/indonesian.png"
-      }
-    },
-    {
-      "id": "portuguese",
-      "name": "Portuguese",
-      "file": "characters/portuguese.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/portuguese.png"
-      }
-    },
-    {
-      "id": "agents",
-      "name": "Agents",
-      "file": "characters/agents.png",
-      "specialty": "defense",
-      "attributes": "ice",
-      "extra": {
-        "rank": "A",
-        "faction": "victoria housekeeping",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/agents.png"
-      }
-    },
-    {
-      "id": "agents",
-      "name": "Agents",
-      "file": "characters/agents.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/agents.png"
-      }
-    },
-    {
       "id": "phaethon",
       "name": "Phaethon",
       "file": "characters/phaethon.png",
@@ -868,16 +673,16 @@
       }
     },
     {
-      "id": "aria",
-      "name": "Aria",
-      "file": "characters/aria.png",
+      "id": "zenless-zone-zero",
+      "name": "Zenless Zone Zero",
+      "file": "characters/zenless-zone-zero.png",
       "specialty": "unknown",
       "attributes": "unknown",
       "extra": {
         "rank": "A",
         "faction": "unknown",
         "attack_type": "unknown",
-        "portrait": "characters/portraits/aria.png"
+        "portrait": "characters/portraits/zenless-zone-zero.png"
       }
     }
   ]
