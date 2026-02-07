@@ -1,4 +1,4 @@
-# Betterlist Assets
+# Betterlist Assets [WIP]
 
 Asset repository for [Betterlists](https://betterlists.pages.dev/) - a tier list maker for gacha games.
 
