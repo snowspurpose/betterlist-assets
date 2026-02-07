@@ -30,8 +30,11 @@
       "attributes": "electric",
       "extra": {
         "rank": "S",
-        "faction": "victoria housekeeping",
+        "rarity": "S-Rank",
+        "faction": "victoria-housekeeping-co",
+        "affiliation": "victoria-housekeeping-co",
         "attack_type": "strike",
+        "version": "1.0",
         "portrait": "characters/portraits/alexandrina-sebastiane.png"
       }
     },
@@ -40,11 +43,14 @@
       "name": "Alice Thymefield",
       "file": "characters/alice-thymefield.png",
       "specialty": "anomaly",
-      "attributes": "ice",
+      "attributes": "physical",
       "extra": {
         "rank": "S",
-        "faction": "unknown",
+        "rarity": "S-Rank",
+        "faction": "spook-shack",
+        "affiliation": "spook-shack",
         "attack_type": "slash",
+        "version": "2.1",
         "portrait": "characters/portraits/alice-thymefield.png"
       }
     },
@@ -56,8 +62,11 @@
       "attributes": "electric",
       "extra": {
         "rank": "A",
-        "faction": "cunning hares",
+        "rarity": "A-Rank",
+        "faction": "cunning-hares",
+        "affiliation": "cunning-hares",
         "attack_type": "slash",
+        "version": "1.0",
         "portrait": "characters/portraits/anby-demara.png"
       }
     },
@@ -69,8 +78,11 @@
       "attributes": "electric",
       "extra": {
         "rank": "A",
-        "faction": "belobog",
+        "rarity": "A-Rank",
+        "faction": "belobog-heavy-industries",
+        "affiliation": "belobog-heavy-industries",
         "attack_type": "pierce",
+        "version": "1.0",
         "portrait": "characters/portraits/anton-ivanov.png"
       }
     },
@@ -82,8 +94,11 @@
       "attributes": "electric",
       "extra": {
         "rank": "S",
-        "faction": "section-6",
-        "attack_type": "slash",
+        "rarity": "S-Rank",
+        "faction": "hollow-special-operations-section-6",
+        "affiliation": "hollow-special-operations-section-6",
+        "attack_type": "pierce",
+        "version": "1.4",
         "portrait": "characters/portraits/asaba-harumasa.png"
       }
     },
@@ -95,8 +110,11 @@
       "attributes": "ether",
       "extra": {
         "rank": "S",
-        "faction": "stars of lyra",
+        "rarity": "S-Rank",
+        "faction": "stars-of-lyra",
+        "affiliation": "stars-of-lyra",
         "attack_type": "strike",
+        "version": "1.5",
         "portrait": "characters/portraits/astra-yao.png"
       }
     },
@@ -104,12 +122,15 @@
       "id": "banyue",
       "name": "Banyue",
       "file": "characters/banyue.png",
-      "specialty": "unknown",
+      "specialty": "rupture",
       "attributes": "fire",
       "extra": {
         "rank": "S",
-        "faction": "krampus",
+        "rarity": "S-Rank",
+        "faction": "krampus-compliance-authority",
+        "affiliation": "krampus-compliance-authority",
         "attack_type": "strike",
+        "version": "2.4",
         "portrait": "characters/portraits/banyue.png"
       }
     },
@@ -121,8 +142,11 @@
       "attributes": "fire",
       "extra": {
         "rank": "A",
-        "faction": "belobog",
+        "rarity": "A-Rank",
+        "faction": "belobog-heavy-industries",
+        "affiliation": "belobog-heavy-industries",
         "attack_type": "strike",
+        "version": "1.0",
         "portrait": "characters/portraits/ben-bigger.png"
       }
     },
@@ -134,8 +158,11 @@
       "attributes": "physical",
       "extra": {
         "rank": "A",
-        "faction": "cunning hares",
+        "rarity": "A-Rank",
+        "faction": "cunning-hares",
+        "affiliation": "cunning-hares",
         "attack_type": "pierce",
+        "version": "1.0",
         "portrait": "characters/portraits/billy-kid.png"
       }
     },
@@ -147,8 +174,11 @@
       "attributes": "fire",
       "extra": {
         "rank": "S",
-        "faction": "sons of calydon",
+        "rarity": "S-Rank",
+        "faction": "sons-of-calydon",
+        "affiliation": "sons-of-calydon",
         "attack_type": "pierce",
+        "version": "1.2",
         "portrait": "characters/portraits/burnice-white.png"
       }
     },
@@ -160,8 +190,11 @@
       "attributes": "physical",
       "extra": {
         "rank": "S",
-        "faction": "sons of calydon",
+        "rarity": "S-Rank",
+        "faction": "sons-of-calydon",
+        "affiliation": "sons-of-calydon",
         "attack_type": "slash",
+        "version": "1.2",
         "portrait": "characters/portraits/caesar-king.png"
       }
     },
@@ -173,8 +206,11 @@
       "attributes": "physical",
       "extra": {
         "rank": "A",
-        "faction": "victoria housekeeping",
+        "rarity": "A-Rank",
+        "faction": "victoria-housekeeping-co",
+        "affiliation": "victoria-housekeeping-co",
         "attack_type": "slash",
+        "version": "1.0",
         "portrait": "characters/portraits/corin-wickes.png"
       }
     },
@@ -186,8 +222,11 @@
       "attributes": "physical",
       "extra": {
         "rank": "S",
-        "faction": "krampus",
+        "rarity": "S-Rank",
+        "faction": "krampus-compliance-authority",
+        "affiliation": "krampus-compliance-authority",
         "attack_type": "slash",
+        "version": "2.4",
         "portrait": "characters/portraits/dialyn.png"
       }
     },
@@ -199,8 +238,11 @@
       "attributes": "ice",
       "extra": {
         "rank": "S",
-        "faction": "victoria housekeeping",
+        "rarity": "S-Rank",
+        "faction": "victoria-housekeeping-co",
+        "affiliation": "victoria-housekeeping-co",
         "attack_type": "slash",
+        "version": "1.0",
         "portrait": "characters/portraits/ellen-joe.png"
       }
     },
@@ -212,8 +254,11 @@
       "attributes": "fire",
       "extra": {
         "rank": "S",
-        "faction": "stars of lyra",
+        "rarity": "S-Rank",
+        "faction": "stars-of-lyra",
+        "affiliation": "stars-of-lyra",
         "attack_type": "slash",
+        "version": "1.5",
         "portrait": "characters/portraits/evelyn-chevalier.png"
       }
     },
@@ -225,8 +270,11 @@
       "attributes": "electric",
       "extra": {
         "rank": "S",
-        "faction": "belobog",
+        "rarity": "S-Rank",
+        "faction": "belobog-heavy-industries",
+        "affiliation": "belobog-heavy-industries",
         "attack_type": "pierce",
+        "version": "1.0",
         "portrait": "characters/portraits/grace-howard.png"
       }
     },
@@ -238,8 +286,11 @@
       "attributes": "frost",
       "extra": {
         "rank": "S",
-        "faction": "section-6",
+        "rarity": "S-Rank",
+        "faction": "hollow-special-operations-section-6",
+        "affiliation": "hollow-special-operations-section-6",
         "attack_type": "slash",
+        "version": "1.4",
         "portrait": "characters/portraits/hoshimi-miyabi.png"
       }
     },
@@ -251,8 +302,11 @@
       "attributes": "ice",
       "extra": {
         "rank": "S",
+        "rarity": "S-Rank",
         "faction": "mockingbird",
+        "affiliation": "mockingbird",
         "attack_type": "slash",
+        "version": "1.7",
         "portrait": "characters/portraits/hugo-vlad.png"
       }
     },
@@ -264,8 +318,11 @@
       "attributes": "physical",
       "extra": {
         "rank": "S",
-        "faction": "neps",
+        "rarity": "S-Rank",
+        "faction": "criminal-investigation-special-response-team-jane-doe",
+        "affiliation": "criminal-investigation-special-response-team-jane-doe",
         "attack_type": "slash",
+        "version": "1.1",
         "portrait": "characters/portraits/jane-doe.png"
       }
     },
@@ -277,8 +334,11 @@
       "attributes": "fire",
       "extra": {
         "rank": "S",
-        "faction": "unknown",
+        "rarity": "S-Rank",
+        "faction": "yunkui-summit",
+        "affiliation": "yunkui-summit",
         "attack_type": "strike",
+        "version": "2.0",
         "portrait": "characters/portraits/ju-fufu.png"
       }
     },
@@ -290,8 +350,11 @@
       "attributes": "fire",
       "extra": {
         "rank": "S",
-        "faction": "belobog",
+        "rarity": "S-Rank",
+        "faction": "belobog-heavy-industries",
+        "affiliation": "belobog-heavy-industries",
         "attack_type": "strike",
+        "version": "1.0",
         "portrait": "characters/portraits/koleda-belobog.png"
       }
     },
@@ -299,12 +362,15 @@
       "id": "komano-manato",
       "name": "Komano Manato",
       "file": "characters/komano-manato.png",
-      "specialty": "unknown",
+      "specialty": "rupture",
       "attributes": "fire",
       "extra": {
         "rank": "A",
-        "faction": "unknown",
+        "rarity": "A-Rank",
+        "faction": "spook-shack",
+        "affiliation": "spook-shack",
         "attack_type": "slash",
+        "version": "2.3",
         "portrait": "characters/portraits/komano-manato.png"
       }
     },
@@ -316,8 +382,11 @@
       "attributes": "fire",
       "extra": {
         "rank": "S",
-        "faction": "sons of calydon",
+        "rarity": "S-Rank",
+        "faction": "sons-of-calydon",
+        "affiliation": "sons-of-calydon",
         "attack_type": "strike",
+        "version": "1.3",
         "portrait": "characters/portraits/lighter.png"
       }
     },
@@ -329,8 +398,11 @@
       "attributes": "ether",
       "extra": {
         "rank": "S",
-        "faction": "unknown",
+        "rarity": "S-Rank",
+        "faction": "spook-shack",
+        "affiliation": "spook-shack",
         "attack_type": "strike",
+        "version": "2.3",
         "portrait": "characters/portraits/lucia-elowen.png"
       }
     },
@@ -342,8 +414,11 @@
       "attributes": "fire",
       "extra": {
         "rank": "A",
-        "faction": "sons of calydon",
+        "rarity": "A-Rank",
+        "faction": "sons-of-calydon",
+        "affiliation": "sons-of-calydon",
         "attack_type": "strike",
+        "version": "1.0",
         "portrait": "characters/portraits/luciana-de-montefio.png"
       }
     },
@@ -355,8 +430,11 @@
       "attributes": "physical",
       "extra": {
         "rank": "S",
-        "faction": "cunning hares",
+        "rarity": "S-Rank",
+        "faction": "cunning-hares",
+        "affiliation": "cunning-hares",
         "attack_type": "slash",
+        "version": "1.0",
         "portrait": "characters/portraits/nekomiya-mana.png"
       }
     },
@@ -368,8 +446,11 @@
       "attributes": "ether",
       "extra": {
         "rank": "A",
-        "faction": "cunning hares",
+        "rarity": "A-Rank",
+        "faction": "cunning-hares",
+        "affiliation": "cunning-hares",
         "attack_type": "strike",
+        "version": "1.0",
         "portrait": "characters/portraits/nicole-demara.png"
       }
     },
@@ -381,8 +462,11 @@
       "attributes": "fire",
       "extra": {
         "rank": "S",
-        "faction": "obol squad",
-        "attack_type": "slash",
+        "rarity": "S-Rank",
+        "faction": "obol-squad",
+        "affiliation": "obol-squad",
+        "attack_type": "pierce",
+        "version": "2.2",
         "portrait": "characters/portraits/orphie-magnusson-magus.png"
       }
     },
@@ -394,8 +478,11 @@
       "attributes": "physical",
       "extra": {
         "rank": "A",
-        "faction": "unknown",
+        "rarity": "A-Rank",
+        "faction": "yunkui-summit",
+        "affiliation": "yunkui-summit",
         "attack_type": "strike",
+        "version": "2.0",
         "portrait": "characters/portraits/pan-yinhu.png"
       }
     },
@@ -407,8 +494,11 @@
       "attributes": "physical",
       "extra": {
         "rank": "A",
-        "faction": "sons of calydon",
+        "rarity": "A-Rank",
+        "faction": "sons-of-calydon",
+        "affiliation": "sons-of-calydon",
         "attack_type": "slash",
+        "version": "1.0",
         "portrait": "characters/portraits/piper-wheel.png"
       }
     },
@@ -420,8 +510,11 @@
       "attributes": "physical",
       "extra": {
         "rank": "A",
-        "faction": "sons of calydon",
+        "rarity": "A-Rank",
+        "faction": "sons-of-calydon",
+        "affiliation": "sons-of-calydon",
         "attack_type": "slash",
+        "version": "1.6",
         "portrait": "characters/portraits/pulchra-fellini.png"
       }
     },
@@ -433,8 +526,11 @@
       "attributes": "electric",
       "extra": {
         "rank": "S",
-        "faction": "neps",
+        "rarity": "S-Rank",
+        "faction": "criminal-investigation-special-response-team",
+        "affiliation": "criminal-investigation-special-response-team",
         "attack_type": "strike",
+        "version": "1.1",
         "portrait": "characters/portraits/qingyi.png"
       }
     },
@@ -446,8 +542,11 @@
       "attributes": "electric",
       "extra": {
         "rank": "S",
-        "faction": "obol squad",
+        "rarity": "S-Rank",
+        "faction": "obol-squad",
+        "affiliation": "obol-squad",
         "attack_type": "slash",
+        "version": "2.2",
         "portrait": "characters/portraits/seed.png"
       }
     },
@@ -459,8 +558,11 @@
       "attributes": "electric",
       "extra": {
         "rank": "A",
-        "faction": "neps",
+        "rarity": "A-Rank",
+        "faction": "criminal-investigation-special-response-team",
+        "affiliation": "criminal-investigation-special-response-team",
         "attack_type": "slash",
+        "version": "1.1",
         "portrait": "characters/portraits/seth-lowell.png"
       }
     },
@@ -472,8 +574,11 @@
       "attributes": "electric",
       "extra": {
         "rank": "S",
-        "faction": "unknown",
+        "rarity": "S-Rank",
+        "faction": "defense-force---silver-squad",
+        "affiliation": "defense-force---silver-squad",
         "attack_type": "slash",
+        "version": "1.6",
         "portrait": "characters/portraits/soldier-0---anby.png"
       }
     },
@@ -485,8 +590,11 @@
       "attributes": "fire",
       "extra": {
         "rank": "S",
-        "faction": "obol squad",
+        "rarity": "S-Rank",
+        "faction": "obol-squad",
+        "affiliation": "obol-squad",
         "attack_type": "slash",
+        "version": "1.0",
         "portrait": "characters/portraits/soldier-11.png"
       }
     },
@@ -498,8 +606,11 @@
       "attributes": "ice",
       "extra": {
         "rank": "A",
-        "faction": "section-6",
+        "rarity": "A-Rank",
+        "faction": "hollow-special-operations-section-6",
+        "affiliation": "hollow-special-operations-section-6",
         "attack_type": "slash",
+        "version": "1.0",
         "portrait": "characters/portraits/soukaku.png"
       }
     },
@@ -511,8 +622,11 @@
       "attributes": "physical",
       "extra": {
         "rank": "S",
-        "faction": "unknown",
+        "rarity": "S-Rank",
+        "faction": "angels-of-delusion",
+        "affiliation": "angels-of-delusion",
         "attack_type": "unknown",
+        "version": "2.6",
         "portrait": "characters/portraits/sunna.png"
       }
     },
@@ -524,8 +638,11 @@
       "attributes": "electric",
       "extra": {
         "rank": "S",
-        "faction": "obol squad",
+        "rarity": "S-Rank",
+        "faction": "obol-squad",
+        "affiliation": "obol-squad",
         "attack_type": "pierce",
+        "version": "1.6",
         "portrait": "characters/portraits/trigger.png"
       }
     },
@@ -537,8 +654,11 @@
       "attributes": "electric",
       "extra": {
         "rank": "S",
-        "faction": "section-6",
+        "rarity": "S-Rank",
+        "faction": "hollow-special-operations-section-6",
+        "affiliation": "hollow-special-operations-section-6",
         "attack_type": "slash",
+        "version": "1.3",
         "portrait": "characters/portraits/tsukishiro-yanagi.png"
       }
     },
@@ -550,8 +670,11 @@
       "attributes": "physical",
       "extra": {
         "rank": "S",
-        "faction": "unknown",
+        "rarity": "S-Rank",
+        "faction": "spook-shack",
+        "affiliation": "spook-shack",
         "attack_type": "strike",
+        "version": "2.1",
         "portrait": "characters/portraits/ukinami-yuzuha.png"
       }
     },
@@ -563,8 +686,11 @@
       "attributes": "ether",
       "extra": {
         "rank": "S",
+        "rarity": "S-Rank",
         "faction": "mockingbird",
+        "affiliation": "mockingbird",
         "attack_type": "slash",
+        "version": "1.7",
         "portrait": "characters/portraits/vivian-banshee.png"
       }
     },
@@ -576,8 +702,11 @@
       "attributes": "ice",
       "extra": {
         "rank": "S",
-        "faction": "victoria housekeeping",
+        "rarity": "S-Rank",
+        "faction": "victoria-housekeeping-co",
+        "affiliation": "victoria-housekeeping-co",
         "attack_type": "strike",
+        "version": "1.0",
         "portrait": "characters/portraits/von-lycaon.png"
       }
     },
@@ -586,11 +715,14 @@
       "name": "Ye Shunguang",
       "file": "characters/ye-shunguang.png",
       "specialty": "attack",
-      "attributes": "unknown",
+      "attributes": "honed edge",
       "extra": {
         "rank": "S",
-        "faction": "unknown",
+        "rarity": "S-Rank",
+        "faction": "yunkui-summit",
+        "affiliation": "yunkui-summit",
         "attack_type": "slash",
+        "version": "2.5",
         "portrait": "characters/portraits/ye-shunguang.png"
       }
     },
@@ -598,12 +730,15 @@
       "id": "yidhari-murphy",
       "name": "Yidhari Murphy",
       "file": "characters/yidhari-murphy.png",
-      "specialty": "unknown",
+      "specialty": "rupture",
       "attributes": "ice",
       "extra": {
         "rank": "S",
-        "faction": "unknown",
+        "rarity": "S-Rank",
+        "faction": "spook-shack",
+        "affiliation": "spook-shack",
         "attack_type": "strike",
+        "version": "2.3",
         "portrait": "characters/portraits/yidhari-murphy.png"
       }
     },
@@ -611,12 +746,15 @@
       "id": "yixuan",
       "name": "Yixuan",
       "file": "characters/yixuan.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
+      "specialty": "rupture",
+      "attributes": "auric ink",
       "extra": {
         "rank": "S",
-        "faction": "unknown",
+        "rarity": "S-Rank",
+        "faction": "yunkui-summit",
+        "affiliation": "yunkui-summit",
         "attack_type": "strike",
+        "version": "2.0",
         "portrait": "characters/portraits/yixuan.png"
       }
     },
@@ -628,8 +766,11 @@
       "attributes": "ice",
       "extra": {
         "rank": "S",
-        "faction": "krampus",
+        "rarity": "S-Rank",
+        "faction": "krampus-compliance-authority",
+        "affiliation": "krampus-compliance-authority",
         "attack_type": "slash",
+        "version": "2.5",
         "portrait": "characters/portraits/zhao.png"
       }
     },
@@ -641,8 +782,11 @@
       "attributes": "ether",
       "extra": {
         "rank": "S",
-        "faction": "neps",
+        "rarity": "S-Rank",
+        "faction": "criminal-investigation-special-response-team",
+        "affiliation": "criminal-investigation-special-response-team",
         "attack_type": "pierce",
+        "version": "1.0",
         "portrait": "characters/portraits/zhu-yuan.png"
       }
     },
@@ -654,35 +798,12 @@
       "attributes": "ether",
       "extra": {
         "rank": "S",
-        "faction": "unknown",
+        "rarity": "S-Rank",
+        "faction": "angels-of-delusion",
+        "affiliation": "angels-of-delusion",
         "attack_type": "unknown",
+        "version": "2.6",
         "portrait": "characters/portraits/aria.png"
-      }
-    },
-    {
-      "id": "phaethon",
-      "name": "Phaethon",
-      "file": "characters/phaethon.png",
-      "specialty": "defense",
-      "attributes": "ice",
-      "extra": {
-        "rank": "A",
-        "faction": "victoria housekeeping",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/phaethon.png"
-      }
-    },
-    {
-      "id": "zenless-zone-zero",
-      "name": "Zenless Zone Zero",
-      "file": "characters/zenless-zone-zero.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
-      "extra": {
-        "rank": "A",
-        "faction": "unknown",
-        "attack_type": "unknown",
-        "portrait": "characters/portraits/zenless-zone-zero.png"
       }
     }
   ]
