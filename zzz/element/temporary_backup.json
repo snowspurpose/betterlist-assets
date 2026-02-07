@@ -40,7 +40,7 @@
       "name": "Alice Thymefield",
       "file": "characters/alice-thymefield.png",
       "specialty": "anomaly",
-      "attributes": "ice",
+      "attributes": "physical",
       "extra": {
         "rank": "S",
         "faction": "unknown",
@@ -586,7 +586,7 @@
       "name": "Ye Shunguang",
       "file": "characters/ye-shunguang.png",
       "specialty": "attack",
-      "attributes": "unknown",
+      "attributes": "honed-edge",
       "extra": {
         "rank": "S",
         "faction": "unknown",
@@ -611,8 +611,8 @@
       "id": "yixuan",
       "name": "Yixuan",
       "file": "characters/yixuan.png",
-      "specialty": "unknown",
-      "attributes": "unknown",
+      "specialty": "rupture",
+      "attributes": "auric-ink",
       "extra": {
         "rank": "S",
         "faction": "unknown",
